@@ -1,0 +1,42 @@
+{
+  "obsidian-languagetool-plugin:ltjump-to-next-suggestion": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "obsidian-languagetool-plugin:ltjump-to-previous-suggestion": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ],
+  "obsidian-languagetool-plugin:ltaccept-suggestion-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "obsidian-languagetool-plugin:ltaccept-suggestion-2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "obsidian-languagetool-plugin:ltaccept-suggestion-3": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ]
+}
