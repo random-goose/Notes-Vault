@@ -137,5 +137,4 @@ In this approach, all the files in a directory are maintained as singly linked l
 #### Hash Table
 To overcome the drawbacks of singly linked list implementation of directories, this is an alternative approach which is hash table.
 This approach suggests to use hash table along with linked lists, A key value pair for each file in the directory gets generated and stored in the hash table. This key can be determined by applying the hash on the file name while the key key points ot the ccorrespinding file stored in the directory.
-Now searching becomes efficient due tot he fact that now, entire list will not be searched on every operation. Only hash table entries are checked using the key and if an enrty found then the corresponsing file will be fetched using teh value.
-
+Now searching becomes efficient due to the fact that now, entire list will not be searched on every operation. Only hash table entries are checked using the key and if an entry found then the corresponding file will be fetched using the value.
