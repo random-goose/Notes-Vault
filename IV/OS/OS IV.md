@@ -126,7 +126,7 @@ In this approach, the free disk blocks are linked together in the form of a link
 - Counting:
 	Because free space is frequently contiguously used and freed with contiguous allocation and deletion, keep the address of the first free block and the count of following free blocks
 
-### Directory Implementation
+# Directory Implementation
 
 #### Linear List
 In this approach, all the files in a directory are maintained as singly linked list. Each file contains the pointers to the data blocks which are assigned to it and the next file in the directory.
