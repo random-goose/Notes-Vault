@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "b870c6e5623818d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f254b62ac3e5f98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ac1f79da30d42f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IV/OS/OS III.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e282f6ce75f2b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a1e9847a58f7a5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13501b3924e94b63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1aa923a034ee485",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd65769771e38e55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c4a90261e8b5f5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbd101da17b088a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "110c26d439beabf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IV/OS/OS III.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4362510ba419b64e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IV/OS/OS III.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e6e98479fcb784d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e854c8c9c764167b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IV/OS/OS III.md"
+              }
+            }
+          },
+          {
+            "id": "b21e33e0510d376d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13501b3924e94b63",
+  "lastOpenFiles": [
+    "IV/OS/OS III.md",
+    "IV/OS",
+    "IV/OS/OS To-Do.md",
+    "IV/OS/OS IV.md",
+    "IV/OS/OS III.md",
+    "IV/OS/OS II.md",
+    "IV/OS/OS I.md",
+    "Untitled",
+    "IV"
+  ]
+}
