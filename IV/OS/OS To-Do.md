@@ -18,7 +18,6 @@
 - [x] SJF
 - [x] SJRF
 - [x] RR
-- [ ] Real-Time Scheduling
 - [ ] IPC
 - [ ] Precedence Graph
 - [ ] Critical Section

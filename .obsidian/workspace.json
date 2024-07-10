@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV/OS/OS III.md",
+                "file": "IV/OS/OS V.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,23 +93,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "110c26d439beabf0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "IV/OS/OS IV.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "4862fad9e4ed3b47",
             "type": "leaf",
             "state": {
@@ -123,12 +105,20 @@
             }
           },
           {
+            "id": "b21e33e0510d376d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "4362510ba419b64e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV/OS/OS IV.md",
+                "file": "IV/OS/OS V.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,25 +136,39 @@
             }
           },
           {
+            "id": "110c26d439beabf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IV/OS/OS V.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7683b3aa5247df6e",
+        "type": "tabs",
+        "children": [
+          {
             "id": "e854c8c9c764167b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV/OS/OS IV.md"
+                "file": "IV/OS/OS V.md"
               }
             }
-          },
-          {
-            "id": "b21e33e0510d376d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,11 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b303ebc86c7b4a9c",
+  "active": "2ac1f79da30d42f3",
   "lastOpenFiles": [
-    "IV/OS/OS III.md",
-    "IV/OS/OS To-Do.md",
     "IV/OS/OS IV.md",
+    "IV/OS/OS To-Do.md",
+    "IV/OS/OS V.md",
     "Untitled.md",
     "Pics/Pasted image 20240710152420.png",
     "Pics/Pasted image 20240710152244.png",

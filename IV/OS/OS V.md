@@ -1,4 +1,4 @@
-### Disk Management
+# Disk Management
 
 #### Formatting
 A magnetic is a blank slate, it is just a platter of magnetic recording material. Before a disk can store data, it must be divided into sectors that the disk controller can read and write. This process is called low level formatting for each sector. The data structure for a sector consists of a header, a data area, and a trailer. The header and trailer contain info used by the disk controller, such as sector number and an Error Correction Code (ECC)
@@ -30,3 +30,21 @@ Before it can be used to hold files, the OS needs to record its own data structu
 - There is a dedicated SS on the disk
 - It is slower than RAM, so excessive swapping might hinder performance
 - Modern OS's use algorithms to efficiently use swap space
+
+
+# Disk Structure
+
+- Platter
+- Spinlde
+- Track
+- Sector
+- Cylinder
+- RW Head
+- Arm Assembly
+
+# Disk Scheduling
+
+- FCFS - you know how it is
+- SSTF - Shortest Seek Time First
+- SCAN - Middle - Extreme left - Extreme Right
+- C-SCAN - CIrcular - Middle - Extreme left (teleport to) Extreme right - Middle
