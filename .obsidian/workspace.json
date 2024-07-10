@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e1d7d4469a5adcf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b303ebc86c7b4a9c",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV/OS/OS III.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV/OS/OS III.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV/OS/OS III.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -184,12 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ac1f79da30d42f3",
+  "active": "e1d7d4469a5adcf0",
   "lastOpenFiles": [
+    "IV/OS/OS III.md",
+    "Untitled.md",
     "IV/OS/OS V.md",
     "IV/OS/OS_To-Do.md",
     "Pics/Pasted image 20240710184651.png",
-    "IV/OS/OS III.md",
     "IV/OS/OS IV.md",
     "Pics/Pasted image 20240710152420.png",
     "Pics/Pasted image 20240710152244.png",
