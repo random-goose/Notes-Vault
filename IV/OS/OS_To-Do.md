@@ -29,7 +29,7 @@
 ## III
 - [ ] Deadlock
 - [ ] Prevention and Avoidance
-- [ ] Banker's Algo
+- [x] Banker's Algo
 - [ ] CSP
 - [x] Memory Allocation
 - [ ] Fragmentation
