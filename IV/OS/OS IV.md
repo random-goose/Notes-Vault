@@ -53,7 +53,7 @@ A file is a collection of similar records. A record is a collection of related f
 	2. Make an entry for a new file in the directory which includes the name, path etc.
 - **Writing:** To write to a file, we have to know the name of the file and the information to be written, then we send a write pointer to the appropriate and write to its place
 - **Reading:** To read a file, firstly search the directories and locate the file, then we keep a read pointer to the location of that file and once the read operation is done, it is moved
-- **Repositioning:** The directory i indexed and the file is found, and the current file position is given a new value
+- **Repositioning:** The directory I indexed and the file is found, and the current file position is given a new value
 - **Deleting:** To delete the file, we first locate it and then release the file space and erase the directory entry of that file
 - **Truncating:** To truncate a file, we remove the contents of the file, but keep the metadata and attributes
 
@@ -96,7 +96,7 @@ Advantages
 - Efficient Space Utilization
 Problems
 - Only Sequential Access
-- locating a block can take many IOps
+- locating a block can take many IOPS
 - Pointer Reliability
 - 
 
@@ -129,12 +129,12 @@ In this approach, the free disk blocks are linked together in the form of a link
 # Directory Implementation
 
 #### Linear List
-In this approach, all the files in a directory are maintained as singly linked list. Each file contains the pointers to the data blocks which are assigned to it and the next file in the directory.
+In this approach, all the files in a directory are maintained as a singly linked list. Each file contains the pointers to the data blocks which are assigned to it and the next file in the directory.
 
 - When a new file is created, then the entire list is checked whether the new file name is matching an existing one, and if it doesn't exist the file can be created either at the start or the end of the list.
 - The list needs to be traversed in case of every operation on the files, causing some indecency.
 
 #### Hash Table
 To overcome the drawbacks of singly linked list implementation of directories, this is an alternative approach which is hash table.
-This approach suggests to use hash table along with linked lists, A key value pair for each file in the directory gets generated and stored in the hash table. This key can be determined by applying the hash on the file name while the key key points ot the ccorrespinding file stored in the directory.
+This approach suggests to use hash table along with linked lists, A key value pair for each file in the directory gets generated and stored in the hash table. This key can be determined by applying the hash on the file name, while the key points to the corresponding file stored in the directory.
 Now searching becomes efficient due to the fact that now, entire list will not be searched on every operation. Only hash table entries are checked using the key and if an entry found then the corresponding file will be fetched using the value.

@@ -32,7 +32,7 @@
 - [ ] Prevention and Avoidance
 - [ ] Banker's Algo
 - [ ] CSP
-- [ ] Memory Allocation
+- [x] Memory Allocation
 - [ ] Fragmentation
 - [ ] Virtual Memory & Maps
 
