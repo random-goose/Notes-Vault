@@ -27,7 +27,7 @@
 - [ ] Barber Shop
 
 ## III
-- [ ] Deadlock
+- [x] Deadlock
 - [ ] Prevention and Avoidance
 - [x] Banker's Algo
 - [ ] CSP
