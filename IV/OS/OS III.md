@@ -20,3 +20,4 @@ graph TD
 - Used by mainstream OS like Windows or GNU + Linux
 - Because deadlocks are a very, very rare occurance, ignoring them and performing a full system reboot is actually a viable option
 ## Deadlock Avoidance / Detection - Banker's Algo
+
