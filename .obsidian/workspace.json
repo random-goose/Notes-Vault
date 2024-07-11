@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV/JAVA/Java II 1.md",
+                "file": "IV/JAVA/Java II.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV/JAVA/Java II 1.md",
+                "file": "IV/JAVA/Java II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV/JAVA/Java II 1.md",
+                "file": "IV/JAVA/Java II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV/JAVA/Java II 1.md"
+                "file": "IV/JAVA/Java II.md"
               }
             }
           }
@@ -171,11 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1d7d4469a5adcf0",
+  "active": "b21e33e0510d376d",
   "lastOpenFiles": [
     "IV/JAVA/Java I.md",
     "IV/JAVA/Java II.md",
-    "IV/JAVA/Java II 1.md",
+    "IV/JAVA/Java II.md",
     "IV/JAVA/Java To-DO.md",
     "IV/OS/OS_To-Do.md",
     "Untitled.md",

@@ -32,6 +32,7 @@ They are also called Access Specifiers, they determine the visibility and access
 	    public void publicMethod() { }
 	}
 ```
+
 - Protected
 	Members are accessible withing the same package and subclasses, even if they are in different places
 ```Java
@@ -40,6 +41,7 @@ They are also called Access Specifiers, they determine the visibility and access
 	    protected void protectedMethod() { }
 	}
 ```
+
 - Default
 	members are only accessible within the same package, this is called `package-private` access
 	```Java
@@ -48,6 +50,7 @@ They are also called Access Specifiers, they determine the visibility and access
 	    void defaultMethod() { } // No access modifier
 	}
 ```
+
 - Private
 	Members are accessible only within the class where they are defined in
 	```Java
