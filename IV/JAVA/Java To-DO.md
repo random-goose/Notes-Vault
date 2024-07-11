@@ -11,10 +11,10 @@
 - [x] console input
 - [x] Constructors
 - [x] **Garbage Collection**
-- [ ] String & String Builder Class
+- [x] String & String Builder Class
 
 ## II
-- [ ] Inheritance
+- [x] Inheritance
 - [ ] Member access rules
 - [ ] Super keyword
 - [ ] Final Class

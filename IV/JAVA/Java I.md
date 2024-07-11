@@ -18,13 +18,13 @@ Java is compiled into Byte Code, which is then run by the JVM. It borrows syntax
 - **double:** 64-bit IEEE 754
 - **Boolean:** true / false
 - **char:** single Unicode char
-- **String:**  sequence of characters in double quotes
+- **String:** sequence of characters in double quotes
 
 ## Buzzwords
-- **Object Oriented:** Everything in Java is an object
+- **Object-Oriented:** Everything in Java is an object
 - **Simple:** Syntax based C, no pointers
 - **Secured:**
-- **Platform Independant:**
+- **Platform Independent:**
 - **Robust:**
 - **Portable:**
 - **Architecture Neutral:**
@@ -80,16 +80,16 @@ public class Main {
 ```
 
 ## Garbage Collection
-In java, garbage means unreference objects. It is a process of reclaiming runtime unused memory automatically. It other words, it is a way to destroy the unused objects.
+In java, garbage means unreferenced objects. It is a process of reclaiming runtime unused memory automatically. In other words, it is a way to destroy the unused objects.
 To do so, we would use the free() function in C, but in java, this is performed automatically. So, we can say that java does a better job at garbage collection. 
 
 Advantages of Garbage Collection:
-- It makes Java memory efficient because garbage collection removes the unreference objects from the memory heap.
-- It is automatically done by the garbage collector (a part of JVM) so we dont need to do any extra efforts.
+- It makes Java memory efficient because garbage collection removes the unreferenced objects from the memory heap.
+- It is automatically done by the garbage collector (a part of JVM) so we don't need to do any extra efforts.
 
-How can Objectsbe unreferenced:
+How can Objects be unreferenced:
 - By nulling the reference
-- By assigining a reference to another
+- By assigning a reference to another
 - By creating an anonymous object
 
 Null Reference:
@@ -109,29 +109,6 @@ Anonymous Object:
 ```Java
 new Employee();
 ```
-
-## Types of Inheritance in Java
-
-Single
-```mermaid
-graph TD
-	A[Parent Class] --> B[Child Class]
-```
-
-Multilevel
-```mermaid
-graph TD
-	A[Parent Class] --> B[Intermediate Class]
-	B --> C[Child Class]
-```
-
-Hierarchical
-```mermaid
-graph TD
-	A[Parent Class] --> B[Child Class]
-	A --> C[Child Class]
-```
-
 
 ## String & StringBuilder Class
 
@@ -165,3 +142,10 @@ public class StringBuilderLantidi {
 ```
 
 #### Key Differences
+|          \        | String                                                    | StringBuilder                                                                  |
+| ----------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Mutability**    | Immutable                                                 | Mutable                                                                        |
+| **Performance**   | Inefficient for heavy modifications (creates new objects) | Efficient for heavy modifications (modifies in place)                          |
+| **Thread Safety** | Thread-safe (immutable)                                   | Not thread-safe (mutable)                                                      |
+| **Usage**         | Use when you need a constant, unchanging string           | Use when you need to modify the string frequently and performance is a concern |
+
