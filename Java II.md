@@ -42,5 +42,18 @@ They are also called Access Specifiers, they determine the visibility and access
 ```
 - Default
 	members are only accessible within the same package, this is called `package-private` access
+	```Java
+	public class MyClass {
+	    int defaultField; // No access modifier
+	    void defaultMethod() { } // No access modifier
+	}
+```
 - Private
 	Members are accessible only within the class where they are defined in
+	```Java
+	public class MyClass {
+	    private int privateField;
+	    private void privateMethod() { }
+	}
+```
+

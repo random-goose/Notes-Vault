@@ -153,8 +153,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7683b3aa5247df6e",
@@ -186,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00fd8f65a53b114e",
+  "active": "b21e33e0510d376d",
   "lastOpenFiles": [
     "IV/JAVA/Java I.md",
     "Java II.md",
