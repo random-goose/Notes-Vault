@@ -9,8 +9,8 @@
 - [x] sample programs
 - [x] arrays
 - [x] console input
-- [ ] Constructors
-- [ ] **Garbage Collection**
+- [x] Constructors
+- [x] **Garbage Collection**
 - [ ] String & String Builder Class
 
 ## II

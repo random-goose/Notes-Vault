@@ -98,4 +98,38 @@ Employee e = new Employee();
 e = null;
 ```
 
-Ass
+Assigning a reference to another:
+```Java
+Employee e1 = new Employee();
+Employee e2 = new Employee();
+e1 = e2
+```
+
+Anonymous Object:
+```Java
+new Employee();
+```
+
+## Types of Inheritance in Java
+
+Single
+```mermaid
+graph TD
+	A[Parent Class] --> B[Child Class]
+```
+
+Multilevel
+```mermaid
+graph TD
+	A[Parent Class] --> B[Intermediate Class]
+	B --> C[Child Class]
+```
+
+Hierarchical
+```mermaid
+graph TD
+	A[Parent Class] --> B[Child Class]
+	A --> C[Child Class]
+```
+
+
