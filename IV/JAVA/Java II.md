@@ -53,10 +53,10 @@ They are also called Access Specifiers, they determine the visibility and access
 
 - Private
 	Members are accessible only within the class where they are defined in
-	```Java
+
+```Java
 	public class MyClass {
 	    private int privateField;
 	    private void privateMethod() { }
 	}
 ```
-
