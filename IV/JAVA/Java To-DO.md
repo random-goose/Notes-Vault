@@ -15,7 +15,7 @@
 
 ## II
 - [x] Inheritance
-- [ ] Member access rules
+- [x] Member access rules
 - [ ] Super keyword
 - [ ] Final Class
 - [ ] Object class
