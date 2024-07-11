@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV/JAVA/Java I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00fd8f65a53b114e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java II.md",
+                "file": "IV/JAVA/Java II 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java II.md",
+                "file": "IV/JAVA/Java II 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java II.md",
+                "file": "IV/JAVA/Java II 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java II.md"
+                "file": "IV/JAVA/Java II 1.md"
               }
             }
           }
@@ -185,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b21e33e0510d376d",
+  "active": "e1d7d4469a5adcf0",
   "lastOpenFiles": [
     "IV/JAVA/Java I.md",
-    "Java II.md",
+    "IV/JAVA/Java II.md",
+    "IV/JAVA/Java II 1.md",
     "IV/JAVA/Java To-DO.md",
     "IV/OS/OS_To-Do.md",
     "Untitled.md",
@@ -211,7 +198,6 @@
     "IV/OR/OR IV.md",
     "IV/OR/OR I.md",
     "IV/OR",
-    "IV/JAVA/Java II.md",
     "IV/JAVA",
     "IV/OS",
     "IV/OS/OS II.md",
