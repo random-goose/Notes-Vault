@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "IV/JAVA/Java I.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -105,18 +106,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4862fad9e4ed3b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IV/OS/OS_To-Do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b21e33e0510d376d",
             "type": "leaf",
             "state": {
@@ -125,12 +114,24 @@
             }
           },
           {
+            "id": "27c6c9e53d68d5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IV/JAVA/Java To-DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4362510ba419b64e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "IV/JAVA/Java To-DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "IV/JAVA/Java To-DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7683b3aa5247df6e",
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "IV/JAVA/Java To-DO.md"
               }
             }
           }
@@ -184,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +198,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1d7d4469a5adcf0",
+  "active": "27c6c9e53d68d5df",
   "lastOpenFiles": [
-    "IV/OS/OS III.md",
-    "Untitled.md",
-    "IV/OS/OS V.md",
+    "IV/JAVA/Java I.md",
     "IV/OS/OS_To-Do.md",
+    "Untitled.md",
+    "IV/OS/OS III.md",
+    "IV/OS/OS V.md",
     "Pics/Pasted image 20240710184651.png",
     "IV/OS/OS IV.md",
     "Pics/Pasted image 20240710152420.png",
@@ -221,7 +224,6 @@
     "IV/OR",
     "IV/JAVA/Java To-DO.md",
     "IV/JAVA/Java II.md",
-    "IV/JAVA/Java I.md",
     "IV/JAVA",
     "IV/OS",
     "IV/OS/OS II.md",

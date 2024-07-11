@@ -9,27 +9,29 @@ Java is compiled into Byte Code, which is then run by the JVM. It borrows syntax
 **JVM:** Java Virtual Machine is a *platform-independent* abstract machine that is responsible for executing Java programs line by line. It is contained or in-built in both JDK and JRE.
 
 ## Data Types
-- byte - whole number from -127 to 127
-- short - whole number from -32768 to 32767
-- int - whole number from -2B to 2B
-- long - whole number from -9Q to 9Q
-- float - 32-bit IEEE 754
-- double- 64-bit IEEE 754
-- Boolean - true / false
-- char - single Unicode char
-- String - sequence of characters in double quotes
+- **byte:** whole number from -127 to 127
+- **short:** whole number from -32768 to 32767
+- **int:** whole number from -2B to 2B
+- **long:** whole number from -9Q to 9Q
+- **float:** 32-bit IEEE 754
+- **double:** 64-bit IEEE 754
+- **Boolean:** true / false
+- **char:** single Unicode char
+- **String:**  sequence of characters in double quotes
 
 ## Buzzwords
-- Simple
-- Object-Oriented
-- Distributed
-- Multithreaded
-- Dynamic
-- Robust
-- Secure
-- Portable
-- High Performance
-- Interpreted
+- **Object Oriented:** Everything in Java is an object
+- **Simple:** Syntax based C, no pointers
+- **Secured:**
+- **Platform Independant:**
+- **Robust:**
+- **Portable:**
+- **Architecture Neutral:**
+- **Dynamic:**
+- **Interpreted:**
+- **High Performance:**
+- **Multithreaded:**
+- **Distributed:**
 
 ## Type Casting
 It is the process of converting a value from one data type to another data type. There are two methods:
