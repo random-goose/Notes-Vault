@@ -133,3 +133,35 @@ graph TD
 ```
 
 
+## String & StringBuilder Class
+
+### String Class
+The string class represents immutable character sequences. Once a string object in created, it cannot be changed. Any modifications to a string object creates a new string object.
+
+```Java
+public class StringLantidi {
+    public static void main(String[] args) {
+        String str1 = "Kuthha";
+        String str2 = str1 + " Chhekestaaru";
+
+        System.out.println("str1: " + str1);
+        System.out.println("str2: " + str2);
+    }
+}
+```
+
+### StringBuilder Class
+The StringBuilder class represents mutable sequences of characters. Unlike a String, a StringBuilder can be modified after it is created, which makes it more efficient for scenarios involving numerous string manipulations
+
+```Java
+public class StringBuilderLantidi {
+    public static void main(String[] args) {
+        StringBuilder sb = new StringBuilder("Kuthha");
+        sb.append(" Chhekestaaru");
+
+        System.out.println("StringBuilder: " + sb.toString());
+    }
+}
+```
+
+#### Key Differences
