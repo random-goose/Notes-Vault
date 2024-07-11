@@ -81,4 +81,4 @@ public class Main {
 
 ## Garbage Collection
 In java, garbage means unreference objects. It is a process of reclaiming runtime unused memory automatically. It other words, it is a way to destroy the unused objects.
-To do so, 
+To do so, we would use the free() function in C, but in java
