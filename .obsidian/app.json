@@ -2,7 +2,11 @@
   "spellcheckDictionary": [
     "DMAC",
     "StringBuilder",
-    "upcasting"
+    "upcasting",
+    "SQLException",
+    "IOException",
+    "RuntimeException",
+    "throwable"
   ],
   "spellcheck": false
 }
