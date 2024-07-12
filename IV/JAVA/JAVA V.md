@@ -15,8 +15,8 @@ Two types of events:
 ## Event Handling
 - **Event Source:** the object that generated the event (like a button getting clicked)
 - **Event object:** An instance of `ActionEvent` Is created when the button is clicked, containing information about the click event
-- **Event Listener:** The class `SimpleEventListener`  implements `ActionListner` and therefore acts as the listener
-- **Event Handling Method:** The `actionPerformed` method is invoked wehn the button is clicked, and performs the required operation.
+- **Event Listener:** The class `SimpleEventListener` implements `ActionListner` and therefore acts as the listener
+- **Event Handling Method:** The `actionPerformed` method is invoked when the button is clicked, and performs the required operation.
 
 
 ### Voting Eligibility AWT
@@ -25,68 +25,67 @@ Two types of events:
 import java.awt.*;
 import java.awt.event.*;
 
-public class VotingELigibility extends Frame implements ActionListenet {
-	private Label labe;
-	private TextField textField;
-	private Button submitButton;
-	
-	public votingEligibility() {
-		label = new Label("Enter your age: ");
-		textField = new TextField(3);
-		submitButton = new Button("Submit");
-		
-		setLayout(new FlowLayout());
-		add(label);
-		add(textField);
-		add(submitButton);
-		
-		submitButton.addActionListener(this);
-		
-		setTitle("Voting ELigibility Checker");
-		setSize(300,300);
-		setVisibility(true);
-		
-		addWindowListener(new WindowAdapter()) {
-			public void windowClosing(WindowEvent we) {
-				System.exit(0);
-			}
-		}
-	}
-	
-	public void actionPerformed(ActionEvent ae) {
-		try{
-			int age = Integer.ParseInt(textField.getText());
-			if (age>18) {
-				showMessage("ok");
-			}
-			else {
-				showMessage("not");
-			}
-		} catch (NumberFormatException e) {
-			showMessage("confusion");
-		}
-		
-	}
-	
-	private void showMessage(String message) {
-		Dialog dialog = new dialog(this, "Message:, true");
-		dialog.setLayout(new FlowLayout());
-		dialog.add(new Label(message));
-		Button ok = new Button("OK");
-		ok.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
-				dialog.setVisible(false);
-				dialog.dispose();
-			}
-		});
-		dialog.add(ok);
-		dialog.setSize(200,100);
-		dialog.setVisibility(true);
-	}
-	
-	public static void main (String[] args) {
-		votingEligibility();
-	}
+public class VotingEligibility extends Frame implements ActionListener {
+    private Label label;
+    private TextField textField;
+    private Button submitButton;
+
+    public VotingEligibility() {
+        label = new Label("Enter your age: ");
+        textField = new TextField(3);
+        submitButton = new Button("Submit");
+
+        setLayout(new FlowLayout());
+        add(label);
+        add(textField);
+        add(submitButton);
+
+        submitButton.addActionListener(this);
+
+        setTitle("Voting Eligibility Checker");
+        setSize(300, 300);
+        setVisible(true);
+
+        addWindowListener(new WindowAdapter() {
+            public void windowClosing(WindowEvent we) {
+                System.exit(0);
+            }
+        });
+    }
+
+    public void actionPerformed(ActionEvent ae) {
+        try {
+            int age = Integer.parseInt(textField.getText());
+            if (age > 18) {
+                showMessage("OK");
+            } else {
+                showMessage("Not OK");
+            }
+        } catch (NumberFormatException e) {
+            showMessage("Invalid input");
+        }
+    }
+
+    private void showMessage(String message) {
+        Dialog dialog = new Dialog(this, "Message", true);
+        dialog.setLayout(new FlowLayout());
+        dialog.add(new Label(message));
+        Button ok = new Button("OK");
+        ok.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                dialog.setVisible(false);
+                dialog.dispose();
+            }
+        });
+        dialog.add(ok);
+        dialog.setSize(200, 100);
+        dialog.setVisible(true);
+    }
+
+    public static void main(String[] args) {
+        VotingEligibility app = new VotingEligibility();
+    }
 }
+
 ```
 
