@@ -13,5 +13,5 @@ Two types of events:
 	- Component
 
 ## Event Handling
-- Event Source: the component that generated the event (like a button getting clicked)
+- Event Source: the object that generated the event (like a button getting clicked)
 - **Event object:** 
