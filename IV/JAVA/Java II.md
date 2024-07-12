@@ -215,3 +215,4 @@ public class DynamicBindingExample {
 }
 ```
 
+## Abstract Class

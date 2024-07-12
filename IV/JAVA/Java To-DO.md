@@ -19,7 +19,7 @@
 - [x] Super keyword
 - [x] Final Class
 - [x] Object class
-- [ ] Dynamic Binding
+- [x] Dynamic Binding
 - [x] Method overloading
 - [ ] Abstract Class
 - [ ] Interface
