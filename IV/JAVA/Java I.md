@@ -34,6 +34,7 @@ Java is compiled into Byte Code, which is then run by the JVM. It borrows syntax
 - **Multithreaded:**
 - **Distributed:**
 
+OSSPRPADIHMD
 ## Type Casting
 It is the process of converting a value from one data type to another data type. There are two methods:
 
