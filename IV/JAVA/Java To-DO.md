@@ -28,8 +28,8 @@
 - [ ] Package
 
 ## III
-- [ ] Exception Handling
-- [ ] Try Catch
+- [x] Exception Handling
+- [x] Try Catch
 - [ ] Throw Throws
 - [ ] Re-Throwing
 - [ ] Exception Sub Classes

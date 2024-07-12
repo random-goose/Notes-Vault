@@ -63,3 +63,35 @@ public class Bava {
     }
 }
 ```
+
+### Throw
+```Java
+public class ThrowBava{
+	public static void validate(int age) {
+		if (age < 18) {
+			throw new IllegalArguementException("No");
+		}
+		else {
+			System.out.println("Ok");
+		}
+	}
+	public static void main (Steing[] args) {
+		try{
+			validate(15);
+		} catch (IllegalArguementError e ) {
+			Sstem.out.println(e.getMessage());
+		}
+	}
+}
+```
+
+### Throws
+```Java
+public class ThrowBava {
+	public static void validate(int age) throws IllegalArgumentException {
+	}
+}
+// migitha motham same
+```
+
+
