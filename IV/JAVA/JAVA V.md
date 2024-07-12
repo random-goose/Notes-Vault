@@ -14,4 +14,4 @@ Two types of events:
 
 ## Event Handling
 - Event Source: the object that generated the event (like a button getting clicked)
-- **Event object:** 
+- **Event object:** An instance of `ActionEvent` Is created when 
