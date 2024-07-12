@@ -13,5 +13,7 @@ Two types of events:
 	- Component
 
 ## Event Handling
-- Event Source: the object that generated the event (like a button getting clicked)
-- **Event object:** An instance of `ActionEvent` Is created when 
+- **Event Source:** the object that generated the event (like a button getting clicked)
+- **Event object:** An instance of `ActionEvent` Is created when the button is clicked, containing information about the click event
+- **Event Listener:** The class `SimpleEventListener`  implements `ActionListner` and therefore acts as the listener
+- **Event Handling Method:** The `actionPerformed` method is invoked wehn the button is clicked, and performs the required operation.
