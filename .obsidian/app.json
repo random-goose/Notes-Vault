@@ -19,7 +19,9 @@
     "FileReader",
     "FileWriter",
     "clalss",
-    "AWT"
+    "AWT",
+    "cmponents",
+    "TextFields"
   ],
   "spellcheck": false
 }

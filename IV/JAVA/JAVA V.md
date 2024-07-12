@@ -91,8 +91,27 @@ public class VotingEligibility extends Frame implements ActionListener {
 
 # Applet
 It is a type of java program that is designed to be embedded within a web page and run in a web browser. It's a java application which extends the java.applet.Applet class or implements the javax.swing.JApplet class.
-Applets often create GUIs using cmponents such as TextFields, buttons, and images to make it more interctable for the end user.
+Applets often create GUIs using components such as TextFields, buttons, and images to make it more intractable for the end user.
 They are event driven applications such as mouse clicks, keyboard inputs and network requests.
 
 ## Life Cycle of Applet
-It is the sequence of events that occur from the initialization to teh termination od an applet. 
+It is the sequence of events that occur from the initialization to the termination of an applet.
+
+1. Initialization - init()
+	- Is called when the applet is first loaded into memory
+	- it initializes the appler, sets up parameters, and performs any necessary setup tasks
+	- called only once in the life of an applet
+2. Start - start()
+	- Is called after init()
+	- used to start the execution fo the applet code
+	- can be called multiple times, as an applet can be started and stopped
+3. Running - paint() & repaint
+	- Once it is running, we can use the paint() function multiple times to load and display the gui elements of the applet
+4. Stop - stop()
+	- when the stop() method is claled, it is no logner visible on the screen
+	- this happens when teh user navigates away from the applet or minimizes the window
+	- we can also use this to suspend any ongoing activities or execution activities which should not continue when the applet is not visible
+5. Destroy - destroy()
+	- it is called when the applet needs to be unloaded from memory
+	- it releases any resources and performs cleanup tasks, where it closes all files and db connections
+	
