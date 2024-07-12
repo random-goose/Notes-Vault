@@ -89,3 +89,10 @@ public class VotingEligibility extends Frame implements ActionListener {
 
 ```
 
+# Applet
+It is a type of java program that is designed to be embedded within a web page and run in a web browser. It's a java application which extends the java.applet.Applet class or implements the javax.swing.JApplet class.
+Applets often create GUIs using cmponents such as TextFields, buttons, and images to make it more interctable for the end user.
+They are event driven applications such as mouse clicks, keyboard inputs and network requests.
+
+## Life Cycle of Applet
+It is the sequence of events that occur from the initialization to teh termination od an applet. 
