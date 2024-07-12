@@ -22,3 +22,44 @@ The classes which directly inherit throwable class except RuntimeException are k
 - IOException
 - SQLException
 ### Unchecked
+The classes which inherit RuntimeException are knows as unchecked exceptions. They are not checked at compile-time, but are checked at runtime.
+- ArrayOutOfBoundsException
+- NullPointerException
+- ArithmeticException
+
+### Error
+An error is unrecoverable.
+- OurOfMemoryError
+- VirtualMachineError
+- AssertionError
+
+
+### Keywords
+| Keyword  | Meaning                                                                                                                                                                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| try      | The try keyword is used to specify a block where we should place exception code. The must be followed by catch or finally.                                                                                                                       |
+| catch    | This is used to handdle the exception, it must be preceded by a try block                                                                                                                                                                        |
+| fianally | It is used to execute code regardless of the outcome of the exception or handling                                                                                                                                                                |
+| throw    | It is used to throw an exception                                                                                                                                                                                                                 |
+| throws   | It is used to declare exceptions, it doesnt throw an exception. It specifies that there might be an exception that can orrur in this method, it is present in the method signature. <br>`returnType methodName(parameters) throws ExceptionType` |
+
+### Example Code
+```Java
+public class Bava {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 0;
+        int result = 0;
+
+        try {
+            result = a / b;
+        } catch (ArithmeticException e) {
+            System.out.println(e);
+        } finally {
+            System.out.println("Execution complete.");
+        }
+
+        System.out.println("Result: " + result);
+    }
+}
+```

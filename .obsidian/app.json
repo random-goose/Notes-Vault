@@ -6,7 +6,14 @@
     "SQLException",
     "IOException",
     "RuntimeException",
-    "throwable"
+    "throwable",
+    "ArithmeticException\n",
+    "NullPointerException",
+    "ArrayOutOfBoundsException",
+    "AssertionError",
+    "VirtualMachineError",
+    "OurOfMemoryError",
+    "ArithmeticException"
   ],
   "spellcheck": false
 }

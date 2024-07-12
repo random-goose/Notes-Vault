@@ -21,8 +21,8 @@
 - [x] Object class
 - [x] Dynamic Binding
 - [x] Method overloading
-- [ ] Abstract Class
-- [ ] Interface
+- [x] Abstract Class
+- [x] Interface
 - [ ] Inner Class
 - [ ] Static Class
 - [ ] Package
