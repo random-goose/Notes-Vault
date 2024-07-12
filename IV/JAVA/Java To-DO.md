@@ -18,9 +18,9 @@
 - [x] Member access rules
 - [x] Super keyword
 - [x] Final Class
-- [ ] Object class
+- [x] Object class
 - [ ] Dynamic Binding
-- [ ] Method overloading
+- [x] Method overloading
 - [ ] Abstract Class
 - [ ] Interface
 - [ ] Inner Class

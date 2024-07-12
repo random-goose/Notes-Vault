@@ -121,4 +121,97 @@ Methods:
 - public int hashCode()
 - public boolean equals()
 - public String toString()
-- publi final void notify()
+- public final void notify()
+
+## Method overloading
+```Java
+class MathOperation {
+    int add(int a, int b) {
+        return a + b;
+    }
+
+    int add(int a, int b, int c) {
+        return a + b + c;
+    }
+
+    double add(double a, double b) {
+        return a + b;
+    }
+}
+
+public class MethodOverloadingExample {
+    public static void main(String[] args) {
+        MathOperation operation = new MathOperation();
+
+        System.out.println("Addition of two integers: " + operation.add(10, 20));
+        System.out.println("Addition of three integers: " + operation.add(10, 20, 30));
+        System.out.println("Addition of two doubles: " + operation.add(10.5, 20.5));
+    }
+}
+```
+
+## Method Overriding
+```Java
+class Animal {
+    void sound() {
+        System.out.println("Animal makes a sound");
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    void sound() {
+        System.out.println("Dog barks");
+    }
+}
+
+public class MethodOverridingExample {
+    public static void main(String[] args) {
+        Animal animal = new Animal();
+        animal.sound();
+
+        Dog dog = new Dog();
+        dog.sound();
+
+        Animal animalDog = new Dog();
+        animalDog.sound();
+    }
+}
+```
+
+## Dynamic Binding // Dynamic Method Dispatch
+
+```Java
+class Animal {
+    void sound() {
+        System.out.println("Animal makes a sound");
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    void sound() {
+        System.out.println("Dog barks");
+    }
+}
+
+class Cat extends Animal {
+    @Override
+    void sound() {
+        System.out.println("Cat meows");
+    }
+}
+
+public class DynamicBindingExample {
+    public static void main(String[] args) {
+        Animal myAnimal;
+
+        myAnimal = new Dog();
+        myAnimal.sound();
+
+        myAnimal = new Cat();
+        myAnimal.sound();
+    }
+}
+```
+
