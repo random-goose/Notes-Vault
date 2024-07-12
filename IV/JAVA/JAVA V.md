@@ -34,23 +34,25 @@ public class VotingELigibility extends Frame implements ActionListenet {
 		label = new Label("Enter your age: ");
 		textField = new TextField(3);
 		submitButton = new Button("Submit");
-
+		
 		setLayout(new FlowLayout());
 		add(label);
 		add(textField);
 		add(submitButton);
-
+		
+		submitButton.addActionListener(this);
+		
 		setTitle("Voting ELigibility Checker");
 		setSize(300,300);
 		setVisibility(true);
-
+		
 		addWindowListener(new WindowAdapter()) {
 			public void windowClosing(WindowEvent we) {
 				System.exit(0);
 			}
 		}
 	}
-
+	
 	public void actionPerformed(ActionEvent ae) {
 		try{
 			int age = Integer.ParseInt(textField.getText());
@@ -61,9 +63,30 @@ public class VotingELigibility extends Frame implements ActionListenet {
 				showMessage("not");
 			}
 		} catch (NumberFormatException e) {
-			
+			showMessage("confusion");
 		}
 		
 	}
+	
+	private void showMessage(String message) {
+		Dialog dialog = new dialog(this, "Message:, true");
+		dialog.setLayout(new FlowLayout());
+		dialog.add(new Label(message));
+		Button ok = new Button("OK");
+		ok.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				dialog.setVisible(false);
+				dialog.dispose();
+			}
+		});
+		dialog.add(ok);
+		dialog.setSize(200,100);
+		dialog.setVisibility(true);
+	}
+	
+	public static void main (String[] args) {
+		votingEligibility();
+	}
 }
 ```
+

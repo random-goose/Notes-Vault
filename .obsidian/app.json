@@ -18,7 +18,8 @@
     "FileOutputStream",
     "FileReader",
     "FileWriter",
-    "clalss"
+    "clalss",
+    "AWT"
   ],
   "spellcheck": false
 }
