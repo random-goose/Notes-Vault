@@ -1,7 +1,8 @@
 {
   "spellcheckDictionary": [
     "DMAC",
-    "StringBuilder"
+    "StringBuilder",
+    "upcasting"
   ],
   "spellcheck": false
 }

@@ -17,7 +17,7 @@
 - [x] Inheritance
 - [x] Member access rules
 - [x] Super keyword
-- [ ] Final Class
+- [x] Final Class
 - [ ] Object class
 - [ ] Dynamic Binding
 - [ ] Method overloading

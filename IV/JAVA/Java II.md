@@ -95,4 +95,30 @@ class SuperLantidi {
 
 
 ## Final Class
-It is a class that is declared with the final keyword. A final class cannot in
+It is a class that is declared with the final keyword. A final class cannot be inherited by any other class, it cannot be extended. A final class bust be complete, and cannot be abstract. All wrapper classes are final, such as String Integer etc. If we try to inherit a final class, the compiler will throw an error.
+
+```Java
+final class className 
+{
+    // Body of class
+}
+```
+
+
+## Object class
+The object class is the parent of all the classes in Java by default. In other words, it is the topmost class of Java.
+The object class is beneficial if you want to refer to any object whole type you don't know. The parent class reference variable can refer the child class object, known as upcasting.
+
+```mermaid
+graph TD
+	A[Object Class] --> B[...]
+	A --> C[...]
+	A --> D[...]
+```
+
+Methods:
+- public final class getClass()
+- public int hashCode()
+- public boolean equals()
+- public String toString()
+- publi final void notify()
