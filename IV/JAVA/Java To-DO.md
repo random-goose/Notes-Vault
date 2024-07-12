@@ -16,7 +16,7 @@
 ## II
 - [x] Inheritance
 - [x] Member access rules
-- [ ] Super keyword
+- [x] Super keyword
 - [ ] Final Class
 - [ ] Object class
 - [ ] Dynamic Binding

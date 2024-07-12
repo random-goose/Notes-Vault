@@ -72,35 +72,27 @@ Use of Super keyword:
 - super can be used to invoke immediate parent class constructor
 
 ``` Java
-class Person {
-    int id;
-    String name;
+class Animal {
+    String color = "Orange";
+}
 
-    Person(int id, String name) {
-        this.id = id;
-        this.name = name;
+class Dog extends Animal {
+    String color = "Brown";
+
+    void printColor() {
+        System.out.println(color);
+        System.out.println(super.color);
     }
 }
 
-class Emp extends Person {
-    float salary;
-
-    Emp(int id, String name, float salary) {
-        super(id, name); // Reusing parent constructor
-        this.salary = salary;
-    }
-
-    void display() {
-        System.out.println(id + " " + name + " " + salary);
-    }
-}
-
-class TestSuper {
-    public static void main(String[] args) {
-        Emp e1 = new Emp(1, "ankit", 45000f);
-        e1.display();
+class SuperLantidi {
+    public static void main(String args[]) {
+        Dog d = new Dog();
+        d.printColor();
     }
 }
 ```
 
 
+## Final Class
+It is a class that is declared with the final keyword. A final class cannot in
