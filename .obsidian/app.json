@@ -13,7 +13,9 @@
     "AssertionError",
     "VirtualMachineError",
     "OurOfMemoryError",
-    "ArithmeticException"
+    "ArithmeticException",
+    "FileInputStream",
+    "FileOutputStream"
   ],
   "spellcheck": false
 }
