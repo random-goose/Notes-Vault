@@ -15,7 +15,9 @@
     "OurOfMemoryError",
     "ArithmeticException",
     "FileInputStream",
-    "FileOutputStream"
+    "FileOutputStream",
+    "FileReader",
+    "FileWriter"
   ],
   "spellcheck": false
 }

@@ -52,3 +52,40 @@ They handle I/O of character data (text). They read and write in 16-bit Unicode.
 - FileWriter
 
 ### Example
+```Java
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class CharStreamExample {
+    public static void main(String[] args) {
+        FileReader fr = null;
+        FileWriter fw = null;
+
+        try {
+            fr = new FileReader("inputFile.txt");
+            fw = new FileWriter("outputFile.txt");
+
+            int charContent;
+            while ((charContent = fr.read()) != -1) {
+                fw.write(charContent);
+            }
+            System.out.println("File copied successfully using Character Streams.");
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (fr != null) {
+                    fr.close();
+                }
+                if (fw != null) {
+                    fw.close();
+                }
+            } catch (IOException ex) {
+                ex.printStackTrace();
+            }
+        }
+    }
+}
+```
+
