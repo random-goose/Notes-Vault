@@ -30,7 +30,7 @@
 ## III
 - [x] Exception Handling
 - [x] Try Catch
-- [ ] Throw Throws
+- [x] Throw Throws
 - [ ] Re-Throwing
 - [ ] Exception Sub Classes
 

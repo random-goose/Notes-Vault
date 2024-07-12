@@ -91,7 +91,7 @@ public class ThrowBava {
 	public static void validate(int age) throws IllegalArgumentException {
 	}
 }
-// migitha motham same
+// migitha motham sa
 ```
 
 
