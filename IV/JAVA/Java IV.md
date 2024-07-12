@@ -104,5 +104,42 @@ graph TD
 
 ## Drivers
 ### Type 1: JDBC ODBC bridge driver
-ODBC -> Open DB Connectivity
+ODBC → Open DB Connectivity
 This driver acts as a bridge between JDBC and ODBC drivers. It translates JDBC calls into ODBC calls, which are then handled by the ODBC drivers.
+
+```mermaid
+flowchart TD
+    A[JDBC Application] --> B[JDBC-ODBC Bridge Driver]
+    B --> C[ODBC Driver]
+    C --> D[Database]
+
+```
+
+### Type 2: Native API driver
+This driver converts JDBC calls into database-specific native API calls provided by the database vendor. This is partially written in Java and partly in native code.
+
+```mermaid
+flowchart TD
+    A[JDBC Application] --> B[Type-2 JDBC Driver]
+    B --> C[Native API]
+    C --> D[Database]
+
+```
+### Type 3: Network Protocol driver
+This driver translates JDBC calls into a database-independent network protocol, which is then converted into database-specific calls by a middleware server.
+
+```mermaid
+flowchart TD
+    A[JDBC Application] --> B[Type-3 JDBC Driver]
+    B --> C[Middleware Server]
+    C --> D[Database]
+
+```
+### Type 4: Thin driver
+This driver translated JDBC calls directly into database-specific calls without any translation. It is a fully Java based driver and communicates with the DB using the DB's network protocol.
+```mermaid
+flowchart TD
+    A[JDBC Application] --> B[Type-4 JDBC Driver]
+    B --> C[Database]
+
+```

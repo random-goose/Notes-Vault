@@ -40,7 +40,7 @@
 - [x] Text I/O
 - [x] Binary I/O
 - [ ] File Management
-- [ ] JDBC & Drivers
+- [x] JDBC & Drivers
 
 ## V
 - [ ] Applets
