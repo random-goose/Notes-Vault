@@ -89,3 +89,20 @@ public class CharStreamExample {
 }
 ```
 
+# JDBC
+It stands for Java DB Connectivity. It is a Java API to connect and execute queries with a Database. It is a specification from Sun that provides a standard abstraction for Java applications to communicate with various databases. Furthermore, it provides the language with connectivity standards. Moreover, it is used to write programs required to access databases.
+
+JDBC is an API used in Java programming to interact with databases. The classes and interfaces of JDBC allow the application to send requests made by users to the specified database.
+
+```mermaid
+graph TD
+	A[Application] --> B[JDBC API]
+	B --> C[JDBC Drivers]
+	C --> D[SQL]
+	C --> E[OracleDB]
+```
+
+## Drivers
+### Type 1: JDBC ODBC bridge driver
+ODBC -> Open DB Connectivity
+This driver acts as a bridge between JDBC and ODBC drivers. It translates JDBC calls into ODBC calls, which are then handled by the ODBC drivers.

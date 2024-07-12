@@ -35,10 +35,10 @@
 - [ ] Exception Sub Classes
 
 ## IV
-- [ ] Byte Streams
-- [ ] Char Streams
-- [ ] Text I/O
-- [ ] Binary I/O
+- [x] Byte Streams
+- [x] Char Streams
+- [x] Text I/O
+- [x] Binary I/O
 - [ ] File Management
 - [ ] JDBC & Drivers
 

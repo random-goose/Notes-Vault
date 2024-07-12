@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e2d1717e06fcb21b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "IV/JAVA/Java IV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "IV/JAVA/Java IV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "IV/JAVA/Java IV.md"
               }
             }
           }
@@ -222,11 +210,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2d1717e06fcb21b",
+  "active": "d3033ba20d27ac3c",
   "lastOpenFiles": [
+    "IV/JAVA/Java_To-Do.md",
     "IV/JAVA/Java IV.md",
     "Untitled.md",
-    "IV/JAVA/Java_To-Do.md",
     "IV/JAVA/JAVA III.md",
     "IV/JAVA/Untitled",
     "IV/JAVA/Java II.md",
