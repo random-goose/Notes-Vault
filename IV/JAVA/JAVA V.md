@@ -114,4 +114,14 @@ It is the sequence of events that occur from the initialization to the terminati
 5. Destroy - destroy()
 	- it is called when the applet needs to be unloaded from memory
 	- it releases any resources and performs cleanup tasks, where it closes all files and db connections
-	
+
+```mermaid
+flowchart LR
+    A[Initialize init] --> B[Start- start]
+    B --> C[Running State - start]
+    C --> D[Stop stop]
+    D --> C[paint paint]
+    C --> E[Destroy destroy]
+```
+
+
