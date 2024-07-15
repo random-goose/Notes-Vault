@@ -51,4 +51,5 @@
 	- **Visuals:** Includes images, diagrams, or videos to showcase the product.
 - **Approach:** 
 	- **Clarity:** Use clear, jargon free language to ensure the description is easily understood.
-	- **Focus on 
+	- **Focus on Benefits:** Highlight how the product meets user needs and solves problems.
+	- **Conciseness:** be concise but thorough, providing all the necessary information 
