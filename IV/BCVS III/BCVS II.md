@@ -15,4 +15,7 @@ Eventually, individuals reach a level of comport and acceptance. They feel more 
 In India when you ask for help, you can be direct to the point, but in the US people tend to make some talk and greetings before they get to the point 
 
 # Pluralism
-Pluralism 
+
+- Recognize and Respect
+- Equality
+- Integration W/O Assimilation

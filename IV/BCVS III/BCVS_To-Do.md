@@ -4,8 +4,8 @@
 - [ ] Motivation in real life & Leveraging it
 
 # II
-- [ ] Pluralism in Cultural spaces
-- [ ] Awareness and respect for Pluralism
+- [x] Pluralism in Cultural spaces
+- [x] Awareness and respect for Pluralism
 - [ ] Rhythms of India
 - [ ] Communication:
 	- [ ] Global
