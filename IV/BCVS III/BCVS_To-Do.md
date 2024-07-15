@@ -28,7 +28,7 @@
 
 # IV
 - [ ] AI // Everyday Life
-- [ ] Communicating with Machines
+- [x] Communicating with Machines
 - [ ] Technical Writing:
 	- [ ] Applying technical writing
 	- [ ] Scenario based tech writing
