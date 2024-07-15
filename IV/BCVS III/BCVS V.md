@@ -38,4 +38,7 @@
 	- **Structure:** Follow a clear and logical structure to ensure readability
 	- **Precision:** be precise and scientific in presenting data and findings.
 	- **Visual Aids:** Use charts, graphs and tables to support and illustrate points
-	- **Formal Points:** 
+	- **Formal Tone:** Maintain a formal objective tone throughout the report.
+
+## Product Description
+- **Purpose:** 
