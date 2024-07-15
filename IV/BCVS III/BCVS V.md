@@ -25,4 +25,17 @@
 	- **Objectivity:** Present the information without any personal opinion or bias
 
 ## Report
-- **Purpose:** To communicate detailed information on a specific topic, project, or invesitgation, of
+- **Purpose:** To communicate detailed information on a specific topic, project, or investigation, often used in business, science or research.
+- **Components:** 
+	- **Title Page:** Includes the report title, the author(s), date, and other relevant information
+	- **Abstract:** A brief summary of the report's contents
+	- **Introduction:** Introduces the topic, objectives, and scope of the report.
+	- **Methods:** Describes the methods used to gather the data or findings in a structured format
+	- **Analysis:** Interprets the result, discussing their implications and significance.
+	- **Conclusion:** Summarizes the key points and suggests recommendations is applicable. 
+	- **References:** Lists all sources cited in the report
+- **Approach:**
+	- **Structure:** Follow a clear and logical structure to ensure readability
+	- **Precision:** be precise and scientific in presenting data and findings.
+	- **Visual Aids:** Use charts, graphs and tables to support and illustrate points
+	- **Formal Points:** 
