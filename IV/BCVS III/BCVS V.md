@@ -47,4 +47,8 @@
 	- **features:** lists the key features and technical specifications.
 	- **Benefits:** explains the advantages and benefits of the product
 	- **Usage Instructions:** Provides information on how to use the product
-	- **Technical Specs:** 
+	- **Technical Specs:** Details about the technical aspects, such as dimensions, materials, and performance metrics.
+	- **Visuals:** Includes images, diagrams, or videos to showcase the product.
+- **Approach:** 
+	- **Clarity:** Use clear, jargon free language to ensure the description is easily understood.
+	- **Focus on 
