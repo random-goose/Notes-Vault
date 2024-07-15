@@ -1,12 +1,11 @@
 # I
 - [x] SWOT & TOWS in real life
 - [x] SWOT v/s TOWS
-- [ ] Motivation in real life & Leveraging it
+- [x] Motivation in real life & Leveraging it
 
 # II
 - [x] Pluralism in Cultural spaces
-- [x] Awareness and respect for Pluralism
-- [ ] Rhythms of India
+	- [x] Awareness and respect for  q
 - [x] Communication:
 	- [x] Global
 	- [x] Glocal
