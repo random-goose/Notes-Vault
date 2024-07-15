@@ -21,7 +21,8 @@
     "clalss",
     "AWT",
     "cmponents",
-    "TextFields"
+    "TextFields",
+    "kinect"
   ],
   "spellcheck": false
 }
