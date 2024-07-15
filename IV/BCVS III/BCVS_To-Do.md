@@ -1,18 +1,18 @@
 # I
-- [ ] SWOT & TOWS in real life
-- [ ] SWOT v/s TOWS
+- [x] SWOT & TOWS in real life
+- [x] SWOT v/s TOWS
 - [ ] Motivation in real life & Leveraging it
 
 # II
 - [x] Pluralism in Cultural spaces
 - [x] Awareness and respect for Pluralism
 - [ ] Rhythms of India
-- [ ] Communication:
-	- [ ] Global
-	- [ ] Glocal
-	- [ ] Trans Locational
-	- [ ] Cross - Cultural
-- [ ] Culture Shock
+- [x] Communication:
+	- [x] Global
+	- [x] Glocal
+	- [x] Trans Locational
+	- [x] Cross - Cultural
+- [x] Culture Shock
 - [ ] Gener Awareness
 
 # III
@@ -35,7 +35,7 @@
 	- [ ] best practices
 
 # V
-- [ ] Technical writing:
+- [x] Technical writing:
 	- [x] Summarizing
 	- [x] Synthesizing
 	- [x] Abstract

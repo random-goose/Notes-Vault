@@ -16,6 +16,8 @@ In India when you ask for help, you can be direct to the point, but in the US pe
 
 # Pluralism
 
-- Recognize and Respect
-- Equality
-- Integration W/O Assimilation
+- **Global Communication**: Worldwide exchange of information, leveraging global technologies.
+- **Glocal Communication**: Adapting global messages for local relevance and engagement.
+- **Trans-locational Communication**: Communication across multiple, interconnected locations, facilitated by digital technologies.
+- **Cross-Cultural Communication**: Exchange between different cultural backgrounds, focusing on understanding and bridging cultural differences.
+
