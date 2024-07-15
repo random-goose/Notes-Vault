@@ -15,14 +15,14 @@
 - [ ] Gener Awareness
 
 # III
-- [ ] Role of science in Nation Building
-- [ ] Scientists and Mathematicians of India
-- [ ] Role of Science post-Independence 
-- [ ] Inventions:
+- [x] Role of science in Nation Building
+- [x] Scientists and Mathematicians of India
+- [x] Role of Science post-Independence 
+- [x] Inventions:
 	- [ ] Invention
 	- [ ] Innovation
 	- [ ] IT
-- [ ] Technical Writing
+- [x] Technical Writing
 	- [ ] Rules
 
 # IV
