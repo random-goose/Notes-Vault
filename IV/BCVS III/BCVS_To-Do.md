@@ -27,7 +27,7 @@
 	- [ ] Rules
 
 # IV
-- [ ] AI // Everyday Life
+- [x] AI // Everyday Life
 - [x] Communicating with Machines
 - [ ] Technical Writing:
 	- [ ] Applying technical writing

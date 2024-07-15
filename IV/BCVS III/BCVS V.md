@@ -53,3 +53,4 @@
 	- **Clarity:** Use clear, jargon free language to ensure the description is easily understood.
 	- **Focus on Benefits:** Highlight how the product meets user needs and solves problems.
 	- **Conciseness:** be concise but thorough, providing all the necessary information 
+	- **Targetting:** The language and tone used should be directed towards the target audience of the product, makign emphahis on the right things to appeal to the target demographic will ensure better sales
