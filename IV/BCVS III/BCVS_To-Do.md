@@ -36,8 +36,8 @@
 
 # V
 - [ ] Technical writing:
-	- [ ] Summarizing
-	- [ ] Synthesizing
-	- [ ] Abstract
-	- [ ] Report
+	- [x] Summarizing
+	- [x] Synthesizing
+	- [x] Abstract
+	- [x] Report
 	- [ ] Product Description
