@@ -12,19 +12,14 @@ It is not about inventing something entirely new, but also about making signific
 - **Architectural:** Electronic Fuel Injection, KFC - zinger
 - **Radical:** Airplane
 # Innovation as a Core Business process // Building an Innovative organization
-
-COLR - Collar - White Collar + Blue Collar
 ## Resource Allocation
 Investing in research and development (R&D) and providing the necessary resources for innovation
 ## Leadership Commitment
 Senior Management must prioritize and supper innovation
 ## Organizational Culture
 Fostering a culture that encourages creativity, risk taking, and continuous improvement
-
 ## Collaboration and Partnership
 Engaging with external partners, including customers, and academia to foster innovation
-
-
 # Sources
 
 ```mermaid
