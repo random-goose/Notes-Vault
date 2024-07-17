@@ -2,15 +2,17 @@
 
 ```mermaid
 graph TD
-	A[Entry Stratergies] --> B[Exporting]
+	A[Foreign Entry Stratergies] --> B[Exporting]
 	B --> C[Direct]
 	B --> D[Indirect]
 	A --> E[Non-equity Arrangements]
 	E --> F[Licensing]
 	E --> G[Turn-key]
 	E --> H[Managemenr Contract]
-	E --> I[Direct F]
-	
+	E --> I[Direct Foreign Investment]
+	A --> J[Joint Ventures]
+	A --> K[Entrepreneurial Ventures]
+	A --> M[Free Trade Agreements]
 ```
 
 
