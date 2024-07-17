@@ -27,6 +27,26 @@ Engaging with external partners, including customers, and academia to foster inn
 
 # Sources
 
+```mermaid
+graph TD
+	A[Sources of Innovation] --> B[Interval]
+	B --> C[Employees]
+	B --> D[Management]
+	B --> E[R&D]
+
+```
+
+```mermaid
+graph TD
+	A[Sources of Innovation] --> F[External]
+	F --> G[Customers]
+	F --> H[Market]
+	F --> I[Suppliers]
+	F --> J[Academia]
+	F --> K[Tech Progress]
+	F --> L[Policy]
+```
+
 ## Interval
 - Employees
 - Management
