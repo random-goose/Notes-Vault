@@ -1,6 +1,6 @@
 # I
-- [ ] Innovation
-- [ ] Sources of Innovation
+- [x] Innovation
+- [x] Sources of Innovation
 - [ ] Knowledge push v/s Need pull
 # II
 - [ ] Building an Innovative Organization

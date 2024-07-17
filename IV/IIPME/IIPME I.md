@@ -13,15 +13,59 @@ It is not about inventing something entirely new, but also about making signific
 - **Radical:** Airplane
 # Innovation as a Core Business process // Building an Innovative organization
 
-## Leadership Commitment
-Senior Management must prioritize and supper innovation
-
+COLR - Collar - White Collar + Blue Collar
 ## Resource Allocation
 Investing in research and development (R&D) and providing the necessary resources for innovation
-
+## Leadership Commitment
+Senior Management must prioritize and supper innovation
 ## Organizational Culture
 Fostering a culture that encourages creativity, risk taking, and continuous improvement
 
 ## Collaboration and Partnership
 Engaging with external partners, including customers, and academia to foster innovation
 
+
+# Sources
+
+## Interval
+- Employees
+- Management
+- R&D
+## External
+- Customers
+- Market and Industry Trends
+- Suppliers and Partners
+- Academia
+- Technological Progress
+- Regulatory and Government Policy
+
+# Knowledge Push v/s Need Pull
+
+## Knowledge Push
+It refers to the process where new innovation are driven by scientific knowledge or technology.
+These innovations are often the result of R&D and may not initially have a specific market demand or need
+
+### Characteristics
+- Research Driven
+- Proactive
+- High Risk
+- Tech-centric
+
+### Examples
+- Internet
+- GORE-TEX
+- CRISPR-Cas9
+
+## Need Pull
+It is the innovation driven by market demands or specific customer needs. These innovations arise when there is a clear problem or gap in the market that requires a solution
+
+## Characteristics
+- Market Driven
+- Reactive
+- Lower Risk
+- Customer-Centric
+
+### Examples
+- Dyson Vaccum Cleaner
+- Uber
+- Post-it
