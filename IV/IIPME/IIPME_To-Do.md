@@ -4,7 +4,7 @@
 - [x] Knowledge push v/s Need pull
 # II
 - [ ] Building an Innovative Organization
-- [ ] Entry Stratergy
+- [ ] Entry Strategy
 - [ ] Opportunity Recognition
 - [ ] Entrepreneurship as a Style of Management
 - [ ] Maintaining Competitive Advantage - IPR

@@ -44,8 +44,10 @@ Mergers:
 - Market Extension
 - Diversified Activity
 #### Entrepreneurial Partnership
-In order to enter an internaitonal market, the entrepreneur can partner with an entrepreneur from that county who can help in achieving market goals and share a similar vision. Barriers and varying attitude may 
+In order to enter an international market, the entrepreneur can partner with an entrepreneur from that county who can help in achieving market goals and share a similar vision. Barriers and varying attitude may cause inferences in trying to form partnerships.
+GATT - General Agreement on Trade and Tariff was replaces by WTO - World Trage Organization WEF 1995 extends its powers further.
 #### Trade Blocs and Free Trade Areas
+Many trade blocs and FTAs are established between countries to support entrepreneurship and development of more liberal trade relations between the countries, this greatly reduces the barriers and makes it much easier to form partnerships or trade overseas.
 
 
 
