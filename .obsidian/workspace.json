@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4a680aee4fed6e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IV/IIPME/IIPME_To-Do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6a0629a402f4d818",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV/IIPME/I.md",
+                "file": "IV/IIPME/IIPME I.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -101,12 +89,24 @@
             }
           },
           {
+            "id": "b4a680aee4fed6e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IV/IIPME/IIPME_To-Do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4362510ba419b64e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV/IIPME/I.md",
+                "file": "IV/IIPME/IIPME I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV/IIPME/I.md",
+                "file": "IV/IIPME/IIPME I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7683b3aa5247df6e",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV/IIPME/I.md"
+                "file": "IV/IIPME/IIPME I.md"
               }
             }
           }
@@ -172,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13501b3924e94b63",
+  "active": "6a0629a402f4d818",
   "lastOpenFiles": [
     "IV/IIPME/IIPME_To-Do.md",
-    "IV/IIPME/I.md",
+    "IV/IIPME/IIPME I.md",
     "IV/BCVS III/BCVS_To-Do.md",
     "IV/IIPME",
     "IV/BCVS III/BCVS II.md",
