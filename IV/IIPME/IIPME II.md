@@ -1,17 +1,7 @@
-# Entry Stratergies
+# Entry Strategies
+## Export
+## Non-Equity Arrangements
+## Joint Ventures
+## Entrepreneurial Partnership
+## Trade Blocs and Trade Areas
 
-## Creating and Managing new ventures
-
-## Opportunity recognition
-
-## Factors effecting entrepenurial performance
-
-## Culture
-
-## Aspects of culture
-
-## Globalize your thoughs
-
-## Motivations to global
-
-## Enter
