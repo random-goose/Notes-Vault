@@ -66,6 +66,9 @@ It is the innovation driven by market demands or specific customer needs. These 
 - Customer-Centric
 
 ### Examples
-- Dyson Vaccum Cleaner
+- Dyson Vacuum Cleaner
 - Uber
-- Post-it
+- Spotify
+
+## Combination : Case Study - Apple
+
