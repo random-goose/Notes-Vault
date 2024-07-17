@@ -12,8 +12,9 @@ It involves giving a foreign manufacturer the right to use a patent, technology,
 ### Turn-key Projects
 It is a method of doing international business whereby a foreign entrepreneur supplies the manufacturing technology or infrastructure for a business and turns it over to local owners.
 ### Management Contracts
-It is a non-equity method of 
+It is a non-equity method of international business in which an entrepreneur contracts his or her management techniques and skills to a foreign company
 ### Direct Foreign Investment
+
 ## Joint Ventures
 ## Entrepreneurial Partnership
 ## Trade Blocs and Free Trade Areas
