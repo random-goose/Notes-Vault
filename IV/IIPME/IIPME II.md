@@ -1,4 +1,19 @@
 # Entry Strategies
+
+```mermaid
+graph TD
+	A[Entry Stratergies] --> B[Exporting]
+	B --> C[Direct]
+	B --> D[Indirect]
+	A --> E[Non-equity Arrangements]
+	E --> F[Licensing]
+	E --> G[Turn-key]
+	E --> H[Managemenr Contract]
+	E --> I[Direct F]
+	
+```
+
+
 ## Export
 An entrepreneur can start doing international business using exporting. It involves the sale & shipping of products manufactured in one country to customers in another country.
 ### Direct Exporting
