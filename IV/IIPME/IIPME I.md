@@ -72,3 +72,21 @@ It is the innovation driven by market demands or specific customer needs. These 
 
 ## Combination : Case Study - Apple
 
+
+# Open Innovation
+
+```mermaid
+graph TD
+	A[Innovation Process] --> B[Innovating]
+	A --> C[Marketing]
+	B --> D[Internal]
+	B --> E[External]
+	C --> G[Internal]
+	C --> H[External]
+	D --> F[Open Innovation]
+	E --> F
+	G --> F
+	H --> F
+```
+
+
