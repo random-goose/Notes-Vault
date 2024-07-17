@@ -10,9 +10,9 @@ graph TD
 	E --> G[Turn-key]
 	E --> H[Managemenr Contract]
 	E --> I[Direct Foreign Investment]
-	A --> J[Joint Ventures]
-	A --> K[Entrepreneurial Ventures]
-	A --> M[Free Trade Agreements]
+	I --> J[Joint Ventures]
+	I --> K[Entrepreneurial Ventures]
+	I --> M[Free Trade Agreements]
 ```
 
 
@@ -31,10 +31,21 @@ It is a method of doing international business whereby a foreign entrepreneur su
 ### Management Contracts
 It is a non-equity method of international business in which an entrepreneur contracts his or her management techniques and skills to a foreign company
 ### Direct Foreign Investment
-
-## Joint Ventures
-## Entrepreneurial Partnership
-## Trade Blocs and Free Trade Areas
+It is a mode of ownership for entrepreneurship using direct foreign investment for doing business sin international markets.
+#### Joint Ventures
+It is a direct form of DFI used by entrepreneurs to enter a foreign market. It is the joining of two firms in order to form a 3rd company in which the equity is shared, occurs in two situations:
+- When an entrepreneur wants to purchase local knowledge
+- Rapid entry is needed
+purchasing over 50% stake in a company for majority control or 100% to get full control.
+Mergers:
+- Horizontal Merger
+- Vertical Merger
+- Product Extension
+- Market Extension
+- Diversified Activity
+#### Entrepreneurial Partnership
+In order to enter an internaitonal market, the entrepreneur can partner with an entrepreneur from that county who can help in achieving market goals and share a similar vision. Barriers and varying attitude may 
+#### Trade Blocs and Free Trade Areas
 
 
 
