@@ -75,8 +75,18 @@ For Litigating a patent, the owner files a lawsuit in court, the outcome of the 
 
 # Trademark
 A trademark is a recognizable sign, phrase symbol, or design that legally identifies a product or service and distinguished it from others.
-It serves to identify the source of goods or services and create goodwill for the owner they can be indicative of quality and origin of a product 
+It serves to identify the source of goods or services and create goodwill for the owner they can be indicative of quality and origin of a product or service.
 
+```mermaid
+graph TD
+	A[Trademarks] --> B[Unregistered Trademark]
+	A --> C[Registered Trademark]
+	B --> D[™️]
+	C --> E[®️]
+```
+
+## Registered v/s Unregistered
+In Indian trademark law, the first user of an unregistered trademark has priority over a later user who registers the trademark if it can be proven that first use predated trademark registration. Registering a trademark gives the owner the exclusive right to use it, unless another entity's prior use can be established. Owners of unregistered trademarks can not sue for trademark infringement if another party uses their trademark, although they can seek a passing off remedy. In order to do so, the unregistered trademark owner must prove that damage was done to them by another trader taking advantage of the consumer goodwill attached to the trademark.
 ## Use in Marketing
 - Brand Identity
 	- Logo
