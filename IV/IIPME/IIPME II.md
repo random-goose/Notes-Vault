@@ -45,6 +45,19 @@ Mergers:
 - Diversified Activity
 #### Entrepreneurial Partnership
 In order to enter an international market, the entrepreneur can partner with an entrepreneur from that county who can help in achieving market goals and share a similar vision. Barriers and varying attitude may cause inferences in trying to form partnerships.
-GATT - General Agreement on Trade and Tariff was replaces by WTO - World Trage Organization WEF 1995 extends its powers further.
+GATT - General Agreement on Trade and Tariff was replaces by WTO - World Trade Organization WEF 1995 extends its powers further.
 #### Trade Blocs and Free Trade Areas
 Many trade blocs and FTAs are established between countries to support entrepreneurship and development of more liberal trade relations between the countries, this greatly reduces the barriers and makes it much easier to form partnerships or trade overseas.
+
+# Opportunity Recognition
+It is process of identifying and evaluating potential business ideas that can be transformed into viable ventures.
+This involved finding a problem to solve, a market need, a new way of conducting commerce, or a gap in the market.
+Effective opportunity recognition is a critical skill for entrepreneurs and often determines the success of a start-up.
+
+Steps:
+- Environmental Scanning
+- Brainstorming
+- Idea Screening and Evaluation
+- Prototyping
+- Business Planning
+- Evaluation
