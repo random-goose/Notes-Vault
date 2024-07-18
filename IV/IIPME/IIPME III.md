@@ -114,3 +114,18 @@ Valuation is important for various purposes, such as investment analysis, capita
 # Financial Projection
 It is the forecast of future revenues and expenses, it accounts for the internal or historical data and approximate a projection taking into account the external market factors.
 It is important because it is an indicator to how your company will perform in the future.
+It is useful for:
+- Angel investors
+- Determine business viability
+- Plan for future expenses
+- Reduce financial risk
+- Measure and improve business
+
+Steps:
+1. Estimate your revenue and expenses
+2. **Balance sheet projections**
+3. **Create an income statement projection**
+4. **Create cash flow projection**
+5. Report and share findings
+6. Monitor Performance
+RBIFSM
