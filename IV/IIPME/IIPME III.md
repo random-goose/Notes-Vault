@@ -85,7 +85,7 @@ Valuation is important for various purposes, such as investment analysis, capita
 ## Discounted Cash Flow
 - Projects future cash flows and discounts them back to present using discount rate
 - $$Value = ∑(CFt/(1+r^t)​​)$$
-- CFT: Cash Flow at t
+- CFT: Cash Flow at a time t
 - r: discount rate
 - t: time period
 

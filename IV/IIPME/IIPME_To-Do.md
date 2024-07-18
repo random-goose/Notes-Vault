@@ -14,7 +14,7 @@
 - [x] Debt, Venture Capital, other ways of Financing
 # IV
 - [x] IPR - Introduction and the economics behind development of IPR
-- [ ] IPR in India
+- [x] IPR in India
 - [ ] International Concept
 - [x] IPR's use in marketing
 # V
