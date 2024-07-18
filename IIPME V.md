@@ -74,6 +74,8 @@ For Litigating a patent, the owner files a lawsuit in court, the outcome of the 
 - Injunction
 
 # Trademark
+A trademark is a recognizable sign, phrase symbol, or design that legally identifies a product or service and distinguished it from others.
+It serves to identify the source of goods or services and create goodwill for the owner they can be indicative of quality and origin of a product 
 
 ## Use in Marketing
 - Brand Identity
@@ -96,3 +98,4 @@ For Litigating a patent, the owner files a lawsuit in court, the outcome of the 
 - Customer Service and Experience
 	- Uniforms
 	- Store Design
+
