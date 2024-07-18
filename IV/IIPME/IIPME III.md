@@ -37,14 +37,14 @@ flowchart TD
     Seed --> Subsidies
     Seed --> ICO
     
-    Growth --> Stage_A
-    Growth --> Stage_B
-    Growth --> Stage_C
+    Growth --> Series_A
+    Growth --> Series_B
+    Growth --> Series_C
     Growth --> Factoring
     Growth --> Debt
     
-    Expansion --> Stage_D
-    Expansion --> Stage_E
+    Expansion --> Series_D
+    Expansion --> Series_E
     Expansion --> Acquisitions
     Expansion --> Private_Equity
     
@@ -59,18 +59,19 @@ flowchart TD
     Subsidies --> Growth
     ICO --> Growth
 
-    Stage_A --> Expansion
-    Stage_B --> Expansion
-    Stage_C --> Expansion
+    Series_A --> Expansion
+    Series_B --> Expansion
+    Series_C --> Expansion
     Factoring --> Expansion
     Debt --> Expansion
 
-    Stage_D --> IPO
-    Stage_E --> IPO
+    Series_D --> IPO
+    Series_E --> IPO
     Acquisitions --> IPO
     Private_Equity --> IPO
 
 ```
+
 
 
 # Financial Valuation
