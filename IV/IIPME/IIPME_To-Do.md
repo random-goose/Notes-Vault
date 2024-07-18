@@ -11,7 +11,7 @@
 # III
 - [ ] Entrepreneurship - Financial Planning
 - [ ] Projections and Valuations
-- [ ] Debt, Venture Capital, other ways of Financing
+- [x] Debt, Venture Capital, other ways of Financing
 # IV
 - [ ] IPR - Introduction and the economics behind development of IPR
 - [ ] IPR in India

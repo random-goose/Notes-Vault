@@ -28,47 +28,48 @@
 
 ```mermaid
 flowchart TD
-    Pre-Seed --> |Founder| Pre-Seed_Founder
-    Pre-Seed --> |Friends and Family| Pre-Seed_FF
-    Pre-Seed --> |Incubators| Pre-Seed_Incubators
+    Pre-Seed --> Founder
+    Pre-Seed --> Friends_and_Family
+    Pre-Seed --> Incubators
     
-    Seed --> |Angel Investors| Seed_AI
-    Seed --> |Crowdfunding| Seed_CF
-    Seed --> |Subsidies| Seed_Subsidies
-    Seed --> |ICO| Seed_ICO
+    Seed --> Angel_Investors
+    Seed --> Crowdfunding
+    Seed --> Subsidies
+    Seed --> ICO
     
-    Growth --> |Stage A| Growth_A
-    Growth --> |Stage B| Growth_B
-    Growth --> |Stage C| Growth_C
-    Growth --> |Factoring| Growth_Factoring
-    Growth --> |Debt| Growth_Debt
+    Growth --> Stage_A
+    Growth --> Stage_B
+    Growth --> Stage_C
+    Growth --> Factoring
+    Growth --> Debt
     
-    Expansion --> |Stage D| Expansion_D
-    Expansion --> |Stage E| Expansion_E
-    Expansion --> |Acquisitions| Expansion_Acquisitions
-    Expansion --> |Private Equity| Expansion_PE
+    Expansion --> Stage_D
+    Expansion --> Stage_E
+    Expansion --> Acquisitions
+    Expansion --> Private_Equity
     
-    IPO --> |Initial Public Offering| Aipoindi
+    IPO --> Initial_Public_Offering
 
-    Pre-Seed_Founder --> Seed
-    Pre-Seed_FF --> Seed
-    Pre-Seed_Incubators --> Seed
+    Founder --> Seed
+    Friends_and_Family --> Seed
+    Incubators --> Seed
 
-    Seed_AI --> Growth
-    Seed_CF --> Growth
-    Seed_Subsidies --> Growth
-    Seed_ICO --> Growth
+    Angel_Investors --> Growth
+    Crowdfunding --> Growth
+    Subsidies --> Growth
+    ICO --> Growth
 
-    Growth_A --> Expansion
-    Growth_B --> Expansion
-    Growth_C --> Expansion
-    Growth_Factoring --> Expansion
-    Growth_Debt --> Expansion
+    Stage_A --> Expansion
+    Stage_B --> Expansion
+    Stage_C --> Expansion
+    Factoring --> Expansion
+    Debt --> Expansion
 
-    Expansion_D --> IPO
-    Expansion_E --> IPO
-    Expansion_Acquisitions --> IPO
-    Expansion_PE --> IPO
+    Stage_D --> IPO
+    Stage_E --> IPO
+    Acquisitions --> IPO
+    Private_Equity --> IPO
 
 ```
+
 
