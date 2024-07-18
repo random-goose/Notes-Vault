@@ -39,6 +39,17 @@ Examination:
 Hearing:
 12. Written submission pursuant to a hearing of patent application
 
+```mermaid
+graph TD
+	A[Patent Application] --> B[Publication]
+	B --> C[Pre-Grant Application]
+	C --> D[Examination]
+	D --> E[Appliction Grant]
+	E --> F[Publication of Grant]
+	F --> G[Post Grant Opposition]
+```
+
+
 ## Licensing
 - **Exclusive License:** The licensee has the sole right to use the patent
 - **Non-Exclusive License:** Multiple Licensees can use the patent
@@ -61,3 +72,27 @@ For Litigating a patent, the owner files a lawsuit in court, the outcome of the 
 - Compensatory Damages
 - Treble Damages
 - Injunction
+
+# Trademark
+
+## Use in Marketing
+- Brand Identity
+	- Logo
+	- Slogan
+	- Name
+- Product Packaging
+	- Labels
+	- Design
+- Advertising and Promotions
+	- Media
+	- Social Media
+	- Sponsorships
+- Website and Online Presence
+	- Domain Names
+	- SEO
+- Merchandising
+	- Branded Merchandise
+	- Co-branding
+- Customer Service and Experience
+	- Uniforms
+	- Store Design
