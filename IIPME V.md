@@ -19,9 +19,13 @@ Requirements:
 - Patent Issuance
 - Opposition and Renewal
 ## Licensing
-- **Exclusive License:** THe licensee has the sole right to use the patent
+- **Exclusive License:** The licensee has the sole right to use the patent
 - **Non-Exclusive License:** Multiple Licensees can use the patent
-- **Cross-Licensing:** Two parties grant each other the rights to thier respective patents
+- **Cross-Licensing:** Two parties grant each other the rights to their respective patents
 
 ## Assignment
-- Transfer of ow
+- Transfer of ownership totally to another owner
+- Must be in writing and recording with the relevant patent office to be legally binding
+
+## Infringement
+Unauthorized making, using, selling or importing of a patented invention
