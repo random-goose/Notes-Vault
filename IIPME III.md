@@ -1,6 +1,5 @@
-
 # Sources of Funding
-- The Founders  - Just been founded
+- The Founders - Just been founded
 - 3Fs - Pre-Seed
 	- Friends
 	- Family
@@ -13,3 +12,17 @@
 	- Pre-Order
 - Subsidies
 - Venture Capital - Private Equity
+- Debt Financing - Banks
+- Factoring
+- Leasing
+- Suppliers
+- Cryptocurrency - Initial Coin Offering ICO
+- IPO
+
+# Stages of Start-Up
+- Pre-Seed - Founder, Friends and Family
+- Seed - Angel Investors, Crowdfunding, Subsidies, Debt, ICO
+- Growth - Stage A
+- Expansion
+- IPO
+
