@@ -97,4 +97,20 @@ Valuation is important for various purposes, such as investment analysis, capita
 - used to calculate net asset value
 
 ## Book Value
-- Accounts the balance sheet of the companies to find the values
+- Accounts the balance sheet of the companies to find the value of the company
+
+## Valuation Process
+- Get the services of a professional - super mega ultra important
+- Understand the purpose of the valuation
+- Determine the basis of value
+- Determine the premise of value
+- Gather data
+- Review the historic performance of business
+- Determine future outlook of the business
+- Determine the appropriate approach
+- Apply proper discount rate
+- Valuate
+
+# Financial Projection
+It is the forecast of future revenues and expenses, it accounts for the internal or historical data and approximate a projection taking into account the external market factors.
+It is important because it is an indicator to how your company will perform in the future.
