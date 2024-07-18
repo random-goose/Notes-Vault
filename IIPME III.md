@@ -48,7 +48,7 @@ flowchart TD
     Expansion --> |Acquisitions| Expansion_Acquisitions
     Expansion --> |Private Equity| Expansion_PE
     
-    IPO --> |Initial Public Offering| IPO_IPO
+    IPO --> |Initial Public Offering| IPO
 
     Pre-Seed_Founder --> Seed
     Pre-Seed_FF --> Seed
@@ -71,3 +71,4 @@ flowchart TD
     Expansion_PE --> IPO
 
 ```
+
