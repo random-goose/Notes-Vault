@@ -189,8 +189,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7683b3aa5247df6e",
@@ -222,7 +221,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "813be7c833f21fe2",
+  "active": "b21e33e0510d376d",
   "lastOpenFiles": [
     "IV/IIPME/IIPME IV.md",
     "IV/IIPME/IIPME_To-Do.md",

@@ -124,3 +124,19 @@ In 1957, the first copyright law was passed, which has had a lot of amendments, 
 ## Duration of Copyright
 - Literary, Dramatic, Musical, Artistic: Death of Creator + 60 Years
 - Cinematographic Films and Recordings, Anonymous Works: 60 years from beginning of the calendar year following year of production
+
+## Rights Covered by IPC Copyright Law
+- Reproduction of work
+- Distribution of work
+- Perform the work 
+- Make translations or adaptations
+- Broadcast the work
+- Display the work publically
+
+## Fair Use Doctrine
+- Private Use
+- Critisicm or Review
+- Education
+- Libraries
+- Parody and Sattire
+
