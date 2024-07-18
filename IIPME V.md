@@ -79,8 +79,8 @@ It serves to identify the source of goods or services and create goodwill for th
 
 ```mermaid
 graph TD
-	A[Trademarks] --> B[Unregistered Trademark]
-	A --> C[Registered Trademark]
+	A[Trademarks] --> B[Unregistered]
+	A --> C[Registered]
 	B --> D[™️]
 	C --> E[®️]
 ```

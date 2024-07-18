@@ -20,9 +20,9 @@
 # V
 - [ ] Patent
 	- [x] Procedure
-	- [ ] Assignment
-	- [ ] Infringement
-	- [ ] Penalty
+	- [x] Assignment
+	- [x] Infringement
+	- [x] Penalty
 - [ ] Trademark
 	- [x] Marketing
 	- [x] Examples
