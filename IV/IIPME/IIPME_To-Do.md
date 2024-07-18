@@ -18,12 +18,12 @@
 - [ ] International Concept
 - [ ] IPR's use in marketing
 # V
-- [ ] Patent
+- [x] Patent
 	- [x] Procedure
 	- [x] Assignment
 	- [x] Infringement
 	- [x] Penalty
-- [ ] Trademark
+- [x] Trademark
 	- [x] Marketing
 	- [x] Examples
 - [ ] Geographical Indications
