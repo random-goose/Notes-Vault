@@ -61,3 +61,22 @@ Steps:
 - Prototyping
 - Business Planning
 - Evaluation
+
+# Entrepreneurship as a style of management
+- Risk-Taking and Experimentation
+- Innovation and Creativity
+- Strategy and Vision
+- Customer focus and Market Orientation
+- Proactiveness and Initiative
+- Agility and Adaptability
+- Leadership and Empowerment
+
+RISCPAL
+R - Risk Taking
+I - innovation
+S - Strategy
+C - Customer Focus
+P - Proactiveness
+A - Adaptability
+L - Leadership
+
