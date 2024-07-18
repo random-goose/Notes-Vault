@@ -28,4 +28,5 @@ Requirements:
 - Must be in writing and recording with the relevant patent office to be legally binding
 
 ## Infringement
-Unauthorized making, using, selling or importing of a patented invention
+Unauthorized making, using, selling or importing of a patented invention is called infringement
+These include direct infrignement, indirect infrignement (inducing others to infringe), and contribu
