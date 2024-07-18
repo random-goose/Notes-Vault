@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIPME V.md",
+                "file": "IV/IIPME/IIPME V.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIPME III.md",
+                "file": "IV/IIPME/IIPME III.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IIPME III.md",
+                "file": "IV/IIPME/IIPME III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IIPME III.md",
+                "file": "IV/IIPME/IIPME III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IIPME III.md"
+                "file": "IV/IIPME/IIPME III.md"
               }
             }
           }
@@ -209,12 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b21e33e0510d376d",
+  "active": "13501b3924e94b63",
   "lastOpenFiles": [
     "IV/IIPME/IIPME_To-Do.md",
-    "IIPME III.md",
+    "IV/IIPME/IIPME III.md",
     "IV/IIPME/IIPME II.md",
-    "IIPME V.md",
+    "IV/IIPME/IIPME V.md",
     "IV/IIPME/IIPME I.md",
     "IV/OR/OR_To-Do.md",
     "IV/BCVS III/BCVS_To-Do.md",
