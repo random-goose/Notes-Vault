@@ -3,10 +3,10 @@
 - [x] Sources of Innovation
 - [x] Knowledge push v/s Need pull
 # II
-- [ ] Building an Innovative Organization
-- [ ] Entry Strategy
+- [x] Building an Innovative Organization
+- [x] Entry Strategy
 - [ ] Opportunity Recognition
-- [ ] Entrepreneurship as a Style of Management
+- [x] Entrepreneurship as a Style of Management
 - [ ] Maintaining Competitive Advantage - IPR
 # III
 - [ ] Entrepreneurship - Financial Planning
@@ -19,13 +19,13 @@
 - [ ] IPR's use in marketing
 # V
 - [ ] Patent
-	- [ ] Procedure
+	- [x] Procedure
 	- [ ] Assignment
 	- [ ] Infringement
 	- [ ] Penalty
 - [ ] Trademark
-	- [ ] Marketing
-	- [ ] Examples
+	- [x] Marketing
+	- [x] Examples
 - [ ] Geographical Indications
 	- [ ] Why protect GI
 - [ ] Copyright

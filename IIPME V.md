@@ -17,4 +17,11 @@ Requirements:
 - Patent Examination
 - Office Actions
 - Patent Issuance
-- 
+- Opposition and Renewal
+## Licensing
+- **Exclusive License:** THe licensee has the sole right to use the patent
+- **Non-Exclusive License:** Multiple Licensees can use the patent
+- **Cross-Licensing:** Two parties grant each other the rights to thier respective patents
+
+## Assignment
+- Transfer of ow
