@@ -42,14 +42,12 @@ Hearing:
 ```mermaid
 graph TD
 	A[Patent Application] --> B[Publication]
-	B --> C[Pre-Grant Application]
+	B --> C[Pre-Grant Opposition]
 	C --> D[Examination]
 	D --> E[Appliction Grant]
 	E --> F[Publication of Grant]
 	F --> G[Post Grant Opposition]
 ```
-
-
 ## Licensing
 - **Exclusive License:** The licensee has the sole right to use the patent
 - **Non-Exclusive License:** Multiple Licensees can use the patent
