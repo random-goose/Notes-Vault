@@ -110,3 +110,17 @@ In Indian trademark law, the first user of an unregistered trademark has priorit
 	- Store Design
 
 # Copyright ©️
+it is a legal right that grants authors or creators of the art control over the use, distribution and monetization of their artwork.
+In 1957, the first copyright law was passed, which has had a lot of amendments, most notably in 2012, to address changes in international treaties.
+
+## Subjects covered in IPC Copyright Law
+- Literary Words
+- Dramatic Works
+- Musical Works
+- Artistic Works
+- Cinematographic Works
+- Sound Recordings
+
+## Duration of Copyright
+- Literary, Dramatic, Musical, Artistic: Death of Creator + 60 Years
+- Cinematographic Films and Recordings, Anonymous Works: 60 years from beginning of the calendar year following year of production
