@@ -11,8 +11,8 @@ Requirements:
 - Idea conception
 - Patent search
 - Preparing Patent Application
-	- Provisional Patent Application
-	- Non-Provisional Patent Application
+	- Provisional Patent Specification
+	- Complete Patent Specification
 - Filing the Application
 - Patent Examination
 - Office Actions

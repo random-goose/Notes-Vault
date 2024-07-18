@@ -3,7 +3,7 @@ Innovation is the process of creating, developing or implementing new ideas into
 It is not about inventing something entirely new, but also about making significant improvements to existing products, services, or processes.
 # Types of Innovation
 
-|                | Old Tech      | New Tech   |
+| /              | Old Tech      | New Tech   |
 | -------------- | ------------- | ---------- |
 | **Old Market** | Incremental   | Disrputive |
 | **New Market** | Architectural | Radical    |
@@ -73,18 +73,22 @@ These innovations are often the result of R&D and may not initially have a speci
 
 ## Need Pull
 It is the innovation driven by market demands or specific customer needs. These innovations arise when there is a clear problem or gap in the market that requires a solution
-
 ## Characteristics
 - Market Driven
 - Reactive
 - Lower Risk
 - Customer-Centric
-
 ### Examples
 - Dyson Vacuum Cleaner
 - Uber
 - Spotify
 
+| Knowledge Push  | Need Pull        |
+| --------------- | ---------------- |
+| Research Driven | Market Driven    |
+| Proactive       | Reactive         |
+| Higher Risk     | Lower Risk       |
+| Tech-Centric    | Customer-Centric |
 ## Combination : Case Study - Apple
 
 
