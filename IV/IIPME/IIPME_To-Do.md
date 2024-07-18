@@ -5,7 +5,7 @@
 # II
 - [x] Building an Innovative Organization
 - [x] Entry Strategy
-- [ ] Opportunity Recognition
+- [x] Opportunity Recognition
 - [x] Entrepreneurship as a Style of Management
 - [ ] Maintaining Competitive Advantage - IPR
 # III
