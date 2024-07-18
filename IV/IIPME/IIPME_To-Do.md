@@ -13,7 +13,7 @@
 - [ ] Projections and Valuations
 - [x] Debt, Venture Capital, other ways of Financing
 # IV
-- [ ] IPR - Introduction and the economics behind development of IPR
+- [x] IPR - Introduction and the economics behind development of IPR
 - [ ] IPR in India
 - [ ] International Concept
 - [ ] IPR's use in marketing
