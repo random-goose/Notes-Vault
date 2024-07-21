@@ -18,8 +18,8 @@
 - [ ] Relational Model
 - [ ] SQL Queries
 - [ ] Integrity Constraints
-- [ ] Views
-- [ ] UNION
+- [x] Views
+- [x] UNION
 - [ ] INTERSECT
 - [ ] EXCEPT
 - [ ] Nested Queries
