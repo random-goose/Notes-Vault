@@ -9,7 +9,7 @@
 
 # II
 - [ ] Conceptual Design
-- [ ] DB Design and ER Diagrams
+- [x] DB Design and ER Diagrams
 - [ ] Relationships and Keys
 - [ ] Key constraints
 - [ ] Conceptual Design with ER

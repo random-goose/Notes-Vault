@@ -1,5 +1,6 @@
 # Database Design
-
+## RCLPITM
+Roti Curry Laddu Puri Idli Taravata Masala Dosa
 1. Requirement Analysis
 	- Identify Purpose of the Database
 	- Collect and analyze user requirements
@@ -36,5 +37,4 @@
 	- Update the database schema as per changes
 	- Optimize and tune the database periodically
 
-RCLPITM
-Roti Curry Laddu Puri Idli 
+# Constraints
