@@ -19,7 +19,7 @@ graph TD
 - We serialize a parallel schedule into a parallel schedule to ensure consistency
 - This ensures that multiple transactions can occur concurrently without leading to the inconsistency of the db state
 - Transactions occur independently without interference
-- Changes occurring in a particular transaction will not be visible ofanother until it has been committed
+- Changes occurring in a particular transaction will not be visible of another until it has been committed
 - Ex: A is giving money to B, simultaneously, C is giving money to A
 ## Durability
 - The changes of a successful transaction occurs even if a system failure occurs

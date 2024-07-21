@@ -34,6 +34,6 @@
 
 # V
 - [ ] Relational Algebra
-- [ ] ACID Property
+- [x] ACID Property
 - [ ] File Organization
 	- [ ] Indexing
