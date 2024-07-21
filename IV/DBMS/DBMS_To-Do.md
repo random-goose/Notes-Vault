@@ -1,7 +1,7 @@
 # I
 - [ ] Intro
-- [ ] File System v/s DBMS
-- [ ] Lingos
+- [x] File System v/s DBMS
+- [x] Lingos
 - [ ] Users
 - [ ] Models
 - [ ] Abstraction

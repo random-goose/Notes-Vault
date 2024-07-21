@@ -19,31 +19,27 @@
 ```mermaid
 graph TD
     A[DBMS Languages] --> B[DDL]
-    A --> C[Data Manipulation Language (DML)]
-    A --> D[Data Control Language (DCL)]
-    A --> E[Transaction Control Language (TCL)]
+    A --> C[DML]
+    A --> D[DCL]
+    A --> E[TCL]
 
     B --> B1[CREATE]
-    B --> B2[ALTER]
-    B --> B3[DROP]
-    B --> B4[TRUNCATE]
+    B1 --> B2[ALTER]
+    B2 --> B3[DROP]
+    B3 --> B4[TRUNCATE]
 
     C --> C1[SELECT]
-    C --> C2[INSERT]
-    C --> C3[UPDATE]
-    C --> C4[DELETE]
+    C1 --> C2[INSERT]
+    C2 --> C3[UPDATE]
+    C3 --> C4[DELETE]
 
     D --> D1[GRANT]
-    D --> D2[REVOKE]
+    D1 --> D2[REVOKE]
 
     E --> E1[COMMIT]
-    E --> E2[ROLLBACK]
-    E --> E3[SAVEPOINT]
-    E --> E4[RELEASE SAVEPOINT]
-    E --> E5[SET TRANSACTION]
-
+    E1 --> E2[ROLLBACK]
+    E2 --> E3[SAVEPOINT]
 ```
-
 ## Data Definition Language
 DDL is used to define and manage database structures such as schemas, tables, and indices.
 - **CREATE:** create new objects like tables or rows
@@ -62,3 +58,10 @@ DML is used to retrieve, insert, update and delete data in a database
 Used to control Access to data within a database
 - **GRANT**
 - **REVOKE**
+
+## Transaction Control Language
+Used to manage transactions and ensure data integrity
+- **COMMIT:** Used to save all changes made in the current transaction
+- **ROLLBACK:** Used to undo changes made in the current transaction
+- **SAVEPOINT:** Used to set a savepoint in the middle of a transaction
+

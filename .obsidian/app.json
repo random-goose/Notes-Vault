@@ -32,7 +32,9 @@
     "tisicm or",
     "Atomicity",
     "Cust",
-    "RollNo"
+    "RollNo",
+    "SAVEPOINT",
+    "savepoint"
   ],
   "spellcheck": false
 }
