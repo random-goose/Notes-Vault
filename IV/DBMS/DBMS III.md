@@ -23,9 +23,20 @@ This keyword is used to combine the result sets of two or more `SELECT` Statemen
 - The data types also must be compatible
 Syntax:
 ```SQL
-SELECT ID, NAME, DEPARTMENT FROM EMPLOYEES_USA
+SELECT ID, NAME, DEPARTMENT FROM EMPLOYEES_HYD
 UNION
-SELECT ID, NAME, DEPARTMENT FROM EMPLOYEES_UK;
+SELECT ID, NAME, DEPARTMENT FROM EMPLOYEES_BLR;
 ```
 
 # INTERSECT
+This keyword is used to only return the rows present in common between two or more `SELECT` statements
+- It returns only the distinct rows
+- Like union, the number of columns returned, and the data types should be the same
+- It is less commonly supported
+
+Syntax:
+```SQL
+SELECT NAME, CITY FROM EMPLOYEES_SALES
+INTERSECT
+SELECT NAME, CITY FROM EMPLOYEES_MARKETING;
+```

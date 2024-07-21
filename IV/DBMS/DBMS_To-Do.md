@@ -20,7 +20,7 @@
 - [ ] Integrity Constraints
 - [x] Views
 - [x] UNION
-- [ ] INTERSECT
+- [x] INTERSECT
 - [ ] EXCEPT
 - [ ] Nested Queries
 - [ ] Triggers
