@@ -29,8 +29,8 @@
 - [ ] Schema Refinement
 - [ ] Redundancy
 - [ ] Decomposition
-- [ ] Normal Forms
-- [ ] BCNF
+- [x] Normal Forms
+- [x] BCNF
 
 # V
 - [ ] Relational Algebra
