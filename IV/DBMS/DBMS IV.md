@@ -74,9 +74,10 @@ Candidate Key → Store ID
 | ------ | ----- | ---- |
 | 1      | AP    | BZA  |
 | 2      | TS    | HYD  |
-| 3      | AP    | BZA  |
+| 3      | AP    | VIZ  |
 | 4      | TS    | HYD  |
 | 5      | MH    | BOM  |
 Candidate Key -> RollNo
 Prime Attributes -> Rollno
-Non-Prime Attributes -> State, CI
+Non-Prime Attributes -> State, City
+But here, city is determined by state
