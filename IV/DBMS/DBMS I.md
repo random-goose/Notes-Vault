@@ -8,5 +8,5 @@
 | **Query Processing**    | Manual and Sequential               | SQL                                  |
 | **Concurrency Control** | Limited or none                     | Mechanisms to hanfle concurrency     |
 | **Backup and Recovery** | Manually Done                       | Automatable                          |
-| **Data Relationships**  | No inherent support                 | Inherent su                          |
-| **Scalability**         |                                     |                                      |
+| **Data Relationships**  | No inherent support                 | Inherent support for relation        |
+| **Scalability**         | Less scalable                       | Highly scalable                      |
