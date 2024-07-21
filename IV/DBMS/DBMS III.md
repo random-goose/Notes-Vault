@@ -40,3 +40,49 @@ SELECT NAME, CITY FROM EMPLOYEES_SALES
 INTERSECT
 SELECT NAME, CITY FROM EMPLOYEES_MARKETING;
 ```
+
+# Triggers
+They are special type of stored procedures in a database that automatically execute when specific events occur. 
+They're used to maintaining data integrity, enforce rules, and automate certain operations.
+
+- They are `Event-Driven`
+- They get executed automatically when said event occurs
+- They operate on a specific table
+- Used for Auditing, validating, and maintaining data
+
+There are three different classification of triggers:
+1. Based on Timing
+	1. BEFORE
+	2. AFTER
+	3. INSTEAD OF
+2. Based on event:
+	1. INSERT
+	2. UPDATE
+	3. DELETE
+3. Based on Granularity
+	1. Row-Level
+	2. Statement-Level
+
+```mermaid
+graph TD
+    A[Triggers]
+    B[Based on timing]
+    C[Based on event]
+    D[Based on granularity]
+    
+    A --> B
+    A --> C
+    A --> D
+    
+    B --> B1[BEFORE triggers]
+    B1 --> B2[AFTER triggers]
+    B2 --> B3[INSTEAD OF triggers]
+    
+    C --> C1[INSERT triggers]
+    C1 --> C2[UPDATE triggers]
+    C2 --> C3[DELETE triggers]
+    
+    D --> D1[Row-level triggers]
+    D1 --> D2[Statement-level triggers]
+```
+

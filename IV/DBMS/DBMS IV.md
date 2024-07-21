@@ -107,7 +107,7 @@ Non-Prime Attributes → Station
 
 ## BCNF
 - Table should be in 3NF
-- Every attribute (including the keys themself) should be dependent on the candidate key
+- Every attribute (including the keys themselves) should be dependent on the candidate key
 
 | Roll no | Voter Id | Grade | Constituency |
 | ------- | -------- | ----- | ------------ |
