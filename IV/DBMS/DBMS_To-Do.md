@@ -17,13 +17,13 @@
 # III
 - [ ] Relational Model
 - [ ] SQL Queries
-- [ ] Integrity Constraints
+- [ ] Constraints
 - [x] Views
 - [x] UNION
 - [x] INTERSECT
 - [ ] EXCEPT
 - [ ] Nested Queries
-- [ ] Triggers
+- [x] Triggers
 
 # IV
 - [ ] Schema Refinement
