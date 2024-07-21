@@ -32,6 +32,9 @@ Table should not contain any duplicate values - one cell: one value
 | 2         | Bob         | History |
 
 # 2NF
+- Should be in 1NF
+- All non-prime attributes should be fully functionally dependent on candidate key
+
 |StudentID|StudentName|Course|Instructor|
 |---|---|---|---|
 |1|Alice|Math|Dr. Smith|
@@ -62,3 +65,8 @@ Table should not contain any duplicate values - one cell: one value
 | 1         | 3        |
 | 2         | 2        |
 | 2         | 4        |
+
+# 3NF
+- Should be in 2NF
+- No transitive dependency
+- Non-prime attribute should not be dependent on non-prime attribute
