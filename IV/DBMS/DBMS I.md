@@ -10,3 +10,56 @@
 | **Backup and Recovery** | Manually Done                       | Automatable                          |
 | **Data Relationships**  | No inherent support                 | Inherent support for relation        |
 | **Scalability**         | Less scalable                       | Highly scalable                      |
+Definiton
+Data Managemenr
+Redundancy
+Integrity
+Query proc
+Access Ctrl
+Concurrency
+Backup
+Relationships
+Scaling
+DDR AC IQ  BRS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DDR AC IQ BRS
+Definiton
+Data Management
+Recovery
+Access
+Concurrency
+I
+Query
+B
+Relations
+Scaling
