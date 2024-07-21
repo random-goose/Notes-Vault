@@ -21,15 +21,15 @@ Table should not contain any duplicate values - one cell: one value
 
 | StudentID | StudentName | Courses          |
 | --------- | ----------- | ---------------- |
-| 1         | Alice       | Math, Science    |
-| 2         | Bob         | English, History |
+| 1         | Cow         | Math, Science    |
+| 2         | Bad         | English, History |
 
 | StudentID | StudentName | Course  |
 | --------- | ----------- | ------- |
-| 1         | Alice       | Math    |
-| 1         | Alice       | Science |
-| 2         | Bob         | English |
-| 2         | Bob         | History |
+| 1         | Cow         | Math    |
+| 1         | Cow         | Science |
+| 2         | Bad         | English |
+| 2         | Bad         | History |
 
 ## 2NF
 - Should be in 1NF
@@ -68,6 +68,7 @@ Candidate Key → Store ID
 - Should be in 2NF
 - No transitive dependency
 - Non-prime attribute should not be dependent on non-prime attribute
+- i.e. every non-key attribute should be dependent on the candidate key
 
 
 | RollNo | State | City       | Station |
@@ -106,7 +107,7 @@ Non-Prime Attributes → Station
 
 ## BCNF
 - Table should be in 3NF
-- Every attribute should be dependent on the candidate key
+- Every attribute (including the kes themself) should be dependent on the candidate key
 
 | Roll no | Voter Id | Grade | Constituency |
 | ------- | -------- | ----- | ------------ |

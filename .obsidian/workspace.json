@@ -151,9 +151,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53e47c992426f8fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7683b3aa5247df6e",
