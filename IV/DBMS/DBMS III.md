@@ -86,3 +86,47 @@ graph TD
     D1 --> D2[Statement-level triggers]
 ```
 
+```SQL
+CREATE OR REPLACE FUNCTION notify_customer_insert()
+RETURNS TRIGGER AS $$
+BEGIN
+    RAISE NOTICE 'New customer inserted!';
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER after_customer_insert
+AFTER INSERT ON customers
+FOR EACH ROW
+EXECUTE FUNCTION notify_customer_insert();
+```
+
+# Constraints
+## Domain
+- Define the allowable data type for a given column
+## Not Null
+- Ensure that a column cannot have NULL vales
+## Entity
+- Each row in a table is uniquely identifiable through a primary key
+## Key
+- Primary Key
+- Unique Key
+- Foreign Key
+## Primary Key
+- Designate a column as the unique identifier for a row
+## Referential
+- Maintain consistency between related tables
+## Check
+- only allow certain data to be inserted with a condition
+
+```mermaid
+graph TD
+	A[Constraints] --> Domain
+	A --> Not_Null
+	A --> Entity
+	A --> Key
+	A --> Primary_Key
+	A --> Referential
+	A --> Check
+```
+

@@ -17,7 +17,7 @@
 # III
 - [ ] Relational Model
 - [ ] SQL Queries
-- [ ] Constraints
+- [x] Constraints
 - [x] Views
 - [x] UNION
 - [x] INTERSECT
