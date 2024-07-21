@@ -10,12 +10,25 @@ graph TD
 	B --> C[Write A]
 	C --> D[Write B]
 ``` 
-- If during any operation during the transaction fails, no no
-
+- If during any operation during the transaction fails, no money will be credited or debited, it should roll back to the previous state before the transaction began
 ## Consistency
 - The DB must be consistent before and after the transaction
 - Ex: Before the transaction starts, and after it's completed, the sum of the sum of the total money should remain the same
 ## Isolation
-Multiple transactions occur independently without interference
+- Multiple transactions occur independently without interference
+- We serialize a parallel schedule into a parallel schedule to ensure consistency
+- This ensures that multiple transactions can occur concurrently without leading to the inconsistency of the db state
+- Transactions occur independently without interference
+- Changes occurring in a particular transaction will not be visible ofanother until it has been committed
+- Ex: A is giving money to B, simultaneously, C is giving money to A
 ## Durability
-The changes of a successful transaction occurs even if a system failure occurs
+- The changes of a successful transaction occurs even if a system failure occurs
+- Any changes made should remain permanent without changing
+- This property ensures that once the transaction is completed, the updates and modifications to the database are stored in and written to disk, and they persist even if a system failure occurs
+
+| Property    | Responsibility           |
+| ----------- | ------------------------ |
+| Atomicity   | Transaction Manager      |
+| Consistency | Application Manager      |
+| Isolation   | Concurrency Ctrl Manager |
+| Durability  | Recovery Manager         |
