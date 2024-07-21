@@ -35,38 +35,48 @@ Table should not contain any duplicate values - one cell: one value
 - Should be in 1NF
 - All non-prime attributes should be fully functionally dependent on candidate key
 
-|StudentID|StudentName|Course|Instructor|
-|---|---|---|---|
-|1|Alice|Math|Dr. Smith|
-|1|Alice|Science|Dr. Taylor|
-|2|Bob|English|Dr. Jones|
-|2|Bob|History|Dr. Brown|
+| Cust ID | Store ID | Location |
+| ------- | -------- | -------- |
+| 1       | 1        | Delhi    |
+| 1       | 3        | Mumbai   |
+| 2       | 1        | Delhi    |
+| 3       | 2        | Banglore |
+| 4       | 3        | Mumbai   |
+Candidate key - Cust ID + Store IF
+Prime Attributes - Cust ID, Store ID
+Non-Prime Attributes - Location
 
-**2NF Tables:**
-**Table: Student**
+Here, Location is not fully functionally dependent on Cust ID + Store ID, as it is dependent on Store ID
 
-| StudentID | StudentName |
-| --------- | ----------- |
-| 1         | Alice       |
-| 2         | Bob         |
-**Table: Course**
+| Cust ID | Store ID |
+| ------- | -------- |
+| 1       | 1        |
+| 1       | 3        |
+| 2       | 1        |
+| 3       | 2        |
+| 4       | 3        |
+ Candidate Key → Cust ID
 
-| CourseID | Course  | Instructor |
-| -------- | ------- | ---------- |
-| 1        | Math    | Dr. Smith  |
-| 2        | English | Dr. Jones  |
-| 3        | Science | Dr. Taylor |
-| 4        | History | Dr. Brown  |
-**Table: Enrollment**
-
-| StudentID | CourseID |
-| --------- | -------- |
-| 1         | 1        |
-| 1         | 3        |
-| 2         | 2        |
-| 2         | 4        |
+| Store ID | Location |
+| -------- | -------- |
+| 1        | Delhi    |
+| 3        | Mumbai   |
+| 2        | Banglore |
+Candidate Key → Store ID
 
 # 3NF
 - Should be in 2NF
 - No transitive dependency
 - Non-prime attribute should not be dependent on non-prime attribute
+
+
+| RollNo | State | City |
+| ------ | ----- | ---- |
+| 1      | AP    | BZA  |
+| 2      | TS    | HYD  |
+| 3      | AP    | BZA  |
+| 4      | TS    | HYD  |
+| 5      | MH    | BOM  |
+Candidate Key -> RollNo
+Prime Attributes -> Rollno
+Non-Prime Attributes -> State, CI
