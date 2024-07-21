@@ -119,6 +119,6 @@ Roll No → Grade
 Voter ID → Constituency
 Roll No → Voter ID
 
-Candidate Key -> Roll No + Voter ID
+Candidate Key → Roll No + Voter ID
 Super Key -> Roll No
 Non-Prime -> Grade, Constituency
