@@ -31,7 +31,7 @@ Table should not contain any duplicate values - one cell: one value
 | 2         | Bob         | English |
 | 2         | Bob         | History |
 
-# 2NF
+## 2NF
 - Should be in 1NF
 - All non-prime attributes should be fully functionally dependent on candidate key
 
@@ -64,7 +64,7 @@ Here, Location is not fully functionally dependent on Cust ID + Store ID, as it 
 | 2        | Banglore |
 Candidate Key → Store ID
 
-# 3NF
+## 3NF
 - Should be in 2NF
 - No transitive dependency
 - Non-prime attribute should not be dependent on non-prime attribute
@@ -103,3 +103,21 @@ Non -Prime Attributes → State, City
 Candidate key → City
 Prime Attributes → City
 Non-Prime Attributes → Station
+
+## BCNF
+- Table should be in 3NF
+- Every attribute should be dependent on the candidate key
+
+| Roll no | Voter Id | Grade | Constituency |
+| ------- | -------- | ----- | ------------ |
+| 1       | 324      | S     | Singapore    |
+| 2       | 423      | A     | Malaysia     |
+| 3       | 53       | B     | North Korea  |
+| 4       | 6754     | F     | Antartica    |
+Roll No → Grade
+Voter ID → Constituency
+Roll No → Voter ID
+
+Candidate Key -> Roll No + Voter ID
+Super Key -> Roll No
+Non-Prime -> Grade, Constituency
