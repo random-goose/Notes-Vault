@@ -8,77 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a0629a402f4d818",
+            "id": "ae490d42d2b6f9e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV/IIPME/IIPME I.md",
+                "file": "IV/DBMS/DBMS V.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bd30df4ae975b882",
+            "id": "854407afdccc7f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV/IIPME/IIPME II.md",
+                "file": "IV/DBMS/DBMS IV.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9e93b1be64c6656",
+            "id": "1c46ebb4a8d5bfe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV/IIPME/IIPME III.md",
+                "file": "IV/DBMS/DBMS III.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d247ef16fb834325",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "0bc7b0ba8c5d6cf6",
+            "id": "c579aeba0fd50f44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV/IIPME/IIPME IV.md",
+                "file": "IV/DBMS/DBMS II.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "813be7c833f21fe2",
+            "id": "292791886482db9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV/IIPME/IIPME V.md",
+                "file": "IV/DBMS/DBMS I.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,38 +130,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b21e33e0510d376d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b4a680aee4fed6e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IV/IIPME/IIPME_To-Do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4362510ba419b64e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "IV/IIPME/IIPME III.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "7e6e98479fcb784d",
             "type": "leaf",
             "state": {
@@ -183,19 +141,14 @@
             }
           },
           {
-            "id": "110c26d439beabf0",
+            "id": "a53289614f54c4ae",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "markdown",
               "state": {
-                "file": "IV/IIPME/IIPME III.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "IV/DBMS/DBMS_To-Do.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -212,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV/IIPME/IIPME III.md"
+                "file": "IV/DBMS/DBMS I.md"
               }
             }
           }
@@ -220,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,15 +185,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d247ef16fb834325",
+  "active": "292791886482db9c",
   "lastOpenFiles": [
-    "IV/IIPME/IIPME I.md",
+    "IV/DBMS/DBMS II.md",
+    "IV/DBMS/DBMS III.md",
+    "IV/DBMS/DBMS IV.md",
+    "IV/DBMS/DBMS V.md",
+    "IV/DBMS/DBMS_To-Do.md",
     "IV/IIPME/IIPME V.md",
+    "IV/IIPME/IIPME_To-Do.md",
+    "IV/DBMS/DBMS I.md",
+    "IV/DBMS",
+    "IV/IIPME/IIPME I.md",
     "IV/IIPME/IIPME IV.md",
     "IV/IIPME/IIPME III.md",
-    "IV/IIPME/IIPME_To-Do.md",
     "IV/IIPME/IIPME II.md",
-    "Pasted image 20240718193223.png",
+    "Pics/Pasted image 20240718193223.png",
     "IV/OR/OR_To-Do.md",
     "IV/BCVS III/BCVS_To-Do.md",
     "IV/IIPME",
@@ -259,11 +219,7 @@
     "IV/JAVA/JAVA III.md",
     "IV/JAVA/Untitled",
     "IV/JAVA/Java II.md",
-    "IV/OS/OS_To-Do.md",
-    "IV/OS/OS III.md",
-    "IV/OS/OS V.md",
     "Pics/Pasted image 20240710184651.png",
-    "IV/OS/OS IV.md",
     "Pics/Pasted image 20240710152420.png",
     "Pics/Pasted image 20240710152244.png",
     "Pics/Pasted image 20240710152137.png",
@@ -273,8 +229,6 @@
     "Pics/Pasted image 20240705125611.png",
     "Pics/Pasted image 20240705125608.png",
     "Pics",
-    "Welcome.md",
-    "IV/OR/OR V.md",
     "IV/OR",
     "IV/JAVA",
     "IV/OS",
