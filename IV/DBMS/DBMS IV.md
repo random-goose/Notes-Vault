@@ -16,5 +16,49 @@ The normalization process is typically divided into several normal forms, each w
 - **4NF - Multi-values dependency**
 - **5NF - Joint dependency**
 
+## 1NF
+Table should not contain any duplicate values - one cell: one value
 
-## 1NF2qwe
+| StudentID | StudentName | Courses          |
+| --------- | ----------- | ---------------- |
+| 1         | Alice       | Math, Science    |
+| 2         | Bob         | English, History |
+
+| StudentID | StudentName | Course  |
+| --------- | ----------- | ------- |
+| 1         | Alice       | Math    |
+| 1         | Alice       | Science |
+| 2         | Bob         | English |
+| 2         | Bob         | History |
+
+# 2NF
+|StudentID|StudentName|Course|Instructor|
+|---|---|---|---|
+|1|Alice|Math|Dr. Smith|
+|1|Alice|Science|Dr. Taylor|
+|2|Bob|English|Dr. Jones|
+|2|Bob|History|Dr. Brown|
+
+**2NF Tables:**
+**Table: Student**
+
+| StudentID | StudentName |
+| --------- | ----------- |
+| 1         | Alice       |
+| 2         | Bob         |
+**Table: Course**
+
+| CourseID | Course  | Instructor |
+| -------- | ------- | ---------- |
+| 1        | Math    | Dr. Smith  |
+| 2        | English | Dr. Jones  |
+| 3        | Science | Dr. Taylor |
+| 4        | History | Dr. Brown  |
+**Table: Enrollment**
+
+| StudentID | CourseID |
+| --------- | -------- |
+| 1         | 1        |
+| 1         | 3        |
+| 2         | 2        |
+| 2         | 4        |
