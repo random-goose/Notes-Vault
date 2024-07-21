@@ -70,14 +70,36 @@ Candidate Key → Store ID
 - Non-prime attribute should not be dependent on non-prime attribute
 
 
-| RollNo | State | City |
-| ------ | ----- | ---- |
-| 1      | AP    | BZA  |
-| 2      | TS    | HYD  |
-| 3      | AP    | VIZ  |
-| 4      | TS    | HYD  |
-| 5      | MH    | BOM  |
-Candidate Key -> RollNo
-Prime Attributes -> Rollno
-Non-Prime Attributes -> State, City
-But here, city is determined by state
+| RollNo | State | City       | Station |
+| ------ | ----- | ---------- | ------- |
+| 1      | AP    | Vijayawada | BZA     |
+| 2      | TS    | Hyderabad  | HYB     |
+| 3      | AP    | Vizag      | VIZ     |
+| 4      | TS    | Hyderabad  | HYD     |
+| 5      | MH    | Bombay     | CST     |
+Candidate Key → RollNo
+Prime Attributes → Rollno
+Non-Prime Attributes → State, City, Station
+But here, Station is determined by City
+
+| RollNo | State | City       |
+| ------ | ----- | ---------- |
+| 1      | AP    | Vijayawada |
+| 2      | TS    | Hyderabad  |
+| 3      | AP    | Vizag      |
+| 4      | TS    | Hyderabad  |
+| 5      | MH    | Bombay     |
+Candidate Key → RollNo
+Prime Attributes → RollNo
+Non -Prime Attributes → State, City
+
+| City       | Station |
+| ---------- | ------- |
+| Vijayawada | BZA     |
+| Hyderabad  | HYB     |
+| Vizag      | VIZ     |
+| Hyderabad  | HYB     |
+| Bombay     | CST     |
+Candidate key → City
+Prime Attributes → City
+Non-Prime Attributes → Station
