@@ -22,7 +22,7 @@
 - [x] UNION
 - [x] INTERSECT
 - [ ] EXCEPT
-- [ ] Nested Queries
+- [x] Nested & Correlated Queries
 - [x] Triggers
 
 # IV

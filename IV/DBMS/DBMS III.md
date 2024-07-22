@@ -41,6 +41,17 @@ INTERSECT
 SELECT NAME, CITY FROM EMPLOYEES_MARKETING;
 ```
 
+# EXCEPT
+It is used to only return the rows of one query which are not present in another query
+Syntax:
+```SQL
+SELECT COL1, COL2
+FROM TABLE1
+EXCEPT
+SELECT COL1, COL2
+FROM TABLE2
+```
+This will return the rows of table1 out of columns 1 and 2 making sure they are not present in table 2
 # Triggers
 They are special type of stored procedures in a database that automatically execute when specific events occur. 
 They're used to maintaining data integrity, enforce rules, and automate certain operations.
@@ -128,5 +139,39 @@ graph TD
 	A --> Primary_Key
 	A --> Referential
 	A --> Check
+```
+
+# Nested and Correlated
+- Also called sub queries, they are queries embedded within another query.
+- The outer query is called the main query, and the inner query is called the sub-query
+- Used in `SELECT INSERT UPDATE DELETE` statements
+- They can return a single value or a set of values
+- The sub-query is executed first, and the result of the sub-query is used in the main query
+Syntax:
+```SQL
+SELECT employee_name
+FROM employees
+WHERE department_id IN (
+    SELECT department_id
+    FROM departments
+    WHERE location = 'New York'
+);
+```
+
+- Correlated queries are a specific type of nested query where the sub-query depends on the outer query for its values
+- The sub-query is executed for each row the outer query returns
+- It is independent on the outer query
+- Slower to execute as it is iterative
+- used for row operations or comparisons
+
+Syntax:
+```SQL
+SELECT e.employee_name, e.salary
+FROM employees e
+WHERE e.salary > (
+    SELECT AVG(salary)
+    FROM employees
+    WHERE department_id = e.department_id
+);
 ```
 
