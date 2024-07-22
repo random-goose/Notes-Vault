@@ -56,3 +56,10 @@ $$
 $$
 Touple Calculus: {t| P(t)}
 $$
+```SQL
+//Touple:
+{S | S ∈ Students ∧ S.GPA > 3.5}
+
+//Domain:
+{<sID, sName, sGPA> | (∃sID, sName, sGPA) ∈ Students ∧ sGPA > 3.5}
+```
