@@ -122,6 +122,12 @@ Roll No → Voter ID
 Candidate Key → Roll No + Voter ID
 Super Key → Roll No
 Non-Prime → Grade, Constituency
+
+## Summary
+1NF → Students and Courses
+2NF → CustID, StoreID, Location
+3NF → RolllNo, State, City, Station
+BCNF → RollNo, VoterID, Grade, Constituency
 # Decomposition
 ```mermaid
 graph TD
