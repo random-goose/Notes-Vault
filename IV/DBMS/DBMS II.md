@@ -36,5 +36,4 @@ Roti Curry Laddu Puri Idli Taravata Masala Dosa
 	- Perform regular backups and maintenance tasks
 	- Update the database schema as per changes
 	- Optimize and tune the database periodically
-
 # Constraints

@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV/DBMS/DBMS I.md",
+                "file": "IV/DBMS/DBMS II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,13 +183,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV/DBMS/DBMS I.md",
+                "file": "IV/DBMS/DBMS II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7683b3aa5247df6e",
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV/DBMS/DBMS I.md"
+                "file": "IV/DBMS/DBMS II.md"
               }
             }
           }
@@ -209,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,14 +222,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "292791886482db9c",
+  "active": "c579aeba0fd50f44",
   "lastOpenFiles": [
     "IV/DBMS/DBMS I.md",
-    "IV/DBMS/DBMS_To-Do.md",
-    "IV/DBMS/DBMS IV.md",
-    "IV/DBMS/DBMS III.md",
-    "IV/DBMS/DBMS V.md",
     "IV/DBMS/DBMS II.md",
+    "IV/DBMS/DBMS_To-Do.md",
+    "IV/DBMS/DBMS III.md",
+    "IV/DBMS/DBMS IV.md",
+    "IV/DBMS/DBMS V.md",
     "IV/IIPME/IIPME V.md",
     "IV/IIPME/IIPME_To-Do.md",
     "IV/DBMS",
