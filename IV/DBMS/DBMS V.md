@@ -32,3 +32,16 @@ graph TD
 | Consistency | Application Manager      |
 | Isolation   | Concurrency Ctrl Manager |
 | Durability  | Recovery Manager         |
+
+$$
+\begin{aligned}
+&\text{Basic} \\
+&\text{Selection} (\sigma) \\ 
+&\text{Projection} (\pi) \\ 
+&\text{Union} (U) \\ 
+&\text{Set Difference} (-) \\ 
+&\text{Set Intersection} (\cap) \\ 
+&\text{Rename} (\rho) \\ 
+&\text{Cartesian Product} (\times)
+\end{aligned}
+$$
