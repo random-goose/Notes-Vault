@@ -51,7 +51,10 @@ EXCEPT
 SELECT COL1, COL2
 FROM TABLE2
 ```
-This will return the rows of table1 out of columns 1 and 2 making sure they are not present in table 2
+- This will return the rows of table1 out of columns 1 and 2 making sure they are not present in table 2
+- It only returns distinct rows, removing any duplicates
+- The order matters it is always A EXCEPT B and not B EXCEPT A
+- NULL values are treated as equal by SQL
 # Triggers
 They are special type of stored procedures in a database that automatically execute when specific events occur. 
 They're used to maintaining data integrity, enforce rules, and automate certain operations.
@@ -118,7 +121,7 @@ EXECUTE FUNCTION notify_customer_insert();
 ## Not Null
 - Ensure that a column cannot have NULL vales
 ## Entity
-- Each row in a table is uniquely identifiable through a primary key
+- Each row in a table is uniquely identifiable through a primary key.
 ## Key
 - Primary Key
 - Unique Key
@@ -174,4 +177,23 @@ WHERE e.salary > (
     WHERE department_id = e.department_id
 );
 ```
+
+# Query
+Sailors Boats Reserves:
+Return the names of sailors who reserved all the boats:
+```sql
+SELECT s.sailor_id, s.sailor_name
+FROM sailors s
+WHERE NOT EXISTS (
+    SELECT b.boat_id
+    FROM boats b
+    WHERE NOT EXISTS (
+        SELECT r.boat_id
+        FROM reservations r
+        WHERE r.sailor_id = s.sailor_id
+        AND r.boat_id = b.boat_id
+    )
+);
+```
+
 

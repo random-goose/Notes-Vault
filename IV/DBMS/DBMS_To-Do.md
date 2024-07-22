@@ -21,7 +21,7 @@
 - [x] Views
 - [x] UNION
 - [x] INTERSECT
-- [ ] EXCEPT
+- [x] EXCEPT
 - [x] Nested & Correlated Queries
 - [x] Triggers
 
