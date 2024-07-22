@@ -76,9 +76,72 @@ Used to manage transactions and ensure data integrity
 ## DB Admin
 - Is a person or team who defines the schema and controls the three levels of the database, they will then create a username and password to access the DB.
 - They are also responsible for providing security to the DB, and allows only authorized personnel to access/modify the data
-- They have preveligies to perform all the languages, DML, DCL, TCL, DDL
+- They have privileges to perform all the languages, DML, DCL, TCL, DDL
 - They maintain the system and perform repairs.
 - The DBA account is also called the superuser account
-- The responsibility of backup and recovery lies on the hands of teh DMA.
+- The responsibility of backup and recovery lies on the hands of the DMA.
 ## Naive End Users
-- They are te unsophisitcal
+- They are the unsophisticated users who don't have DBMS knowledge but are the people using the DBMS from their endpoint
+## System Analyst
+- A system analyst is a user who aanalyses the requirements of End users
+
+## Sophisticated User
+- They are the engineers, scientists, business analysts who are familiar with the Database and develop new tools or integrate the Database into their tools to perform their duties, they have access to Query the DB Directly
+
+## DB Designers
+- The users who design the structure of the Database which includes tables, indexes, views, and triggers.
+- They control what data enters the Database and how the data attributes are related
+
+## Application Programmers
+- They are the software engineers who implement the DB into the backend of the deliverable application they are building
+- They use various languages and frameworks to integrate the database into the backend programming such as Node.js
+
+## Casual Users
+- They are the ones who occasionally access the DB, but each time they access it, they require new information, like top level management
+
+## Specialized Users
+- Who write specialized database programs that do not fit into the traditional data-processing famework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. DBA
+2. Naive
+3. Analyst
+4. Designer
+5. Appplication
+6. Casual
+7. Sophisticated
+8. Specialized
+
+DNA DA CSS
