@@ -125,3 +125,11 @@ Non-Prime → Grade, Constituency
 
 
 # Decomposition
+```mermaid
+graph TD
+	A[Decomposition] --> Lossy
+	A --> Lossless
+	Lossy --> Koi_Bhi_Row
+	Lossless --> Common_row_is_cand_key
+```
+
