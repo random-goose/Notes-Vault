@@ -85,11 +85,12 @@ $$
 graph TD
 	Active --> Partially_Committed
 	Partially_Committed --> Committed
-	Comitted --> Terminated
+	Committed --> Terminated
 	Active --> Failed
 	Partially_Committed --> Failed
 	Failed --> Roll_Back
 	Roll_Back --> Terminated
 ```
+
 
 

@@ -106,21 +106,9 @@ BEFORE INSERT ON Customer
 FOR EACH ROW
 BEGIN
 	IF :NEW.ID > 1000 THEN
-		RAISE_APPLICATION_ERROR(-200001, 'Invalid ID')
+		RAISE_APPLICATION_ERROR(-200001, 'Too many customers')
 	END IF;;
 	Dbms_output.out_line('New Customer Added!')
-END;
-```
-
-```SQL
-CREATE OR REPLCAE TRIGGER C1
-BEFORE INSERT ON Customer
-FOR EACH ROW
-BEGIN
-	IF :NEW.ID > 1000 THEN
-		RAISE_APPLICATION_ERROR(-200001, 'Invalid ID')
-	END IF;
-	Dbms_output.put_line('New Customer Added')
 END;
 ```
 
