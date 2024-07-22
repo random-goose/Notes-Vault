@@ -27,7 +27,7 @@
 
 # IV
 - [ ] Schema Refinement
-- [ ] Redundancy
+- [x] Redundancy
 - [x] Decomposition
 - [x] Normal Forms
 - [x] BCNF
