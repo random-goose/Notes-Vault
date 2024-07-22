@@ -91,6 +91,3 @@ graph TD
 	Failed --> Roll_Back
 	Roll_Back --> Terminated
 ```
-
-
-
