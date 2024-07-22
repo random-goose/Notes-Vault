@@ -77,3 +77,12 @@ $$
 //Domain:
 {<sID, sName, sGPA> | (∃sID, sName, sGPA) ∈ Students ∧ sGPA > 3.5}
 ```
+
+
+# States Of Transaction
+
+```mermaid
+graph TD
+	Active -> Partially_Comitted
+	Partially_Comitted -> Comitted
+```

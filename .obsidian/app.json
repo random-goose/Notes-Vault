@@ -37,7 +37,11 @@
     "savepoint",
     "Serializability",
     "COMPLIER",
-    "DML"
+    "DML",
+    "StoreID",
+    "CustID",
+    "RolllNo",
+    "VoterID"
   ],
   "spellcheck": false
 }

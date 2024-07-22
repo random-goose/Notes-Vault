@@ -109,25 +109,30 @@ Non-Prime Attributes → Station
 - Table should be in 3NF
 - Every attribute (including the keys themselves) should be dependent on the candidate key
 
-| Roll no | Voter Id | Grade | Constituency |
-| ------- | -------- | ----- | ------------ |
-| 1       | 324      | S     | Singapore    |
-| 2       | 423      | A     | Malaysia     |
-| 3       | 53       | B     | North Korea  |
-| 4       | 6754     | F     | Antartica    |
+| Roll no | Voter Id | Grade | Address     |
+| ------- | -------- | ----- | ----------- |
+| 1       | 324      | S     | Singapore   |
+| 2       | 423      | A     | Malaysia    |
+| 3       | 53       | B     | North Korea |
+| 4       | 6754     | F     | Antartica   |
 Roll No → Grade
-Voter ID → Constituency
+Roll No → Address
 Roll No → Voter ID
 
-Candidate Key → Roll No + Voter ID
+Candidate Key → Roll No
 Super Key → Roll No
-Non-Prime → Grade, Constituency
+Non-Prime → Grade, Address, Voter ID
 
 ## Summary
 1NF → Students and Courses
 2NF → CustID, StoreID, Location
 3NF → RolllNo, State, City, Station
 BCNF → RollNo, VoterID, Grade, Constituency
+
+1NF → Atomicity
+2NF → Functional Dependency
+3NF → Transitive Dependency
+BCNF → Every Attribute is Dependent on super key
 # Decomposition
 ```mermaid
 graph TD
