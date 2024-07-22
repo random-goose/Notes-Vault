@@ -2,7 +2,7 @@
 - [x] Intro
 - [x] File System v/s DBMS
 - [x] Lingo
-- [ ] Users
+- [x] Users
 - [ ] Models
 - [ ] Abstraction
 - [ ] Structure

@@ -100,48 +100,14 @@ Used to manage transactions and ensure data integrity
 - They are the ones who occasionally access the DB, but each time they access it, they require new information, like top level management
 
 ## Specialized Users
-- Who write specialized database programs that do not fit into the traditional data-processing famework
+- Who write specialized database programs that do not fit into the traditional data-processing framework
 
+![[DBMS.png]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. DBA
-2. Naive
-3. Analyst
-4. Designer
-5. Appplication
-6. Casual
-7. Sophisticated
-8. Specialized
-
-DNA DA CSS
+DBA SCHEMA DDL_COMPILER 
+USERS QUERY QUERY_PROCESSOR 
+APP DML COMPLIER
+DATA_DICT    AUTH_CTRL
+QUERY_OPT     CMD_PRC    INTEG_CHKR
+SCHEDULER     TRXN_MGR
+REC_MGR    BUFF_MGR
