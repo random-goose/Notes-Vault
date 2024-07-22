@@ -28,9 +28,10 @@
 # IV
 - [ ] Schema Refinement
 - [ ] Redundancy
-- [ ] Decomposition
+- [x] Decomposition
 - [x] Normal Forms
 - [x] BCNF
+- [x] Conflict Serializability
 
 # V
 - [ ] Relational Algebra

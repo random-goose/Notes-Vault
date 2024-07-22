@@ -66,3 +66,32 @@ Used to manage transactions and ensure data integrity
 - **SAVEPOINT:** Used to set a savepoint in the middle of a transaction
 
 
+# Structure / Architecture
+```mermaid
+flowchart TD
+    DBA[DBA] --> DS[Database Schema]
+    DS --> DDLC[DDL Compiler]
+    DDLC --> DDM[Data Dictionary Manager]
+
+    Users --> Queries
+    Queries --> QP[Query Processor]
+
+    AP[Application Programs] --> APP[Application Programs]
+    APP --> DMLC[DML Compiler]
+    
+    subgraph DBMS[Database Manager]
+        DDM <--> AC[Authorization Control]
+        QP <--> AC
+        DMLC <--> AC
+        AC --> CP[Command Processor]
+        QO[Query Optimizer] <--> CP
+        S[Scheduler] <--> CP
+        CP <--> IC[Integrity Checker]
+        CP --> TM[Transaction Manager]
+        RM[Recovery Manager] <--> TM
+        TM --> BM[Buffer Manager]
+        RM <--> BM
+    end
+    
+    BM --> DF[Data Files + Data Dictionary]
+```
