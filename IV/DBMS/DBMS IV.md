@@ -123,7 +123,7 @@ Candidate Key → Roll No + Voter ID
 Super Key → Roll No
 Non-Prime → Grade, Constituency
 
-
+	``
 # Decomposition
 ```mermaid
 graph TD
@@ -133,3 +133,4 @@ graph TD
 	Lossless --> Common_row_is_cand_key
 ```
 
+ 
