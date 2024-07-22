@@ -36,4 +36,20 @@ Roti Curry Laddu Puri Idli Taravata Masala Dosa
 	- Perform regular backups and maintenance tasks
 	- Update the database schema as per changes
 	- Optimize and tune the database periodically
-# Constraints
+
+
+# ER Model
+
+| Figure           | Represents              |
+| ---------------- | ----------------------- |
+| Rectangle        | Entities                |
+| Ellipse          | Attributes              |
+| Diamond          | Relationships           |
+| Line             | Attributes -> Entities  |
+| Double Ellipse   | Multi-Values Attributes |
+| Double Rectangle | Weak Entity             |
+```mermaid
+graph TD
+	A[ER Model] --> Entity
+	Entity --> 
+```

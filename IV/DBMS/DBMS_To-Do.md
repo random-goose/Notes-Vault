@@ -34,7 +34,7 @@
 - [x] Conflict Serializability
 
 # V
-- [ ] Relational Algebra
+- [x] Relational Algebra
 - [x] ACID Property
 - [ ] File Organization
 	- [ ] Indexing
