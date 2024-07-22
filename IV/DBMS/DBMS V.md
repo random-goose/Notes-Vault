@@ -46,7 +46,7 @@ $$
 &\text{Cartesian Product} (\times)
 \end{aligned}
 $$
-SPU SSRC
+
 CPU SSS
 Cross Prod
 Projection
@@ -54,6 +54,7 @@ Union
 Set Difference
 Set intersection
 Selection
+
 $$
 \begin{aligned}
 &\text{Derrived} \\
@@ -61,9 +62,11 @@ $$
 &\text{Conditional Join} \\
 \end{aligned}
 $$
+
 $$
 Touple Calculus: {t| P(t)}
 $$
+## TRC v/s DRC
 ```SQL
 //Touple:
 {S | S ∈ Students ∧ S.GPA > 3.5}
@@ -72,5 +75,3 @@ $$
 {<sID, sName, sGPA> | (∃sID, sName, sGPA) ∈ Students ∧ sGPA > 3.5}
 ```
 
-S | S E Students ^ S.gpa > 3.5
-<sID, sName, sGPA> | (sID, sName, sGPA) E Students ^ sGPA > 3.5
