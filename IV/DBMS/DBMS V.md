@@ -77,4 +77,3 @@ $$
 //Domain:
 {<sID, sName, sGPA> | (∃sID, sName, sGPA) ∈ Students ∧ sGPA > 3.5}
 ```
-
