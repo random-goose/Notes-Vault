@@ -79,7 +79,7 @@ Candidate Key → Store ID
 | 4      | TS    | Hyderabad  | HYD     |
 | 5      | MH    | Bombay     | CST     |
 Candidate Key → RollNo
-Prime Attributes → Rollno
+Prime Attributes → RollNo
 Non-Prime Attributes → State, City, Station
 But here, Station is determined by City
 
@@ -120,5 +120,8 @@ Voter ID → Constituency
 Roll No → Voter ID
 
 Candidate Key → Roll No + Voter ID
-Super Key -> Roll No
-Non-Prime -> Grade, Constituency
+Super Key → Roll No
+Non-Prime → Grade, Constituency
+
+
+# Decomposition
