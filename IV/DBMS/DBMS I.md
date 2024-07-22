@@ -67,31 +67,18 @@ Used to manage transactions and ensure data integrity
 
 
 # Structure / Architecture
-```mermaid
-flowchart TD
-    DBA[DBA] --> DS[Database Schema]
-    DS --> DDLC[DDL Compiler]
-    DDLC --> DDM[Data Dictionary Manager]
 
-    Users --> Queries
-    Queries --> QP[Query Processor]
-
-    AP[Application Programs] --> APP[Application Programs]
-    APP --> DMLC[DML Compiler]
-    
-    subgraph DBMS[Database Manager]
-        DDM <--> AC[Authorization Control]
-        QP <--> AC
-        DMLC <--> AC
-        AC --> CP[Command Processor]
-        QO[Query Optimizer] <--> CP
-        S[Scheduler] <--> CP
-        CP <--> IC[Integrity Checker]
-        CP --> TM[Transaction Manager]
-        RM[Recovery Manager] <--> TM
-        TM --> BM[Buffer Manager]
-        RM <--> BM
-    end
-    
-    BM --> DF[Data Files + Data Dictionary]
-```
+# Types of DBMS
+- Relational DBMS: An RDBMS stores data in tables with rows and columns, used SQL (Structured Query Language)
+- Object-Oriented DBMS: Am OODBMS stores data as objects, which can be manipulated using object-oriented programming languages
+- NoSQL DBMS: Stores data in non-relational data structures, such as key-value pairs
+# Users
+## DB Admin
+- Is a person or team who defines the schema and controls the three levels of the database, they will then create a username and password to access the DB.
+- They are also responsible for providing security to the DB, and allows only authorized personnel to access/modify the data
+- They have preveligies to perform all the languages, DML, DCL, TCL, DDL
+- They maintain the system and perform repairs.
+- The DBA account is also called the superuser account
+- The responsibility of backup and recovery lies on the hands of teh DMA.
+## Naive End Users
+- They are te unsophisitcal
