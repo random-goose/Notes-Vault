@@ -83,6 +83,13 @@ $$
 
 ```mermaid
 graph TD
-	Active -> Partially_Comitted
-	Partially_Comitted -> Comitted
+	Active --> Partially_Committed
+	Partially_Committed --> Committed
+	Comitted --> Terminated
+	Active --> Failed
+	Partially_Committed --> Failed
+	Failed --> Roll_Back
+	Roll_Back --> Terminated
 ```
+
+

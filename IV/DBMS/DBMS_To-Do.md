@@ -10,8 +10,8 @@
 # II
 - [ ] Conceptual Design
 - [x] DB Design and ER Diagrams
-- [ ] Relationships and Keys
-- [ ] Key constraints
+- [x] Relationships and Keys
+- [x] Key constraints
 - [ ] Conceptual Design with ER
 
 # III
@@ -38,3 +38,4 @@
 - [x] ACID Property
 - [ ] File Organization
 	- [ ] Indexing
+- [x] Transaction States

@@ -101,18 +101,27 @@ graph TD
 ```
 
 ```SQL
-CREATE OR REPLACE FUNCTION notify_customer_insert()
-RETURNS TRIGGER AS $$
-BEGIN
-    RAISE NOTICE 'New customer inserted!';
-    RETURN NEW;
-END;
-$$ LANGUAGE plpgsql;
-
-CREATE TRIGGER after_customer_insert
-AFTER INSERT ON customers
+CREATE OR REPLACE TRIGGER C1
+BEFORE INSERT ON Customer
 FOR EACH ROW
-EXECUTE FUNCTION notify_customer_insert();
+BEGIN
+	IF :NEW.ID > 1000 THEN
+		RAISE_APPLICATION_ERROR(-200001, 'Invalid ID')
+	END IF;;
+	Dbms_output.out_line('New Customer Added!')
+END;
+```
+
+```SQL
+CREATE OR REPLCAE TRIGGER C1
+BEFORE INSERT ON Customer
+FOR EACH ROW
+BEGIN
+	IF :NEW.ID > 1000 THEN
+		RAISE_APPLICATION_ERROR(-200001, 'Invalid ID')
+	END IF;
+	Dbms_output.put_line('New Customer Added')
+END;
 ```
 
 # Constraints
