@@ -51,5 +51,18 @@ Roti Curry Laddu Puri Idli Taravata Masala Dosa
 ```mermaid
 graph TD
 	A[ER Model] --> Entity
-	Entity --> 
+	Entity --> Strong_Entity
+	Strong_Entity --> Weak_Entity
+	A --> B[Attribute]
+	B --> B1[Key]
+	B1 --> B2[Composite]
+	B2 --> B3[Multivalued]
+	B3 --> B4[Derived]
+	A --> C[Relationship]
+	C --> C1[One_to_One]
+	C1 --> C2[One_to_Many]
+	C2 --> C3[Many_to_One]
+	C3 --> C4[Many_to_Many]
 ```
+
+
