@@ -33,6 +33,7 @@ graph TD
 | Isolation   | Concurrency Ctrl Manager |
 | Durability  | Recovery Manager         |
 
+# Relational Algebra Operators
 $$
 \begin{aligned}
 &\text{Basic} \\
@@ -44,4 +45,14 @@ $$
 &\text{Rename} (\rho) \\ 
 &\text{Cartesian Product} (\times)
 \end{aligned}
+$$
+$$
+\begin{aligned}
+&\text{Derrived} \\
+&\text{Natural Join} (⋈) \\
+&\text{Conditional Join} \\
+\end{aligned}
+$$
+$$
+Touple Calculus: {t| P(t)}
 $$
