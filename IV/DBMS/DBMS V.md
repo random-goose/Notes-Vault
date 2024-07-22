@@ -32,7 +32,10 @@ graph TD
 | Consistency | Application Manager      |
 | Isolation   | Concurrency Ctrl Manager |
 | Durability  | Recovery Manager         |
-
+A - T
+C - A
+I - C
+D - R
 # Relational Algebra Operators
 $$
 \begin{aligned}
