@@ -34,7 +34,8 @@
     "Cust",
     "RollNo",
     "SAVEPOINT",
-    "savepoint"
+    "savepoint",
+    "Serializability"
   ],
   "spellcheck": false
 }
