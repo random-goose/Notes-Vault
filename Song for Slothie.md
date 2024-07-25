@@ -33,19 +33,22 @@ wash up to the sea shore
 
 do you think we're gonna-
 you think that i've any idea?
-wont let this stop
+cant let this stop
 we trot our way
 lets venture out 
-no matter what happens
+no matter
 we never stop
 no place else
 thats alright
 just for right now
 need you here
+by my side
+going out trill
+paradise
 
 when you stood in front of me,
 i forgot every facet of be;
-open the doors to heaven
+opened the doors to heaven
 is this happening?
 
 You hopped into my life
@@ -58,7 +61,7 @@ all of that
 i just wanna talk to you
 about birds and bees
 and cotton candy
-every gossip out there
+all the gossip
 i wanna talk to you
 day in and day out
 
@@ -74,3 +77,10 @@ the
 
 but will the stories ever end?
 can we continue that in our dreams?
+
+
+it was a wonderful scene
+you put the windows down
+there was such a nice breeze
+as you do your little tease
+my heart, its a peice
