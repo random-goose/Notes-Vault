@@ -32,10 +32,16 @@ In the age of a river
 wash up to the sea shore
 
 do you think we're gonna-
-you think i've any idea?
-wont let this stop our steps
+you think that i've any idea?
+wont let this stop
+we trot our way
 lets venture out 
 no matter what happens
+we never stop
+no place else
+thats alright
+just for right now
+need you here
 
 when you stood in front of me,
 i forgot every facet of be;
@@ -55,7 +61,16 @@ and cotton candy
 every gossip out there
 i wanna talk to you
 day in and day out
-lights out drunk at 3 am
+
+while the city freaks
+driving themselves crazy
+with you i wanna be
+driving with the windows down
+and if you wanna stop
+and have 
+
+and all our secret little rendezvous
+the 
 
 but will the stories ever end?
 can we continue that in our dreams?
