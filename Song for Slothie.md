@@ -80,6 +80,8 @@ can we continue that in our dreams?
 
 
 
+
+
 you put the windows down
 
 it was a wonderful scene
@@ -105,3 +107,14 @@ to my pain and agony,
 you're the only remedy
 sexy ass secretary
 our forever devotee
+
+a thousand miles apart we lay, but it's our love, and it's way
+I know it sounds cray
+and sometimes its gray
+still you're my bae
+no boundary we don't break
+stare at you while i bake
+u say hol up let him cook
+I just love the way you look
+staring at you while you juke
+hanging clothes on the hook
