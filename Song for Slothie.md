@@ -79,8 +79,19 @@ but will the stories ever end?
 can we continue that in our dreams?
 
 
-it was a wonderful scene
+
 you put the windows down
+
+it was a wonderful scene
 there was such a nice breeze
 as you do your little tease
-my heart, its a peice
+made me feel like
+the king of seven seas
+just singing along
+all the countless melodies
+when you stood in front of me
+lost track of what could be
+you smile so heavenly
+
+staring at my phone screen
+at you smile, so heavenly
