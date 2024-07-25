@@ -94,4 +94,14 @@ lost track of what could be
 you smile so heavenly
 
 staring at my phone screen
-at you smile, so heavenly
+it;s in your smile, so heavenly
+my inherent tendency
+in effigy of husbandry
+with our lasting legacy
+make me hard like puberty
+rock hard, like Tiffany
+the sweet smell of victory
+to my pain and agony,
+you're the only remedy
+sexy ass secretary
+our forever devotee
