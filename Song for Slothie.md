@@ -35,11 +35,26 @@ do i know for shit?
 wont stop our steps
 lets venture out 
 nomatter what happens
-when you stand in front of me
-i forget every facet of knowing
+
+when you stood in front of me,
+i forgot every facet of be;
 open the doors to heaven
 is this happening?
 
 You hopped into my life
-my whole destiny
+my whole deeesssssstiny
 changed so much 
+and if the sky was my diary
+won't be enough for me to write
+all of that
+
+i just wanna talk to you
+about birds and bees
+and cotton candy
+every gossip out there
+i wanna talk to you
+day in and day out
+lights out drunk at 3 am
+
+but will the stories ever end?
+can we continue that in our dreams?
