@@ -24,7 +24,6 @@ On this slippery slope
 heading out to the unknown
 
 # Stuff am making up
-Alphonse - Emetemito
 I have no idea what the fuck is going on
 On this slippery slope
 heading out to the unknown
@@ -89,14 +88,13 @@ there was such a nice breeze
 as you do your little tease
 made me feel like
 the king of seven seas
-just singing along
+just you and me singing
 all the countless melodies
 when you stood in front of me
 lost track of what could be
-you smile so heavenly
 
 staring at my phone screen
-it;s in your smile, so heavenly
+it’s in your smile, so heavenly
 my inherent tendency
 in effigy of husbandry
 with our lasting legacy
@@ -106,15 +104,25 @@ the sweet smell of victory
 to my pain and agony,
 you're the only remedy
 sexy ass secretary
-our forever devotee
+your forever devotee
 
 a thousand miles apart we lay, but it's our love, and it's way
 I know it sounds cray
 and sometimes its gray
 still you're my bae
 no boundary we don't break
-stare at you while i bake
+stare at you while I bake
+you get the best cake
 u say hol up let him cook
 I just love the way you look
 staring at you while you juke
 hanging clothes on the hook
+can I sneak a quick look
+fuck Microsoft Outlook
+i think you're gonna lost your mind
+reading my shitty rhymes
+please, I'm just a guy
+your milkshake gonna bring me into the yard
+sitting in class i finna prey
+about tits and Courvoisier
+
