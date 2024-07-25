@@ -28,13 +28,14 @@ Alphonse - Emetemito
 I have no idea what the fuck is going on
 On this slippery slope
 heading out to the unknown
-In the age of damnation
-do you know if we're gonna-
-do you have any idea?
-do i know for shit?
-wont stop our steps
+In the age of a river
+wash up to the sea shore
+
+do you think we're gonna-
+you think i've any idea?
+wont let this stop our steps
 lets venture out 
-nomatter what happens
+no matter what happens
 
 when you stood in front of me,
 i forgot every facet of be;
