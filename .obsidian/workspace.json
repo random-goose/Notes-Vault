@@ -8,79 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae490d42d2b6f9e0",
+            "id": "0d89e34140451347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV/DBMS/DBMS V.md",
+                "file": "V/MWA/WMA 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8191a78a16573112",
+            "id": "bd340b643919a936",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Song for Slothie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "854407afdccc7f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IV/DBMS/DBMS IV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c46ebb4a8d5bfe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IV/DBMS/DBMS III.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c579aeba0fd50f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IV/DBMS/DBMS II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "292791886482db9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IV/DBMS/DBMS I.md",
+                "file": "MWA Syllabus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV/DBMS/DBMS IV.md"
+                "file": "V/MWA/WMA 1.md"
               }
             }
           },
@@ -187,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV/DBMS/DBMS IV.md",
+                "file": "V/MWA/WMA 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV/DBMS/DBMS IV.md",
+                "file": "V/MWA/WMA 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,16 +179,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "854407afdccc7f8c",
+  "active": "0d89e34140451347",
   "lastOpenFiles": [
+    "MWA Syllabus.md",
+    "V/MWA/WMA 1.md",
+    "IV/DBMS/DBMS IV.md",
+    "V/MWA",
+    "V",
+    "Pasted image 20240725083449.png",
     "Song for Slothie.md",
     "IV/DBMS/DBMS I.md",
     "IV/DBMS/DBMS II.md",
-    "Pasted image 20240725083449.png",
     "IV/DBMS/DBMS V.md",
     "IV/DBMS/DBMS_To-Do.md",
     "IV/DBMS/DBMS III.md",
-    "IV/DBMS/DBMS IV.md",
     "Pics/DBMS.png",
     "IV/IIPME/IIPME V.md",
     "IV/IIPME/IIPME_To-Do.md",
@@ -261,7 +216,6 @@
     "IV/JAVA/Java_To-Do.md",
     "IV/BCVS III",
     "IV/JAVA/Java I.md",
-    "IV/JAVA/Java IV.md",
     "IV/JAVA/Untitled",
     "Pics/Pasted image 20240710184651.png",
     "Pics/Pasted image 20240710152420.png",
@@ -272,8 +226,6 @@
     "Pics/Pasted image 20240706011705.png",
     "Pics",
     "IV/OR",
-    "IV/JAVA",
-    "IV/OS",
-    "IV"
+    "IV/JAVA"
   ]
 }
