@@ -23,10 +23,24 @@ graph TD
 ## Components of Website WAHDCN
 W -> Web Host
 A -> Address
-H -> Host
-D -> Data
+H -> Homepage
+D -> Design
 C -> Connection
-N -> NEtwo
+N -> Network Navigation
+
+### Web Host
+- It is the location where the website is physically located.
+### Address
+- It is the url
+### Homepage
+- it is the first / default page of the site
+### Design
+- Final and overall look and feel of the website
+### Content
+- Every webpage part of the website, is the content of the website
+### Network Navigation
+- Order of the pages, and the collection of links makes up the naviagtion of the website
+
 
 
 

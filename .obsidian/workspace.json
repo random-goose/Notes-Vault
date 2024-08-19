@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +180,9 @@
   },
   "active": "0d89e34140451347",
   "lastOpenFiles": [
-    "MWA Syllabus.md",
+    "IV/DBMS/DBMS_To-Do.md",
     "V/MWA/WMA 1.md",
+    "MWA Syllabus.md",
     "IV/DBMS/DBMS IV.md",
     "V/MWA",
     "V",
@@ -191,7 +191,6 @@
     "IV/DBMS/DBMS I.md",
     "IV/DBMS/DBMS II.md",
     "IV/DBMS/DBMS V.md",
-    "IV/DBMS/DBMS_To-Do.md",
     "IV/DBMS/DBMS III.md",
     "Pics/DBMS.png",
     "IV/IIPME/IIPME V.md",
