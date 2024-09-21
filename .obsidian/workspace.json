@@ -11,24 +11,16 @@
             "id": "0d89e34140451347",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V/MWA/WMA 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "bd340b643919a936",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MWA Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -119,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "V/MWA/WMA 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V/MWA/WMA 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V/MWA/WMA 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
