@@ -3,14 +3,14 @@
 2.Design a DFA that accepts set of all strings which interpreted as ternary representation of an integer, is congruent to zero modulo 5.
 
 3. Describe the phases of compiler with the following example.
-C[i][j]=C[i][j]+A[i][k]*B[k][j];
+$C[i][j]=C[i][j]+A[i][k]*B[k][j];$
 
 4. Describe the phases of compiler with the following example (rate is float value).
 Position: =initial  + rate * 60;
 
 5. Prove or disprove that the following is an LL(1) grammar. 
-G:  S → (L) | a,
-L → L,S | S
+G:  S → (L) | ab
+L → LbS | S
 
 6. Verify whether the following grammar is LL (1) or not.
 SiEtS 
