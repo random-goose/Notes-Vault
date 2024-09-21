@@ -1,4 +1,23 @@
-# Question 3 - Compiler Phases
+# Question 3 + 4 ⇾ Compiler Phases
+## Compiler Phases:
+### 1. Lexical Analysis
+### 2. Syntax Analysis
+### 3. Semantic Analysis
+### 4. Intermediate Code Gen
+### 5. Optimization
+### 6. Code Gen
+
+```mermaid
+flowchart TD
+    A[Source Code] --> B[Lexical Analysis]
+    B --> C[Syntactic Analysis]
+    C --> D[Semantic Analysis]
+    D --> E[Intermediate Code Generation]
+    E --> F[Code Optimization]
+    F --> G[Code Generation]
+    G --> H[Target Code]
+```
+
 Describe the phases of compiler with the following example.
 $C[i][j]=C[i][j]+A[i][k]*B[k][j]$
 
@@ -52,34 +71,11 @@ STORE C[i][j], R4     ; Store the result back to C[i][j]
 ```
 
 
-
-# Question 4: Compiler Phases contd.
-
-## Compiler Phases:
-### 1. Lexical Analysis
-### 2. Syntax Analysis
-### 3. Semantic Analysis
-### 4. Intermediate Code Gen
-### 5. Optimization
-### 6. Code Gen
-
-```mermaid
-flowchart TD
-    A[Source Code] --> B[Lexical Analysis]
-    B --> C[Syntactic Analysis]
-    C --> D[Semantic Analysis]
-    D --> E[Intermediate Code Generation]
-    E --> F[Code Optimization]
-    F --> G[Code Generation]
-    G --> H[Target Code]
-
-```
-Lexical Analysis:
+1. Lexical Analysis:
 	Identifiers: Position, Initial, Rate (float)
 	Operators: =, +, *
 	Literals: 60
-	
-Syntactic Analysis:
+2. Syntactic Analysis:
 	ASM For: $Position = initial  + rate * 60$
 ```mermaid
 graph TD
@@ -90,26 +86,28 @@ graph TD
 	E --> rate
 	E --> 60
 ```
-
-Semantic Analysis:
+3. Semantic Analysis:
 	- Verifies that 'Position', 'initial', and 'rate' are declared variables.
 	- Confirms that 'Position' is assignable.
 	- Determines that 'rate' is a float (as specified in the problem).
 	- Checks if 'initial' is compatible with float operations.
 	- Verifies that the operations (addition and multiplication) are valid for these types.
-
-Intermidate Code Generation:
+4. Intermediate Code Generation:
 ```intermediate
 t1 = rate * 60
 t2 = initial + t1
 Position = t2
 ```
-
-Optimization:
-	- If 60 is frequently used, it might 
-	- Strength reduction: Depending on the target architecture, it might replace the floating-point multiplication with a series of additions if it's faster.
-	- Instruction reordering: It might reorder instructions for better pipeline utilization.
-
-Code Generation:
-
+5. Optimization:
+	- If 60 is frequently used, it might get converted to a float literal
+	- Multiplication might get replaced with repeated addition
+	- It might re-order the code
+6. Code Generation:
+```ASM
+MOV r0, #60              ; Load 60 into integer register
+VCVT.F32.S32 f3, r0      ; Convert 60 to float
+VMUL.F32 f3, f2, f3      ; Multiply rate by 60
+VADD.F32 f0, f1, f3      ; Add initial to the result
+VSTR f0, [r1]            ; Store result in Position (address in r1)
+```
 
