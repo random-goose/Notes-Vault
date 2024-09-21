@@ -1,4 +1,4 @@
-# Question 3
+# Question 3 - Compiler Phases
 Describe the phases of compiler with the following example.
 $C[i][j]=C[i][j]+A[i][k]*B[k][j]$
 
@@ -18,8 +18,6 @@ graph TD
 	E --> G["B[k][j]"]
 ```
 
-
-
 3. Semantic Analysis: This phase checks for semantic correctness. For our example, it would:
 	- Verify that C, A, and B are declared as 2D arrays
 	- Check that i, j, and k are valid indices
@@ -34,7 +32,25 @@ C[i][j] = C[i][j] + temp3
 ```
 
 5. Optimization: The compiler applies various optimizations. For matrix multiplication, it might:
+```Optimized
+temp4 = C[i][j]
+temp1 = A[i][k]
+temp2 = B[k][j]
+temp3 = temp1 * temp2
+temp4 = temp4 + temp3
+C[i][j] = temp4
 ```
+
+5. Code Generation: The compiler generates machine code or assembly. This depends on the target architecture, but it would involve:
+```ASM
+LOAD R1, A[i][k]      ; Load A[i][k] into register R1
+LOAD R2, B[k][j]      ; Load B[k][j] into register R2
+MUL R3, R1, R2        ; R3 = R1 * R2 (A[i][k] * B[k][j])
+LOAD R4, C[i][j]      ; Load C[i][j] into register R4
+ADD R4, R4, R3        ; R4 = R4 + R3
+STORE C[i][j], R4     ; Store the result back to C[i][j]
 ```
 
 
+
+# Question 4: Compiler Phases contd.
