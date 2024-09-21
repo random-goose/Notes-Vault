@@ -54,3 +54,35 @@ STORE C[i][j], R4     ; Store the result back to C[i][j]
 
 
 # Question 4: Compiler Phases contd.
+
+## Compiler Phases:
+### 1. Lexical Analysis
+### 2. Syntax Analysis
+### 3. Semantic Analysis
+### 4. Intermediate Code Gen
+### 5. Optimization
+### 6. Code Gen
+
+```mermaid
+flowchart TD
+    A[Source Code] --> B[Lexical Analysis]
+    B --> C[Syntactic Analysis]
+    C --> D[Semantic Analysis]
+    D --> E[Intermediate Code Generation]
+    E --> F[Code Optimization]
+    F --> G[Code Generation]
+    G --> H[Target Code]
+
+```
+
+syntaaASM For: $Position = initial  + rate * 60$
+```mermaid
+graph TD
+	A[Assignment] --> B[Position]
+	A --> C[Addition]
+	C --> D[Initial]
+	C --> E[Multiplication]
+	E --> rate
+	E --> 60
+```
+
