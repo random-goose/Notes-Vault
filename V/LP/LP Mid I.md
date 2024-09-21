@@ -74,8 +74,13 @@ flowchart TD
     G --> H[Target Code]
 
 ```
-
-syntaaASM For: $Position = initial  + rate * 60$
+Lexical Analysis:
+	Identifiers: Position, Initial, Rate (float)
+	Operators: =, +, *
+	Literals: 60
+	
+Syntactic Analysis:
+	ASM For: $Position = initial  + rate * 60$
 ```mermaid
 graph TD
 	A[Assignment] --> B[Position]
@@ -85,4 +90,26 @@ graph TD
 	E --> rate
 	E --> 60
 ```
+
+Semantic Analysis:
+	- Verifies that 'Position', 'initial', and 'rate' are declared variables.
+	- Confirms that 'Position' is assignable.
+	- Determines that 'rate' is a float (as specified in the problem).
+	- Checks if 'initial' is compatible with float operations.
+	- Verifies that the operations (addition and multiplication) are valid for these types.
+
+Intermidate Code Generation:
+```intermediate
+t1 = rate * 60
+t2 = initial + t1
+Position = t2
+```
+
+Optimization:
+	- If 60 is frequently used, it might 
+	- Strength reduction: Depending on the target architecture, it might replace the floating-point multiplication with a series of additions if it's faster.
+	- Instruction reordering: It might reorder instructions for better pipeline utilization.
+
+Code Generation:
+
 
