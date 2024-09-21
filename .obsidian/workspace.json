@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LP Mid Questions.md"
+                "file": "V/LP/LP Mid I.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LP Mid Questions.md",
+                "file": "V/LP/LP Mid I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LP Mid Questions.md",
+                "file": "V/LP/LP Mid I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 650.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd340b643919a936",
+  "active": "39bdadb82c512fa7",
   "lastOpenFiles": [
-    "V/LP/LP Mid I.md",
     "LP Mid Questions.md",
+    "V/LP/LP Mid I.md",
     "V/LP/LP II.md",
     "IV/DBMS/DBMS_To-Do.md",
     "V/MWA/WMA 1.md",

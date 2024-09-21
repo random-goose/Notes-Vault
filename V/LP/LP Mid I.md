@@ -21,7 +21,7 @@ flowchart TD
 
 Describe the phases of compiler with the following example.
 $C[i][j]=C[i][j]+A[i][k]*B[k][j]$
-
+l
 1. Lexical Analysis: The lexer breaks down the input into tokens:
 	- Identifiers: C, i, j, A, k, B
 	- Operators: =, +, *
