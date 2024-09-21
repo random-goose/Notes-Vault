@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "544565de03945389",
+            "id": "39bdadb82c512fa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,12 +35,16 @@
             "id": "bd340b643919a936",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LP Mid Questions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V/LP/LP Mid I.md"
+                "file": "LP Mid Questions.md"
               }
             }
           },
@@ -147,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V/LP/LP Mid I.md",
+                "file": "LP Mid Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V/LP/LP Mid I.md",
+                "file": "LP Mid Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "544565de03945389",
+  "active": "bd340b643919a936",
   "lastOpenFiles": [
-    "V/LP/LP II.md",
     "V/LP/LP Mid I.md",
+    "LP Mid Questions.md",
+    "V/LP/LP II.md",
     "IV/DBMS/DBMS_To-Do.md",
     "V/MWA/WMA 1.md",
     "MWA Syllabus.md",
@@ -222,7 +227,6 @@
     "IV/BCVS III/BSVS III.md",
     "IV/BCVS III/BCVS I.md",
     "IV/BCVS III/Untitled",
-    "IV/JAVA/JAVA V.md",
     "IV/BCVS III",
     "IV/JAVA/Untitled",
     "Pics/Pasted image 20240710184651.png",

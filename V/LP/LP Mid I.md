@@ -42,7 +42,6 @@ graph TD
 	- Verify that C, A, and B are declared as 2D arrays
 	- Check that i, j, and k are valid indices
 	- Ensure types are compatible for the operations
-
 4. Intermediate Code Generation: The compiler generates an intermediate representation. For our example, it might look like:
 ```Intermediate
 temp1 = A[i][k]
@@ -60,7 +59,6 @@ temp3 = temp1 * temp2
 temp4 = temp4 + temp3
 C[i][j] = temp4
 ```
-
 5. Code Generation: The compiler generates machine code or assembly. This depends on the target architecture, but it would involve:
 ```ASM
 LOAD R1, A[i][k]      ; Load A[i][k] into register R1
@@ -70,8 +68,6 @@ LOAD R4, C[i][j]      ; Load C[i][j] into register R4
 ADD R4, R4, R3        ; R4 = R4 + R3
 STORE C[i][j], R4     ; Store the result back to C[i][j]
 ```
-
-
 1. Lexical Analysis:
 	Identifiers: Position, Initial, Rate (float)
 	Operators: =, +, *
@@ -112,3 +108,4 @@ VADD.F32 f0, f1, f3      ; Add initial to the result
 VSTR f0, [r1]            ; Store result in Position (address in r1)
 ```
 
+# LL(1) Question 5 + 6
