@@ -7,6 +7,7 @@
 ### 5. Optimization
 ### 6. Code Gen
 
+
 ```mermaid
 flowchart TD
     A[Source Code] --> B[Lexical Analysis]
