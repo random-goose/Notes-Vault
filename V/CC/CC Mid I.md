@@ -58,11 +58,27 @@ graph TD
 
 # TCP/IP
 is the fundamental communication protocol of the internet.
-Is is a suite of communication protocols used to interconnect network devices on the internet and other computer networks.
+It is a suite of communication protocols used to interconnect network devices on the internet and other computer networks.
 
 Layers:
 Application - HTTP / DNS
 Transport - TCP / UDP
 Internet - IPV4 / IPV6
 Network Access - PPP, Ethernet
+
+TCP ensures reliable and ordered data delivery, and IP handles addressing and routing of data packets
+
+Features:
+- TCP establishes the connection before data transfer and 
+- It checks for errors
+- it manages the transmission speed
+- And addresses using IP
+
+Benefits:
+- Platform Independent
+- Scalable
+- Open Standard
+
+It forms most of the present day internet traffic and is essential for email, web surfing and other internet services
+
 
