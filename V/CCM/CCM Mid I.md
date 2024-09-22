@@ -3,7 +3,7 @@
 
 # 1
 ## Cloud Computing
-IT is the delivery of computing resources such as compute (CPU or GPU or TPU etc.), Storage, Databases, Networking, Software and Analytics - over the interned. It allows the users to access and store data on remote servers rather than devices on premises, which in theory provides flexibility, scalability, and savings
+It is the delivery of computing resources such as compute (CPU or GPU or TPU etc.), Storage, Databases, Networking, Software and Analytics - over the interned. It allows the users to access and store data on remote servers rather than devices on premises, which in theory provides flexibility, scalability, and savings
 
 - On Demand: Users can provision computing resources as needed without using human intervention
 - Broad Network access: servers can be accesses form anywhere via the internet
@@ -65,11 +65,9 @@ refers to the use of portable computers such as laptops, tablets, smartphones an
 - Use of Mobile Hardware
 - Different software tailored to the mobile devices
 - Communication Networks
-
 - Portability
 - Real Time Access
 - Increased Productivity
-
 - Mobile Banking - Pay TM, Google Pay
 - GPS Navigation
 - Social Media
