@@ -27,8 +27,39 @@ IT is the delivery of computing resources such as compute (CPU or GPU or TPU etc
 - DB aaS - Mongo Atlas
 - Functions aaS - Serverless Computing - Vercel
 - AI aaS - IBM Watson
-- Security aaS - McAfee
 - Comm aaS - Slack
+- CDN
+- Monitoring of Resources
+
+### Advantages
+- Cost Effective (theoretically)
+- Scalability
+- Accessibility
+- Automatic Updates
+- Disaster Recovery
+### Disadvantages
+- Internet Dependency
+- Security Concerns
+- Limited Control
+- Vendor Lock-In
+- Potential Downtime
+- Compliance Issues
+
+#### Utilization Management
+- Resource Monitoring
+- Auto-Scaling
+- Load Balancing
+- Performance Optimization
+- Cost Management
+
+### Security
+- Access Control
+- Encryption
+- Network Security
+- Compliance
+- Regular Audits
+- Incident Response
+
 ## Mobile Computing
 refers to the use of portable computers such as laptops, tablets, smartphones and wearables, which allow the user to perform computational tasks anytime and anywhere, typically over a wireless network, either 4g/5g mobile networks or Wi-Fi. It allows seamless access to applications, internet services and data storage when on the move
 - Use of Mobile Hardware
