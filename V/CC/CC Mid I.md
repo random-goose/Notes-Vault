@@ -56,15 +56,3 @@ graph TD
 	C --> K[Infrared]
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
