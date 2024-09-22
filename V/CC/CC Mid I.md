@@ -10,4 +10,26 @@ APSTNDP
 6. Data Link - MAC Add + Bits → Frames + Checksums (CRC) - Switch, Bridge
 7. Physical - Medium of Transfer - Cables, Wi-Fi, Hub, Modem, Repeater
 
-# T
+# Topologies
+BSRMTH
+Backside Sexy Round Muddi Thinte Heaven
+1. Bus
+	- All components are connected by one cable
+	- No Security + Collisions
+	- Less Expensive + Easy to Install
+2. Star
+	- All the devices are connected to one device
+	- Less Expensive + Secure
+	- Single point of failure
+3. Ring
+	- Devices are connected with adjacent Devices in an undirected flow of data
+	- No Collisions
+	- Expensive + Difficult to reconfigure
+4. Mesh
+	- Every system is connected to every system
+	- if n systems are there, $\frac{n(n-1)}{2}$ systems are required
+	- Expensive + Difficult to re-configure
+5. Tree
+	- Combination of bus + star
+6. Hybrid
+	- Combination of multiple topologies
