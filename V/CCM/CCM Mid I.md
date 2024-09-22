@@ -62,6 +62,7 @@ It is the delivery of computing resources such as compute (CPU or GPU or TPU etc
 
 ## Mobile Computing
 refers to the use of portable computers such as laptops, tablets, smartphones and wearables, which allow the user to perform computational tasks anytime and anywhere, typically over a wireless network, either 4g/5g mobile networks or Wi-Fi. It allows seamless access to applications, internet services and data storage when on the move
+
 - Use of Mobile Hardware
 - Different software tailored to the mobile devices
 - Communication Networks
@@ -105,3 +106,19 @@ in this architecture, the application is split into multiple components or servi
 - Dev/Prod Parity - Keep dev/staging/prod as similar as possible
 - Logs - treat them as event streams
 - Admin Processes - run them as a one-off process
+
+
+# API Tools
+They are software solutions designed to help developers create, test, monitor, manage and secure APIs. These tools streamline the API development process by providing functionalities that make building and maintaining APIs easier, ensuring that they are reliable, scalable, and secure.
+
+- API Development Tools - Postman
+- API Testing Tools - SoapUI
+- API Monitoring Tools - Pingdom
+- API Documentation Tools - Swagger
+- API Management Tools - Kong
+
+DP
+TS
+MP
+DS
+MK
