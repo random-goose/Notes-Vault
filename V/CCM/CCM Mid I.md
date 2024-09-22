@@ -117,8 +117,8 @@ They are software solutions designed to help developers create, test, monitor, m
 - API Documentation Tools - Swagger
 - API Management Tools - Kong
 
-DP
-TS
-MP
-DS
-MK
+DP - Dev Postman
+MP - Monitor - Pingdom
+TS - Testing - SwagUI
+DS - Docuement - Swagget
+MK - Management - Kong
