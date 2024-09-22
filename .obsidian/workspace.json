@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V/LP/LP Mid I.md",
+                "file": "V/CC/CC Mid I.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,9 +102,58 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "346f5a4017a7eacf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "V/CC/CC Mid I.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c75324ca1a32e13f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "V/CC/CC Mid I.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f2e7ee44b9477b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "V/CC/CC Mid I.md"
+              }
+            }
+          },
+          {
+            "id": "e6725c0015f8576a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "V/CC/CC-Assignment-1.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -120,10 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4efb1cf82ce10d03",
+  "active": "39bdadb82c512fa7",
   "lastOpenFiles": [
-    "V/LP/LP Mid I.md",
+    "V/CC/CC-Assignment-1.pdf",
+    "V/CC/CC Mid I.md",
     "LP Mid Questions.md",
+    "V/CC",
+    "V/LP/LP Mid I.md",
     "IV/DBMS/DBMS_To-Do.md",
     "V/LP/LP II.md",
     "V/MWA/WMA 1.md",
@@ -153,8 +205,6 @@
     "IV/BCVS III/BCVS IV.md",
     "IV/BCVS III/BCVS V.md",
     "Not Like Us.md",
-    "IV/BCVS III/BSVS III.md",
-    "IV/BCVS III/BCVS I.md",
     "IV/BCVS III/Untitled",
     "IV/BCVS III",
     "IV/JAVA/Untitled",
@@ -165,8 +215,6 @@
     "Pics/Pasted image 20240707231306.png",
     "Pics/Pasted image 20240706013259.png",
     "Pics/Pasted image 20240706011705.png",
-    "Pics",
-    "IV/OR",
-    "IV/JAVA"
+    "Pics"
   ]
 }
