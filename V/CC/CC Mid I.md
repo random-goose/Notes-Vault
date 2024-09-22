@@ -40,3 +40,31 @@ Cyclic redundancy check is an error detection code commonly used to detect accid
 It is an error correction algorithm used to ensure data accuracy during transmission or storage. 
 It detects and corrects the errors that can occur when data is moved or stored from sender to receiver
 It's a simple and effective method which improves the reliability of communication
+
+# Transmission Medium
+```mermaid
+graph TD
+	A[Transmission Media] -->|Wired| B[Guided]
+	B --> D[Twisted Pair]
+	B --> E[Coaxial]
+	B --> F[Fiber Optics]
+	D --> G["Shielded (STP)"]
+	D --> H["Un-Shielded (UTP)"]
+	A -->|Wireless| C[Unguided]
+	C --> I[Radio]
+	C --> J[Microwave]
+	C --> K[Infrared]
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
