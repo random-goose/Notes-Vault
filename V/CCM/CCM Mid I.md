@@ -79,7 +79,7 @@ refers to the use of portable computers such as laptops, tablets, smartphones an
 # Monolithic v/s Microservices
 
 ## Monolithic - Amazon
-its the architecture where the entire application is built as a single unit or a single tier system. All functions - UI, business logic, and database layers - are tightly integrated and managed within one codebase.
+it's the architecture where the entire application is built as a single unit or a single tier system. All functions - UI, business logic, and database layers - are tightly integrated and managed within one codebase.
 - Single Large Codebase
 - Tightly coupled components
 - Difficult to scale and maintain

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V/CCM/CCM Mid I.md",
+                "file": "V/CC/CC Mid I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V/CCM/CCM Mid I.md",
+                "file": "V/CC/CC Mid I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V/CCM/CCM Mid I.md"
+                "file": "V/CC/CC Mid I.md"
               }
             }
           },
@@ -194,12 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eb6b5f4c76225c6",
+  "active": "39bdadb82c512fa7",
   "lastOpenFiles": [
+    "V/CCM/CCM Mid I.md",
     "cloud  imp set 2[1].jpg",
     "V/CC/CC-Assignment-1.pdf",
     "V/CC/CC Mid I.md",
-    "V/CCM/CCM Mid I.md",
     "Screenshot 2024-09-21 133442[1].png",
     "V/CCM",
     "Song for Slothie.md",
@@ -240,7 +239,6 @@
     "Pics/Pasted image 20240710152420.png",
     "Pics/Pasted image 20240710152244.png",
     "Pics/Pasted image 20240710152137.png",
-    "Pics/Pasted image 20240707231306.png",
-    "Pics/Pasted image 20240706013259.png"
+    "Pics/Pasted image 20240707231306.png"
   ]
 }
