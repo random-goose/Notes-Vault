@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1323a07ab464de5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V/CCM/CCM Mid I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V/CC/CC Mid I.md",
+                "file": "V/CCM/CCM Mid I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V/CC/CC Mid I.md",
+                "file": "V/CCM/CCM Mid I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V/CC/CC Mid I.md"
+                "file": "V/CCM/CCM Mid I.md"
               }
             }
           },
@@ -157,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 659.5
+    "width": 659.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39bdadb82c512fa7",
+  "active": "1323a07ab464de5e",
   "lastOpenFiles": [
+    "Screenshot 2024-09-21 133442[1].png",
     "V/CC/CC-Assignment-1.pdf",
+    "V/CCM/CCM Mid I.md",
+    "V/CCM",
     "V/CC/CC Mid I.md",
     "Song for Slothie.md",
     "LP Mid Questions.md",
@@ -204,7 +220,6 @@
     "IV/IIPME",
     "IV/BCVS III/BCVS II.md",
     "IV/BCVS III/BCVS IV.md",
-    "IV/BCVS III/BCVS V.md",
     "IV/BCVS III/Untitled",
     "IV/BCVS III",
     "IV/JAVA/Untitled",
@@ -214,7 +229,6 @@
     "Pics/Pasted image 20240710152137.png",
     "Pics/Pasted image 20240707231306.png",
     "Pics/Pasted image 20240706013259.png",
-    "Pics/Pasted image 20240706011705.png",
-    "Pics"
+    "Pics/Pasted image 20240706011705.png"
   ]
 }
