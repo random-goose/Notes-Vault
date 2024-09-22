@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V/CCM/CCM Mid I.md",
+                "file": "V/CC/CC-Assignment-1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V/CCM/CCM Mid I.md",
+                "file": "V/CC/CC-Assignment-1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V/CCM/CCM Mid I.md"
+                "file": "V/CC/CC-Assignment-1.pdf"
               }
             }
           },
@@ -182,13 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1323a07ab464de5e",
+  "active": "e6725c0015f8576a",
   "lastOpenFiles": [
+    "V/CC/CC Mid I.md",
+    "V/CCM/CCM Mid I.md",
     "Screenshot 2024-09-21 133442[1].png",
     "V/CC/CC-Assignment-1.pdf",
-    "V/CCM/CCM Mid I.md",
     "V/CCM",
-    "V/CC/CC Mid I.md",
     "Song for Slothie.md",
     "LP Mid Questions.md",
     "Not Like Us.md",
@@ -228,7 +228,6 @@
     "Pics/Pasted image 20240710152244.png",
     "Pics/Pasted image 20240710152137.png",
     "Pics/Pasted image 20240707231306.png",
-    "Pics/Pasted image 20240706013259.png",
-    "Pics/Pasted image 20240706011705.png"
+    "Pics/Pasted image 20240706013259.png"
   ]
 }

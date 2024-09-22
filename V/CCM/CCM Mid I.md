@@ -36,5 +36,18 @@ refers to the use of portable computers such as laptops, tablets, smartphones an
 
 # Monolithic v/s Microservices
 
-## Monolithic
-its the arc
+## Monolithic - Amazon
+its the architecture where the entire application is built as a single unit or a single tier system. All functions - UI, business logic, and database layers - are tightly integrated and managed within one codebase.
+- Single Large Codebase
+- Tightly coupled components
+- Difficult to scale and maintain
+- East to develop but hard to update
+
+## Distributed - Netflix
+in this architecture, the application is split into multiple components or services that communicate with each other over a network. Each component is individually developed, deployed and scaled.
+- Distributed codebase
+- Loosely coupled components
+- Easier to update and maintain
+- more resilient as multiple points of failure are present
+- harder to develop initially but easier to update and maintain
+
