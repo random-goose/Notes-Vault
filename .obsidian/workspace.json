@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -173,7 +172,9 @@
   "lastOpenFiles": [
     "V/CC/CC-Assignment-1.pdf",
     "V/CC/CC Mid I.md",
+    "Song for Slothie.md",
     "LP Mid Questions.md",
+    "Not Like Us.md",
     "V/CC",
     "V/LP/LP Mid I.md",
     "IV/DBMS/DBMS_To-Do.md",
@@ -184,7 +185,6 @@
     "V/MWA",
     "V",
     "Pasted image 20240725083449.png",
-    "Song for Slothie.md",
     "IV/DBMS/DBMS I.md",
     "IV/DBMS/DBMS II.md",
     "IV/DBMS/DBMS V.md",
@@ -204,7 +204,6 @@
     "IV/BCVS III/BCVS II.md",
     "IV/BCVS III/BCVS IV.md",
     "IV/BCVS III/BCVS V.md",
-    "Not Like Us.md",
     "IV/BCVS III/Untitled",
     "IV/BCVS III",
     "IV/JAVA/Untitled",

@@ -2,7 +2,6 @@
 - OSI → Open System Interconnect
 - Proposed by ISO as a step to standardize protocols
 APSTNDP
-Aunty Pooku Sexy Thinte Needi Dengi Poddi
 1. Application - Services - DNS, HTTPS, SMTP
 2. Presentation - Data Encoding / Compression
 3. Session - Fixed time period - Establishing + Terminating Connections
@@ -11,5 +10,4 @@ Aunty Pooku Sexy Thinte Needi Dengi Poddi
 6. Data Link - MAC Add + Bits → Frames + Checksums (CRC) - Switch, Bridge
 7. Physical - Medium of Transfer - Cables, Wi-Fi, Hub, Modem, Repeater
 
-
-
+# T
