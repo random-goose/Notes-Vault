@@ -37,3 +37,6 @@ BSRMTH
 Cyclic redundancy check is an error detection code commonly used to detect accidental changes to raw data in digital networks and storage devices. It works by treating the binary data and dividing it with a fixed `generator` number, and appending the remainder called the `CRC Code` to the data.
 
 # Hamming Code
+It is an error correction algorithm used to ensure data accuracy during transmission or storage. 
+It detects and corrects the errors that can occur when data is moved or stored from sender to receiver
+It's a simple and effective method which improves the reliability of communication
