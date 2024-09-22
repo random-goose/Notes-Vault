@@ -1,4 +1,5 @@
 ![[Screenshot 2024-09-21 133442[1].png]]
+![[cloud  imp set 2[1].jpg]]
 
 # 1
 ## Cloud Computing
@@ -18,6 +19,16 @@ IT is the delivery of computing resources such as compute (CPU or GPU or TPU etc
 - AI and ML: Google AI, IBM Watson, OpenAI
 - Data Analytics: Amazon Redshift, Google BigQuery
 
+### Services
+- IaaS - AWS
+- Platform aaS - Heroku
+- SaaS - Adobe
+- Storage aaS - S3
+- DB aaS - Mongo Atlas
+- Functions aaS - Serverless Computing - Vercel
+- AI aaS - IBM Watson
+- Security aaS - McAfee
+- Comm aaS - Slack
 ## Mobile Computing
 refers to the use of portable computers such as laptops, tablets, smartphones and wearables, which allow the user to perform computational tasks anytime and anywhere, typically over a wireless network, either 4g/5g mobile networks or Wi-Fi. It allows seamless access to applications, internet services and data storage when on the move
 - Use of Mobile Hardware
