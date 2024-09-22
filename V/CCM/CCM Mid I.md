@@ -17,3 +17,24 @@ IT is the delivery of computing resources such as compute (CPU or GPU or TPU etc
 - Streaming Services - Netflix, YouTube, Spotify
 - AI and ML: Google AI, IBM Watson, OpenAI
 - Data Analytics: Amazon Redshift, Google BigQuery
+
+## Mobile Computing
+refers to the use of portable computers such as laptops, tablets, smartphones and wearables, which allow the user to perform computational tasks anytime and anywhere, typically over a wireless network, either 4g/5g mobile networks or Wi-Fi. It allows seamless access to applications, internet services and data storage when on the move
+- Use of Mobile Hardware
+- Different software tailored to the mobile devices
+- Communication Networks
+
+- Portability
+- Real Time Access
+- Increased Productivity
+
+- Mobile Banking - Pay TM, Google Pay
+- GPS Navigation
+- Social Media
+- Healthcare
+- Gaming
+
+# Monolithic v/s Microservices
+
+## Monolithic
+its the arc
