@@ -65,6 +65,7 @@ Application - HTTP / DNS
 Transport - TCP / UDP
 Internet - IPV4 / IPV6
 Network Access - PPP, Ethernet
+ATIN - A
 
 TCP ensures reliable and ordered data delivery, and IP handles addressing and routing of data packets
 
