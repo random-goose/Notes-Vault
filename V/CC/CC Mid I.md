@@ -56,3 +56,13 @@ graph TD
 	C --> K[Infrared]
 ```
 
+# TCP/IP
+is the fundamental communication protocol of the internet.
+Is is a suite of communication protocols used to interconnect network devices on the internet and other computer networks.
+
+Layers:
+Application - HTTP / DNS
+Transport - TCP / UDP
+Internet - IPV4 / IPV6
+Network Access - PPP, Ethernet
+
