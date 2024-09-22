@@ -12,7 +12,6 @@ APSTNDP
 
 # Topologies
 BSRMTH
-Backside Sexy Round Muddi Thinte Heaven
 1. Bus
 	- All components are connected by one cable
 	- No Security + Collisions
@@ -33,3 +32,7 @@ Backside Sexy Round Muddi Thinte Heaven
 	- Combination of bus + star
 6. Hybrid
 	- Combination of multiple topologies
+
+# CRC
+Cyclic redundancy check is an error detection code commonly used to detect accidental changes to raw data in digital networks and storage devices. It works by treating the binary data and dividing it with a fixed `generator` number, and appending the remainder called the `CRC Code` to the data.
+
