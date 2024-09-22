@@ -91,3 +91,17 @@ in this architecture, the application is split into multiple components or servi
 - more resilient as multiple points of failure are present
 - harder to develop initially but easier to update and maintain
 
+
+# 12 Factors
+- Codebase - One codebase tracked + many deploys
+- Dependencies - Declare + Isolate dependencies
+- Config - Store config in Environment
+- Backing Services - Treat backing services as attached resources
+- Build  Release  Run - Strictly separate build and run stages
+- Processes - Execute the app as one or more stateless processes
+- Port Binding - Export services via port binding
+- Concurrency - Scale out via process model
+- Disposability - Maximize robustness
+- Dev/Prod Parity - Keep dev/staging/prod as similar as possible
+- Logs - treat them as event streams
+- Admin Processes - run them as a one-off process
