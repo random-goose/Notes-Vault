@@ -43,7 +43,7 @@ T –> int | float
 L –> L, id | id 
 Parse the input string  ”float id, id, id;”  using shift reduce parser
 	
-12.Explain about LEADING( ) and  TRAILING( ) functions with example.  
+12. Explain about LEADING( ) and  TRAILING( ) functions with example.  
 
 
 # Question 3 + 4 ⇾ Compiler Phases
