@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V/CCM/CCM Mid I.md",
+                "file": "V/LP/LP Mid I.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V/CCM/CCM Mid I.md",
+                "file": "V/LP/LP Mid I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V/CCM/CCM Mid I.md",
+                "file": "V/LP/LP Mid I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V/CCM/CCM Mid I.md"
+                "file": "V/LP/LP Mid I.md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "1323a07ab464de5e",
   "lastOpenFiles": [
-    "V/CC/CC Mid I.md",
+    "LP Assignment1.txt",
     "V/CCM/CCM Mid I.md",
+    "V/CC/CC Mid I.md",
     "cloud  imp set 2[1].jpg",
     "V/CC/CC-Assignment-1.pdf",
     "Screenshot 2024-09-21 133442[1].png",
