@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39bdadb82c512fa7",
+            "id": "1ede7925b1ae2843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V/CC/CC Mid I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1323a07ab464de5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V/LP/LP Mid I.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V/LP/LP Mid I.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V/LP/LP Mid I.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V/LP/LP Mid I.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -193,8 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1323a07ab464de5e",
+  "active": "1ede7925b1ae2843",
   "lastOpenFiles": [
+    "V/LP/LP Mid I.md",
+    "Untitled.md",
     "LP Assignment1.txt",
     "V/CCM/CCM Mid I.md",
     "V/CC/CC Mid I.md",
@@ -206,7 +195,6 @@
     "LP Mid Questions.md",
     "Not Like Us.md",
     "V/CC",
-    "V/LP/LP Mid I.md",
     "IV/DBMS/DBMS_To-Do.md",
     "V/LP/LP II.md",
     "V/MWA/WMA 1.md",
@@ -235,7 +223,6 @@
     "IV/BCVS III/BCVS IV.md",
     "IV/BCVS III/Untitled",
     "IV/BCVS III",
-    "IV/JAVA/Untitled",
     "Pics/Pasted image 20240710184651.png",
     "Pics/Pasted image 20240710152420.png",
     "Pics/Pasted image 20240710152244.png",
