@@ -214,7 +214,7 @@ Bootstrap Protocol
 Dynamic Host Configuration Protocol
 Dynamically assigns IP Addresses and other network configuration parameters (subnet mask, gateway address etc.) to devices on a network
 - Device broadcasts a DHCP Discover message when it joins a network
-- DHCP Server responds with a DHCP Offer message when it joining a network
+- DHCP Server responds with a DHCP Offer message when it's joining a network
 - Client selects an offer and sends a DHCP Request
 - The serves acknowledges with a DHCP acknowledgement
 
@@ -223,3 +223,6 @@ Dynamically assigns IP Addresses and other network configuration parameters (sub
 - Used to manage large scale networks
 - Uses port 67 (server) and 68 (client)
 
+### CSMA/CD
+Carrier Sense Multiple Access / Collission Detection
+- Used n Half-Duplex wired ethernet networks 
