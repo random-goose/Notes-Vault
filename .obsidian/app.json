@@ -52,7 +52,16 @@
     "aaS",
     "Vercel",
     "Mongo",
-    "Herzberg"
+    "Herzberg",
+    "abc",
+    "RelOp",
+    "goto",
+    "& ",
+    "Apification",
+    "APIfication",
+    "unicast",
+    "HyperText"
   ],
-  "spellcheck": false
+  "spellcheck": false,
+  "promptDelete": false
 }

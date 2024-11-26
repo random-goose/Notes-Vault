@@ -8,18 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ede7925b1ae2843",
+            "id": "7786ae6013ab3542",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V/FOM/FOM Mid I.md",
+                "file": "V/CC/CC Mid II Answers.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CC Mid II Answers"
+            }
+          },
+          {
+            "id": "306632c526d801fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V/CC/CC Mid II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CC Mid II"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,21 +83,24 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5,
+    "collapsed": true
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
     "type": "split",
     "children": [
       {
-        "id": "fbd101da17b088a9",
+        "id": "e98c093e581a182d",
         "type": "tabs",
         "children": [
           {
@@ -87,28 +111,32 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "4efb1cf82ce10d03",
+            "id": "a99976508c2e43b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LP Mid Questions.md",
+                "file": "V/CC/CC Mid II.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CC Mid II"
             }
           },
           {
-            "id": "346f5a4017a7eacf",
+            "id": "d259f8d8c3368c0e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V/FOM/FOM Mid I.md",
+                "file": "V/CC/CC Mid II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,59 +144,44 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CC Mid II"
             }
           },
           {
-            "id": "c75324ca1a32e13f",
+            "id": "01ba173df57684ba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V/FOM/FOM Mid I.md",
+                "file": "V/CC/CC Mid II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CC Mid II"
             }
           },
           {
-            "id": "2f2e7ee44b9477b4",
+            "id": "3bf4b09b8246d64e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "V/FOM/FOM Mid I.md"
-              }
-            }
-          },
-          {
-            "id": "e6725c0015f8576a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "V/CC/CC-Assignment-1.pdf"
-              }
-            }
-          },
-          {
-            "id": "9eb6b5f4c76225c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V/CCM/CCM Mid I.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "V/CC/CC Mid II.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CC Mid II"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 659.5
+    "width": 474.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,23 +193,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ede7925b1ae2843",
+  "active": "306632c526d801fb",
   "lastOpenFiles": [
+    "V/CC/CC Mid II Answers.md",
+    "V/CC/CC Mid II.md",
+    "CMA Mid II.md",
+    "CMA Mid II Answers.md",
+    "V/CCM/CCM Mid I.md",
+    "Song for Slothie.md",
+    "Untitled.canvas",
+    "V/LP/LP IV.md",
+    "V/LP/LP Mid II.md",
+    "V/CC/CC Mid I.md",
+    "V/CC/Untitled.md",
+    "Not Like Us.md",
     "V/LP/LP Mid I.md",
+    "V/LP/LP II.md",
     "V/FOM/FOM Mid I.md",
     "LP Assignment1.txt",
-    "V/CCM/CCM Mid I.md",
-    "V/CC/CC Mid I.md",
     "cloud  imp set 2[1].jpg",
     "V/CC/CC-Assignment-1.pdf",
     "Screenshot 2024-09-21 133442[1].png",
     "V/CCM",
-    "Song for Slothie.md",
-    "LP Mid Questions.md",
-    "Not Like Us.md",
+    "V/LP/LP Mid Questions.md",
     "V/CC",
     "IV/DBMS/DBMS_To-Do.md",
-    "V/LP/LP II.md",
     "V/MWA/WMA 1.md",
     "MWA Syllabus.md",
     "IV/DBMS/DBMS IV.md",
@@ -211,16 +232,8 @@
     "IV/IIPME/IIPME V.md",
     "IV/IIPME/IIPME_To-Do.md",
     "IV/DBMS",
-    "IV/IIPME/IIPME I.md",
-    "IV/IIPME/IIPME IV.md",
-    "IV/IIPME/IIPME III.md",
-    "IV/IIPME/IIPME II.md",
     "Pics/Pasted image 20240718193223.png",
-    "IV/OR/OR_To-Do.md",
-    "IV/BCVS III/BCVS_To-Do.md",
     "IV/IIPME",
-    "IV/BCVS III/BCVS II.md",
-    "IV/BCVS III/BCVS IV.md",
     "IV/BCVS III/Untitled",
     "IV/BCVS III",
     "Pics/Pasted image 20240710184651.png",
