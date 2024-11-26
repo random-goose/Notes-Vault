@@ -224,5 +224,17 @@ Dynamically assigns IP Addresses and other network configuration parameters (sub
 - Uses port 67 (server) and 68 (client)
 
 ### CSMA/CD
-Carrier Sense Multiple Access / Collission Detection
-- Used n Half-Duplex wired ethernet networks 
+Carrier Sense Multiple Access / Collision Detection
+- Used in Half-Duplex wired Ethernet networks to manage data transmission and avoid collisions during communication
+- Carrier Sense: checking for idle channel before transmitting
+- Collusion Detection: checked by checking for spikes in voltage
+	- Wait for a random time before retransmitting
+- not needed n full-duplex or switched Ethernet networks
+
+### CSMA/CA
+Carrier Sense Multiple Access / Collision Avoidance
+- Used in Wi-Fi (IEEE 802.11) networks as it is difficult to check for collisions in wireless networks
+- Same Carrier Sense
+- Collision Avoidance:
+	- If Channel is empty an RTS request (Request To Send) is sent to the host
+	- Host sends a CTS response (Clear To Send)
