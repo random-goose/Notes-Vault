@@ -35,7 +35,8 @@
               "title": "CC Mid II"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V/CC/CC Mid II Answers.md",
+                "file": "V/CC/CC Mid II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CC Mid II Answers"
+              "title": "Backlinks for CC Mid II"
             }
           },
           {
@@ -154,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V/CC/CC Mid II Answers.md",
+                "file": "V/CC/CC Mid II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CC Mid II Answers"
+              "title": "Outgoing links from CC Mid II"
             }
           },
           {
@@ -168,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V/CC/CC Mid II Answers.md"
+                "file": "V/CC/CC Mid II.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CC Mid II Answers"
+              "title": "Outline of CC Mid II"
             }
           }
         ],
@@ -192,10 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7786ae6013ab3542",
+  "active": "306632c526d801fb",
   "lastOpenFiles": [
-    "V/CC/CC Mid II.md",
     "V/CC/CC Mid II Answers.md",
+    "V/CC/CC Mid II.md",
     "CMA Mid II.md",
     "CMA Mid II Answers.md",
     "V/CCM/CCM Mid I.md",

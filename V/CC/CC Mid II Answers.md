@@ -238,3 +238,5 @@ Carrier Sense Multiple Access / Collision Avoidance
 - Collision Avoidance:
 	- If Channel is empty an RTS request (Request To Send) is sent to the host
 	- Host sends a CTS response (Clear To Send)
+	- If the CTS is not received, it waits before sending again
+- Limitation: High RTS/CTS overhead
