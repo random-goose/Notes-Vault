@@ -60,7 +60,9 @@
     "Apification",
     "APIfication",
     "unicast",
-    "HyperText"
+    "HyperText",
+    "BOOTP",
+    "RARP"
   ],
   "spellcheck": false,
   "promptDelete": false

@@ -203,7 +203,7 @@ Reverse Address Resolution Protocol
 
 ### BOOTP
 Bootstrap Protocol
-- Used to assign IP addresses to a devie and provide a basic configuration details like the subnet mask, gatewat, and the address of a boot server
+- Used to assign IP addresses to a device and provide a basic configuration details like the subnet mask, gateway, and the address of a boot server
 - The server responds with:
 	- IP address for the client
 	- Subnet mask, gateway address, and boot server
@@ -242,140 +242,26 @@ Carrier Sense Multiple Access / Collision Avoidance
 - Limitation: High RTS/CTS overhead
 
 
-[Intro]  
-_[No, nothin' good starts in a getaway car](https://genius.com/13023284/Taylor-swift-getaway-car/No-nothin-good-starts-in-a-getaway-car)_  
-  
-[Verse 1]  
-[It was the best of times, the worst of crimes](https://genius.com/13027344/Taylor-swift-getaway-car/It-was-the-best-of-times-the-worst-of-crimes)  
-[I struck a match and blew your mind](https://genius.com/13078037/Taylor-swift-getaway-car/I-struck-a-match-and-blew-your-mind)  
-But I didn’t mean it and you didn't see it  
-[The ties were black, the lies were white  
-In shades of gray in candlelight  
-I wanted to leave him, I needed a reason](https://genius.com/13039679/Taylor-swift-getaway-car/The-ties-were-black-the-lies-were-white-in-shades-of-gray-in-candlelight-i-wanted-to-leave-him-i-needed-a-reason)  
-  
-[Pre-Chorus]  
-["X" marks the spot where we fell apart  
-He poisoned the well, I was lyin' to myself](https://genius.com/13040900/Taylor-swift-getaway-car/X-marks-the-spot-where-we-fell-apart-he-poisoned-the-well-i-was-lyin-to-myself)  
-[I knew it from the first Old Fashioned, we were cursed](https://genius.com/13078260/Taylor-swift-getaway-car/I-knew-it-from-the-first-old-fashioned-we-were-cursed)  
-[We never had a shotgun shot in the dark (Oh)](https://genius.com/13033110/Taylor-swift-getaway-car/We-never-had-a-shotgun-shot-in-the-dark-oh)  
-  
-[Chorus]  
-[You were drivin’ the getaway car  
-We were flyin', but we'd never get far](https://genius.com/13039714/Taylor-swift-getaway-car/You-were-drivin-the-getaway-car-we-were-flyin-but-wed-never-get-far)  
-[Don't pretend it's such a mystery  
-Think about the place where you first met me](https://genius.com/13078449/Taylor-swift-getaway-car/Dont-pretend-its-such-a-mystery-think-about-the-place-where-you-first-met-me)  
-[Ridin' in a getaway car  
-There were sirens in the beat of your heart](https://genius.com/13039714/Taylor-swift-getaway-car/You-were-drivin-the-getaway-car-we-were-flyin-but-wed-never-get-far)  
-[Shoulda known I'd be the first to leave  
-Think about the place where you first met me](https://genius.com/13078449/Taylor-swift-getaway-car/Dont-pretend-its-such-a-mystery-think-about-the-place-where-you-first-met-me)  
+### ALOHA
 
-[
+| Feature           | Pure              | Slotted                          |
+| ----------------- | ----------------- | -------------------------------- |
+| Transmission Time | Anutime           | Only at the start of a time slot |
+| Collission        | Can occur anytime | Limited to slot boundaries       |
+| Sync              | Not required      | required                         |
+| Efficiency        | 18.4%             | 36.8%                            |
+| Complexity        | Simple            | Complex                          |
+| Use Case          | Low Traffic       | High Traffic                     |
+| ex                | Sattelite, sensor | RFID, Mobile                     |
 
-](https://viagogo.prf.hn/click/camref:1101l3DfTB/pubref:artist/destination:https%3A%2F%2Fwww.viagogo.com%2F_C-11113)
+# Piggybacking
+Send the ACK in combination with the return message used in TCP
 
-[
-
-See Taylor Swift Live
-
-Get tickets as low as $799
-
-](https://viagogo.prf.hn/click/camref:1101l3DfTB/pubref:artist/destination:https%3A%2F%2Fwww.viagogo.com%2F_C-11113)
-
-You might also like
-
-[
-
-But Daddy I Love Him
-
-Taylor Swift
-
-
-
-](https://genius.com/Taylor-swift-but-daddy-i-love-him-lyrics)[
-
-loml
-
-Taylor Swift
-
-
-
-](https://genius.com/Taylor-swift-loml-lyrics)[
-
-When Emma Falls in Love (Taylor’s Version) [From The Vault]
-
-Taylor Swift
-
-
-
-](https://genius.com/Taylor-swift-when-emma-falls-in-love-taylors-version-from-the-vault-lyrics)
-
-[Post-Chorus]  
-[In a getaway car (Oh-oh-oh)  
-No, they never get far (Oh-oh-ah)](https://genius.com/13039714/Taylor-swift-getaway-car/You-were-drivin-the-getaway-car-we-were-flyin-but-wed-never-get-far)  
-[No, nothin' good starts in a getaway car](https://genius.com/13023284/Taylor-swift-getaway-car/No-nothin-good-starts-in-a-getaway-car)  
-  
-[Verse 2]  
-[It was the great escape, the prison break](https://genius.com/26968090/Taylor-swift-getaway-car/It-was-the-great-escape-the-prison-break)  
-The light of freedom on my face  
-But you weren’t thinkin’ and I was just drinkin'  
-[While he was runnin’ after us, I was screamin', "Go, go, go"  
-But with three of us, honey, it's a sideshow  
-And a circus ain't a love story and now we’re both sorry (We're both sorry)](https://genius.com/13039800/Taylor-swift-getaway-car/While-he-was-runnin-after-us-i-was-screamin-go-go-go-but-with-three-of-us-honey-its-a-sideshow-and-a-circus-aint-a-love-story-and-now-were-both-sorry-were-both-sorry)  
-  
-[Pre-Chorus]  
-["X" marks the spot where we fell apart  
-He poisoned the well, every man for himself](https://genius.com/13040900/Taylor-swift-getaway-car/X-marks-the-spot-where-we-fell-apart-he-poisoned-the-well-i-was-lyin-to-myself)  
-[I knew it from the first Old Fashioned, we were cursed](https://genius.com/13078260/Taylor-swift-getaway-car/I-knew-it-from-the-first-old-fashioned-we-were-cursed)  
-[It hit you like a shotgun shot to the heart (Oh)](https://genius.com/13033110/Taylor-swift-getaway-car/We-never-had-a-shotgun-shot-in-the-dark-oh)  
-  
-[Chorus]  
-[You were drivin' the getaway car  
-We were flyin', but we'd never get far](https://genius.com/13039714/Taylor-swift-getaway-car/You-were-drivin-the-getaway-car-we-were-flyin-but-wed-never-get-far)  
-[Don't pretend it's such a mystery  
-Think about the place where you first met me](https://genius.com/13078449/Taylor-swift-getaway-car/Dont-pretend-its-such-a-mystery-think-about-the-place-where-you-first-met-me)  
-[Ridin' in a getaway car  
-There were sirens in the beat of your heart](https://genius.com/13039714/Taylor-swift-getaway-car/You-were-drivin-the-getaway-car-we-were-flyin-but-wed-never-get-far)  
-[Shoulda known I'd be the first to leave  
-Think about the place where you first met me](https://genius.com/13078449/Taylor-swift-getaway-car/Dont-pretend-its-such-a-mystery-think-about-the-place-where-you-first-met-me)  
-
-[Post-Chorus]  
-[In a getaway car (Oh-oh-oh)  
-No, they never get far (Oh-oh-ah)](https://genius.com/13039714/Taylor-swift-getaway-car/You-were-drivin-the-getaway-car-we-were-flyin-but-wed-never-get-far)  
-[No, nothin' good starts in a getaway car](https://genius.com/13023284/Taylor-swift-getaway-car/No-nothin-good-starts-in-a-getaway-car)  
-  
-[Bridge]  
-[We were jet-set, Bonnie and Clyde (Oh-oh)](https://genius.com/13027302/Taylor-swift-getaway-car/We-were-jet-set-bonnie-and-clyde-oh-oh)  
-[Until I switched to the other side, to the other side  
-It's no surprise I turned you in (Oh-oh)](https://genius.com/13187051/Taylor-swift-getaway-car/Until-i-switched-to-the-other-side-to-the-other-side-its-no-surprise-i-turned-you-in-oh-oh)  
-['Cause us traitors never win](https://genius.com/13109255/Taylor-swift-getaway-car/Cause-us-traitors-never-win)  
-  
-[Breakdown]  
-[I'm in a getaway car](https://genius.com/13362283/Taylor-swift-getaway-car/Im-in-a-getaway-car)  
-[I left you in a motel bar](https://genius.com/13218535/Taylor-swift-getaway-car/I-left-you-in-a-motel-bar)  
-[Put the money in a bag and I stole the keys  
-That was the last time you ever saw me (Oh)](https://genius.com/13209708/Taylor-swift-getaway-car/Put-the-money-in-a-bag-and-i-stole-the-keys-that-was-the-last-time-you-ever-saw-me-oh)  
-  
-[Chorus]  
-[Drivin' the getaway car  
-We were flyin', but we'd never get far (Don't pretend)](https://genius.com/13039714/Taylor-swift-getaway-car/You-were-drivin-the-getaway-car-we-were-flyin-but-wed-never-get-far)  
-[Don't pretend it's such a mystery  
-Think about the place where you first met me](https://genius.com/13078449/Taylor-swift-getaway-car/Dont-pretend-its-such-a-mystery-think-about-the-place-where-you-first-met-me)  
-[Ridin' in a getaway car  
-There were sirens in the beat of your heart (Shoulda known)](https://genius.com/13039714/Taylor-swift-getaway-car/You-were-drivin-the-getaway-car-we-were-flyin-but-wed-never-get-far)  
-[Shoulda known I'd be the first to leave  
-Think about the place where you first met me](https://genius.com/13078449/Taylor-swift-getaway-car/Dont-pretend-its-such-a-mystery-think-about-the-place-where-you-first-met-me)  
-
-[Post-Chorus]  
-[In a getaway car (Oh-oh-oh)  
-No, they never get far, oh-oh-ah](https://genius.com/13039714/Taylor-swift-getaway-car/You-were-drivin-the-getaway-car-we-were-flyin-but-wed-never-get-far)  
-[No, nothin' good starts in a getaway car](https://genius.com/13023284/Taylor-swift-getaway-car/No-nothin-good-starts-in-a-getaway-car)  
-  
-[Outro]  
-[I was ridin' in a getaway car  
-I was cryin' in a getaway car  
-I was dyin' in a getaway car  
-Said goodbye in a getaway car  
-Ridin' in a getaway car  
-I was cryin' in a getaway car  
-I was dyin' in a getaway car  
-Said goodbye in a getaway car](https://genius.com/13039927/Taylor-swift-getaway-car/I-was-ridin-in-a-getaway-car-i-was-cryin-in-a-getaway-car-i-was-dyin-in-a-getaway-car-said-goodbye-in-a-getaway-car-ridin-in-a-getaway-car-i-was-cryin-in-a-getaway-car-i-was-dyin-in-a-getaway-car-said-goodbye-in-a-getaway-car)
+w/o:
+- 1: Hello
+- 2: ACK
+- 2: Hi
+- 1: ACK
+w/:
+- 1: Hello
+- 2: ACK Hi

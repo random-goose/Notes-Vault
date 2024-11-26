@@ -7,8 +7,9 @@
 - [x] User Datagram Protocol (UDP)
 - [x] Transmission Control Protocol (TCP)
 - [ ] QoS improving techniques - Leaky Bucket and Token Bucket algorithms
-- [ ] Pure ALOHA, Slotted ALOHA
+- [x] Pure ALOHA, Slotted ALOHA
 - [ ] Basic concepts of Cryptography
 - [ ] Piggybacking
 - [ ] Directory services & network management
 - [ ] BLUETOOTH, FTP, WWW, TELNET, FIREWALLS
+
