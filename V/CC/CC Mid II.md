@@ -9,7 +9,7 @@
 - [ ] QoS improving techniques - Leaky Bucket and Token Bucket algorithms
 - [x] Pure ALOHA, Slotted ALOHA
 - [ ] Basic concepts of Cryptography
-- [ ] Piggybacking
+- [x] Piggybacking
 - [ ] Directory services & network management
-- [ ] BLUETOOTH, FTP, WWW, TELNET, FIREWALLS
+- [x] BLUETOOTH, FTP, WWW, TELNET, FIREWALLS
 

@@ -254,6 +254,16 @@ Carrier Sense Multiple Access / Collision Avoidance
 | Use Case          | Low Traffic       | High Traffic                     |
 | ex                | Sattelite, sensor | RFID, Mobile                     |
 
+### Bluetooth
+Short-range wireless communication protocol used to connect devices over short distance and is based on the IEEE 802.15.1 Standard
+- Operates on the 2.4GHz ISM band (Industry, Scientific, Medical)
+- Uses frequency hopping spread spectrum to minimize interference
+- Supports audio and data transmission
+
+### FTP
+File Transfer Protocol
+- Used to 
+
 # Piggybacking
 Send the ACK in combination with the return message used in TCP
 
@@ -265,3 +275,4 @@ w/o:
 w/:
 - 1: Hello
 - 2: ACK Hi
+
