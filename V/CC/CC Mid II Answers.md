@@ -182,6 +182,17 @@ Domain Records
 | HTTP     | 80           |
 | HTTPS    | 443          |
 | DNS      | 53           |
+| TELNET   | 23           |
+| FTP      | 21           |
+
+| Protocol | IEEE Standard |
+| -------- | ------------- |
+| SMTP     | 25, 587, 465  |
+| HTTP     | 80            |
+| HTTPS    | 443           |
+| DNS      | 53            |
+| TELNET   | 23            |
+| FTP      | 21            |
 
 # Networking Protocols
 
@@ -262,7 +273,39 @@ Short-range wireless communication protocol used to connect devices over short d
 
 ### FTP
 File Transfer Protocol
-- Used to 
+- Used to transfer and manage files over a network
+- Operates on TCP port 21
+- Supports anonymous access
+- Data is unencrypted
+
+### WWW
+World Wide Web
+is a system of interconnected web pages and multimedia content accessed through the internew using a web browser
+- Provides a platform for sharing and accessing information
+- Uses URLs and relies on HTML and operates on HTTP/S
+
+### TELNET
+is a text-based network protocol that allows users to access and manage devices and servers remotely over a network
+- used for remote login
+- operates on TCP port 23
+- provides a CLI to communiate with teh remote systems
+- Lacks encryption
+- Used to configure switches and routers
+
+### Firewalls
+is a network security device or software that monitors and controls incoming and outgoing traffic based on predefined security rules
+- protects networks and system from unauthorized access
+- a hardware firewall is a dedicated device running the software
+- a software firerwall is installed on individual clients
+- a could firewall is deployed on cloud infrastructure
+- provides:
+	- packet filtering
+	- stateful inspection
+	- proxy
+- uses:
+	- blocking malicious ip
+	- restricting internet access to the usrs
+	- preventing unauthorized access
 
 # Piggybacking
 Send the ACK in combination with the return message used in TCP
