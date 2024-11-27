@@ -66,7 +66,7 @@ Code Optimization & Code Generation
 
 - [ ] What are the principal sources of code optimization?
 
-- [ ] Compose three address code for the following statement
+- [x] Compose three address code for the following statement
 	While  a < b   do	
 	if  c < d  then	
 	x := y + z	

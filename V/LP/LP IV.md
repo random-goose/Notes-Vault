@@ -375,5 +375,9 @@ While  a < b   do
 ```
 
 L1 if a >= b goto L6;
-L2 if c < b goto L3;
-L3 t1 = y + z; z = t1
+L2 if c > b goto L4;
+L3 t1 = y + z; x = t1; goto L5
+L4 t1 = y - z; x = t1
+L5 goto L1
+L6 stop
+
