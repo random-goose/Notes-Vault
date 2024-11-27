@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "LP IV"
             }
+          },
+          {
+            "id": "d867ea067310e81e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V/LP/LP Mid II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LP Mid II"
+            }
           }
         ]
       }
@@ -179,6 +193,8 @@
   },
   "active": "973e683595ddb7ae",
   "lastOpenFiles": [
+    "V/LP/LP Mid II.md",
+    "V/LP/LP IV.md",
     "V/CC/CC Mid II Answers.md",
     "V/CC/CC Mid II.md",
     "CMA Mid II.md",
@@ -186,8 +202,6 @@
     "V/CCM/CCM Mid I.md",
     "Song for Slothie.md",
     "Untitled.canvas",
-    "V/LP/LP IV.md",
-    "V/LP/LP Mid II.md",
     "V/CC/CC Mid I.md",
     "V/CC/Untitled.md",
     "Not Like Us.md",

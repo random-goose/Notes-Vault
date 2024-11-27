@@ -315,4 +315,23 @@ While creating a code generator the following issues need to be considered:
 	2. Register Assignment: The specific registers which are picked for each variable
 6. Choice of Evaluation Order
 	1. This effects the efficiency of the code
-	2. because some computation order changes will have an impac
+	2. because some computation order changes will have an impact on the efficiency of the code
+	3. Used to reduce the numbers of registers used by the program
+
+
+# Symbol Table
+- Compiler creates and maintains a symbol table to keep track of the details about variable names, function names, objects, classes, and interfaces etc.
+- For analysis and synthesis, symbol table is used by the compiler
+- It helps to determine scope resolution
+- It helps to determine whether a variable has already been defined
+- To add, delete, type checking, for determining semantic correctness
+
+- Data structures used for implementation of a symbol table:
+	- BST
+	- Hash Table
+	- Linear (Sorted or Unsorted)
+
+##### Content of the symbol table
+1. **Identifier Name:** Acts as the primary key for searching entries in the symbol table
+2. **Data Types:** The type of the variable or return type of function
+3. **Scope:** 
