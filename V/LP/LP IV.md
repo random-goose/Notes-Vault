@@ -226,20 +226,66 @@ While(B) {
 
 
 # DAG
-a + b * (a + b) + c + d
 
-1. (a + b)
-```mermaid
-graph TD
-a["+"] --> b[a]
-a --> c[b]
+
+
+# Optimization
+### Constant Propagation
+Replacing variables with their constant values whenever possible to simplify computations at compile time
+before: 
+```C
+int x = 5
+int y = x + 3
 ```
-2.  b * (a + b)
-``` mermaid
-graph TD
-a["+"] --> b[a]
-a --> c[b]
-c --> d["*"]
+after:
+```C
+int y = 8
 ```
 
+
+### Strength Reduction
+Replacing expensive operations such as multiplication, division, or exponentation with cheaper ones like addition, subtraction, or bit shifting
+before:
+```C
+for (int i=0; i<n; i++) {
+	int y = i*2;
+}
+```
+after:
+```C
+for (int i=0 int y = 0; i<n; i++) {
+	int y += 2;
+}
+```
+
+### Induction Variables:
+Variables in loops that change systematically, often used in optimization to reduce redundant computations
+```C
+for (int i=0; i<n; i++) {
+	int x = 4 * i // x in induction variable
+}
+```
+
+```C
+for(int i=0, int x=0; i<n; i++; x+=4) {
+	// eliminated redundant multiplication
+}
+```
+
+### Code motion
+Moving computations outside a loop if they produce same result in every iteration
+```C
+for (int i=0; i<n; i++) {
+	int z = y+x;
+	printf("%d", i);
+}
+```
+
+```C
+int z = y+x;
+
+for (int i=0; i<n; i++) {
+	printf("%d", i);
+}
+```
 
