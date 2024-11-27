@@ -305,4 +305,14 @@ While creating a code generator the following issues need to be considered:
 		2. Relocatable Machine Code: variables have memory addresses - ASM
 		3. Assembly Language - ASM
 3. Memory Management
-4. 
+	1. Mapping the name sin the source program to the address of the data objects is done by the front end and code generator
+	2. the name is 3 address statements that refers to the symbol table entry for the name, by using this relative address can be determined for the same
+4. Instruction selection
+	1. selecting the best instructions that are complete and uniform will improve the efficiency and this process is done here
+	2. `MOV x, temp; ADD 1, temp; MOV temp, x` → `INC x`
+5. Register Allocation
+	1. Register Allocation: We select only those sets of variables what will reside in registers at each point
+	2. Register Assignment: The specific registers which are picked for each variable
+6. Choice of Evaluation Order
+	1. This effects the efficiency of the code
+	2. because some computation order changes will have an impac
