@@ -223,4 +223,23 @@ While(B) {
 	S1
 }
 ```
-# Backpatching
+
+
+# DAG
+a + b * (a + b) + c + d
+
+1. (a + b)
+```mermaid
+graph TD
+a["+"] --> b[a]
+a --> c[b]
+```
+2.  b * (a + b)
+``` mermaid
+graph TD
+a["+"] --> b[a]
+a --> c[b]
+c --> d["*"]
+```
+
+
