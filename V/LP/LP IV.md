@@ -288,9 +288,21 @@ for (int i=0; i<n; i++) {
 ```
 
 
-# Problems faces by code generators:
-Code generators takes in intermediate code or optimized intermediate code to generate the trarget program.
-While doing this, the 
+# Problems faced by code generators:
+Code generators takes in intermediate code or optimized intermediate code to generate the target program.
+While doing this, the design of the code generator must be efficient and error free.
+While creating a code generator the following issues need to be considered:
 
 1. Input to the code generator
-	1. 
+	1. This phase comes with the assumption that the input is free from all symbolic and state semantic errors, the necessary type checking has taken place and the type conversions operations have been performed.
+	2. there are three ways to perform this:
+		1. Postfix Notation
+		2. DAG / AST
+		3. Three Address Code
+2. Target Program
+	1. The output of the program is called the target program, and it can be of three types
+		1. Absolute Machine Code: fixed memory addresses for variable - binary
+		2. Relocatable Machine Code: variables have memory addresses - ASM
+		3. Assembly Language - ASM
+3. Memory Management
+4. 
