@@ -364,3 +364,16 @@ int main() {
 | local_var  | int      | Loval(func) | Stack offset - 12 | 4 bytes | Temporary                                     |
 | main       | function | Global      | 3000              | n/a     | Parameters = none; return type = int          |
 | x          | int      | Local(main) | stack offset - 4  | 4 Bytes | Initial value - 5                             |
+
+# While If Three Address Code
+```C
+While  a < b   do	
+	if  c < d  then	
+		x := y + z	;
+	else	
+		x := y - z;
+```
+
+L1 if a >= b goto L6;
+L2 if c < b goto L3;
+L3 t1 = y + z; z = t1
