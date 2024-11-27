@@ -343,9 +343,24 @@ While creating a code generator the following issues need to be considered:
 ```C
 int global_var = 69;
 
-void func (int a, int b) {
+void func (int a, float b) {
 	int local_var = a + b;
 }
 
-int main() 
+int main() {
+	int x = 5;
+	func(x , 4.20);
+	return 0;
+}
 ```
+
+
+| Id         | Type     | Scope       | Memory Loc        | Size    | Attributes                                    |
+| ---------- | -------- | ----------- | ----------------- | ------- | --------------------------------------------- |
+| global_var | int      | Global      | 1000              | 4 byte  | Initia Value = 5                              |
+| func       | function | Global      | 2000              | n/a     | Parameters: int a, float b; return type = int |
+| a          | int      | Local(func) | Stack offset - 4  | 4 bytes | Parameter(func)                               |
+| b          | float    | Local(func) | Stack offset - 8  | 4 bytes | Parameter(func)                               |
+| local_var  | int      | Loval(func) | Stack offset - 12 | 4 bytes | Temporary                                     |
+| main       | function | Global      | 3000              | n/a     | Parameters = none; return type = int          |
+| x          | int      | Local(main) | stack offset - 4  | 4 Bytes | Initial value - 5                             |

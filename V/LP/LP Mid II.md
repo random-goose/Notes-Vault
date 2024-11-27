@@ -67,17 +67,12 @@ Code Optimization & Code Generation
 - [ ] What are the principal sources of code optimization?
 
 - [ ] Compose three address code for the following statement
-
-	While  a < b   do
-	
-	if  c < d  then
-	
-	x := y + z
-	
-	else
-	
+	While  a < b   do	
+	if  c < d  then	
+	x := y + z	
+	else	
 	x := y - z
 
-- [ ] Explain the activation record with example.
+- [x] Explain the activation record with example.
 
-- [ ] Explain about the contents of symbol table?
+- [x] Explain about the contents of symbol table?

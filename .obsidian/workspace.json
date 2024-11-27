@@ -35,7 +35,8 @@
               "title": "LP Mid II"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "973e683595ddb7ae",
+  "active": "d867ea067310e81e",
   "lastOpenFiles": [
-    "V/LP/LP Mid II.md",
     "V/LP/LP IV.md",
+    "V/LP/LP Mid II.md",
     "V/CC/CC Mid II Answers.md",
     "V/CC/CC Mid II.md",
     "CMA Mid II.md",
