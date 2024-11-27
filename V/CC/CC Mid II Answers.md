@@ -1,8 +1,8 @@
 # Switching
-Switching in computer networks refers to the process of directing data packets between devices within a network or across different networks. It enables efficient data transmission by choosing the best path for data to travel from the source to the destination.
+in computer networks refers to the process of directing data packets between devices within a network or across different networks. It enables efficient data transmission by choosing the best path for data to travel from the source to the destination.
 
 1. **Circuit Switching**
-	A dedicated communication oath is established between the sender and receiver before data transfer begins 
+	A dedicated communication path is established between the sender and receiver before data transfer begins 
 	e.g.: Telephone networks
 	
 2. **Packet Switching**
@@ -185,14 +185,11 @@ Domain Records
 | TELNET   | 23           |
 | FTP      | 21           |
 
-| Protocol | IEEE Standard |
-| -------- | ------------- |
-| SMTP     | 25, 587, 465  |
-| HTTP     | 80            |
-| HTTPS    | 443           |
-| DNS      | 53            |
-| TELNET   | 23            |
-| FTP      | 21            |
+| Protocol  | IEEE Standard |
+| --------- | ------------- |
+| Wi-Fi     | 802.11        |
+| Bluetooth | 802.15.1      |
+
 
 # Networking Protocols
 
