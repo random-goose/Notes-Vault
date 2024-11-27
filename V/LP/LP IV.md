@@ -334,4 +334,18 @@ While creating a code generator the following issues need to be considered:
 ##### Content of the symbol table
 1. **Identifier Name:** Acts as the primary key for searching entries in the symbol table
 2. **Data Types:** The type of the variable or return type of function
-3. **Scope:** 
+3. **Scope:** The scope or visibility of the variable
+4. **Memory Location:** The memory address or offset of the variable in memory or on registers.
+5. **Size:** The size required to store the variable in bytes; includes the total size for data structures
+6. **Type of Identifier:** Specifies whether the identifier is a variable, function, data structure, etc.
+7. **Attributes:** Contains Initial values for the variable; and parameters for functions
+
+```C
+int global_var = 69;
+
+void func (int a, int b) {
+	int local_var = a + b;
+}
+
+int main() 
+```
