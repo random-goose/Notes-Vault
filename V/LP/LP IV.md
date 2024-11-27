@@ -232,26 +232,24 @@ While(B) {
 # Optimization
 ### Constant Propagation
 Replacing variables with their constant values whenever possible to simplify computations at compile time
-before: 
 ```C
 int x = 5
 int y = x + 3
 ```
-after:
+
 ```C
 int y = 8
 ```
 
 
 ### Strength Reduction
-Replacing expensive operations such as multiplication, division, or exponentation with cheaper ones like addition, subtraction, or bit shifting
-before:
+Replacing expensive operations such as multiplication, division, or exponentiation with cheaper ones like addition, subtraction, or bit shifting
 ```C
 for (int i=0; i<n; i++) {
 	int y = i*2;
 }
 ```
-after:
+
 ```C
 for (int i=0 int y = 0; i<n; i++) {
 	int y += 2;
@@ -289,3 +287,10 @@ for (int i=0; i<n; i++) {
 }
 ```
 
+
+# Problems faces by code generators:
+Code generators takes in intermediate code or optimized intermediate code to generate the trarget program.
+While doing this, the 
+
+1. Input to the code generator
+	1. 
