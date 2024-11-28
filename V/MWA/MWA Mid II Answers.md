@@ -46,4 +46,35 @@
 #### Global
 Variables declared outside a function are global and can be accessed globally throughout the script
 - Directly accessible outside any function
-- To access inside a function; use the `global` keyword next to the variable name or import all the gloab variables using `$GLOBAL`
+- To access inside a function; use the `global` keyword next to the variable name or import all the global variables using `$GLOBAL`
+
+```php
+$10 = 10;
+
+function test() {
+	global $x;
+	echo $x;
+}
+test();
+
+//or
+
+function test(){
+	echo $GLOBAL['x'];
+}
+test();
+```
+
+#### Local
+Variables declared inside a function are local to that function and cannot be accused outside of it
+- Local variables are created when the function is called and destroyed after execution
+
+```php
+function test() {
+	$y = 69;
+	echo $y;
+}
+test(); //output: 69
+echo $y; //output: Error: Undefined variable $y
+```
+
