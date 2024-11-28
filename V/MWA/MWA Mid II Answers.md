@@ -78,3 +78,19 @@ test(); //output: 69
 echo $y; //output: Error: Undefined variable $y
 ```
 
+#### Static
+Local variables that retain their value even after multiple function calls
+- They are initialized after the function is called but are not destroyed after execution
+- Used for preserving state between calls for counting or other purposes
+
+```php
+function test() {
+	static $count = 0;
+	$count++;
+	echo $count . "\n";
+}
+test();// Outputs 1
+test();// Outputs 2
+test();// Outputs 3
+```
+
