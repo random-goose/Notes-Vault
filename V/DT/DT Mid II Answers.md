@@ -29,4 +29,3 @@
 - Inaccuracy in Low-Fidelity Prototypes
 - Over-Commitment
 - Alignment Problem
-# 
