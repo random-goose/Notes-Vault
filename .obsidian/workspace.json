@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V/MWA/MWA Mid II Answers.md",
+                "file": "Song for Slothie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MWA Mid II Answers"
+              "title": "Song for Slothie"
+            }
+          },
+          {
+            "id": "4e16f533fcc03309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V/MWA/MWA Fucking Everything DGAF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MWA Fucking Everything DGAF"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 573.5
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -163,12 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72bfbd49a6cee9df",
+  "active": "4e16f533fcc03309",
   "lastOpenFiles": [
-    "V/DT/DT Mid II Answers.md",
-    "Untitled.md",
-    "V/DT",
+    "Song for Slothie.md",
+    "V/MWA/MWA Fucking Everything DGAF.md",
+    "MWA Notes Fucking Everything.md",
     "V/MWA/MWA Mid II Answers.md",
+    "Untitled.canvas",
+    "V/DT/DT Mid II Answers.md",
+    "V/DT",
     "V/CC/CC Mid II.md",
     "V/LP/LP Mid II.md",
     "V/LP/LP IV.md",
@@ -176,8 +193,6 @@
     "V/CCM/CMA Mid II.md",
     "V/CCM/CMA Mid II Answers.md",
     "V/CCM/CCM Mid I.md",
-    "Song for Slothie.md",
-    "Untitled.canvas",
     "V/CC/CC Mid I.md",
     "V/CC/Untitled.md",
     "Not Like Us.md",
@@ -201,7 +216,6 @@
     "IV/DBMS/DBMS I.md",
     "IV/DBMS/DBMS II.md",
     "IV/DBMS/DBMS V.md",
-    "IV/DBMS/DBMS III.md",
     "Pics/DBMS.png",
     "IV/DBMS",
     "Pics/Pasted image 20240718193223.png",
