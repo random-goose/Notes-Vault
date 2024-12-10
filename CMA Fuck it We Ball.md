@@ -156,4 +156,14 @@ Specific Use Cases
 	- Inventory Management
 	- E-Commerce
 	- Loyalty Programs
-	- 
+- Manufacturing
+	- Supply Chain Management
+	- IoT Integration
+
+### Cloud Security and Monitoring Tools
+are essential for ensuring the safety and performance of cloud-based systems and applications.
+- IAM - Identity and Access Management - AWS IAM, Azure Active Directory
+- Data Encryption - AWS, Google Key Manager Service (KMS)
+- Cloud Monitoring - Grafana
+
+
