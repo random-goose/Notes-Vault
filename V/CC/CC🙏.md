@@ -129,7 +129,15 @@ OSI is a theoretical best used for understanding the structure of computer netwo
 - Is the basis of the internet
 
 
+## UDP v/s TCP
 
+| \                   | UDP                         | TCP                                |
+| ------------------- | --------------------------- | ---------------------------------- |
+| **Connection Type** | Connectionless              | Connection-oriented                |
+| **Reliability**     | Unreliable, no ack          | Reliable, ack, retransmission      |
+| **Speed**           | Faster, low overhead        | Slower due to connection mgmt      |
+| **Use Cases**       | Real-time apps, DNS, gaming | Web browsing, email, file transfer |
+| **Header Size**     | 8 bytes                     | 20-60 bytes                        |
 ## DNS
 Domain Name System is a hierarchical naming system that translates human-readable domain names into IP addresses that computers use to identify each other on the network. It is like a phone book for the internet.
 
