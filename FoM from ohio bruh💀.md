@@ -211,3 +211,120 @@ Electric = Siemens = S I E P M S
 	3. Identifying Deviations
 	4. Corrective Actions
 
+# Organizational Structure
+```mermaid
+graph TD
+  A[Organizational Structures] --> B[Divisional Structure]
+  A --> C[Simple Structure]
+  A --> D[Matrix Structure]
+  A --> E[Functional Structure]
+```
+
+
+```mermaid
+graph TD
+
+  B[Divisional Structure]
+ 
+
+  %% Divisional Structure
+
+  B --> B1[Division 1: Product/Region/Market]
+
+  B --> B2[Division 2: Product/Region/Market]
+
+  B --> B3[Division 3: Product/Region/Market]
+
+  B1 --> B1a[HR]
+
+  B1 --> B1b[Sales]
+
+  B1 --> B1c[Operations]
+
+  B2 --> B2a[HR]
+
+  B2 --> B2b[Sales]
+
+  B2 --> B2c[Operations]
+
+  B3 --> B3a[HR]
+
+  B3 --> B3b[Sales]
+
+  B3 --> B3c[Operations]
+```
+
+
+```mermaid
+graph TD
+
+	C[Simple Structure] --> C1[Owner/Manager]
+	C1 --> C2[Employees]
+```
+
+```mermaid
+graph TD
+	  D[Matrix Structure] --> D1[Functional Managers]
+
+  D --> D2[Project Managers]
+
+  D1 --> D3[Team Members]
+
+  D2 --> D3
+```
+
+
+```mermaid
+graph TD
+  E[Functional Structure] --> E1[Marketing Department]
+
+  E --> E2[Finance Department]
+
+  E --> E3[Operations Department]
+
+  E --> E4[HR Department]
+```
+
+## Factors to Consider
+1. Objectives and Goals
+2. Nature of Business
+3. Strategy
+4. Size of Organization
+5. Environment
+6. Technology
+7. Workforce
+8. Geographic Spread
+9. Decision-Making Process
+10. Resources and Budget
+11. Organizational Culture
+12. Legal and Regulatory Requirements
+
+# OB
+is the study of how individuals, groups, and structures affect and are affected by behavior within organizations. Its primary ain is to apply such knowledge toward improving an organization's effectiveness
+
+Nature - I D G F S H 
+- Interdisciplinary
+- Dynamic
+- Focus on Behavior
+- Science and Art
+- Human Centric
+- Goal-Oriented
+
+Scope: I G O I D W
+- Individual Behavior
+- Group Behavior
+- Organizational Aspects
+- Interpersonal Relations
+- Dynamics of Change
+- Work Environment
+
+
+Importance I P H D
+- Enhances understanding of workforce diversity
+- Improves decision-making process
+- Promotes better communication and leadership
+- Helps in managing conflict and stress
+- Drives employee motivation and performance
+
+
+
