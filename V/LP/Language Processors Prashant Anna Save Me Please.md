@@ -36,6 +36,7 @@ graph TD
 
     classDef phase fill:#f9f,stroke:#333,stroke-width:2px;
 
-    classDef process fill:#bbf,stroke:#333,stroke-width:1px;
+    classDef process fill:#bbf,stroke:#333,stroke-width:2px;
 ```
+
 
