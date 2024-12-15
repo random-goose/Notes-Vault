@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FoM from ohio bruh💀.md",
+                "file": "V/FOM/FoM from ohio bruh💀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "FoM from ohio bruh💀"
             }
+          },
+          {
+            "id": "895c3c64f9ed54b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V/LP/Language Processors Prashant Anna Save Me Please.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Language Processors Prashant Anna Save Me Please"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -179,16 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29b33f9c518b44d7",
+  "active": "13501b3924e94b63",
   "lastOpenFiles": [
+    "V/FOM/FoM from ohio bruh💀.md",
+    "V/LP/Language Processors Prashant Anna Save Me Please.md",
     "V/FOM/FOM Mid I.md",
-    "FoM from ohio bruh💀.md",
     "Untitled",
     "V/FOM/FOM III.md",
     "V/CC/CC🙏.md",
     "V/CC/CC To-Do.md",
-    "Network+Topologies-1344625362.png",
-    "CMA Fuck it We Ball.md",
+    "V/CC/Network+Topologies-1344625362.png",
+    "V/CCM/CMA Fuck it We Ball.md",
     "V/MWA/MWA Fucking Everything DGAF.md",
     "Song for Slothie.md",
     "MWA Notes Fucking Everything.md",
@@ -216,7 +230,6 @@
     "V/CC",
     "IV/DBMS/DBMS_To-Do.md",
     "V/MWA/WMA 1.md",
-    "MWA Syllabus.md",
     "V/MWA",
     "V",
     "Pasted image 20240725083449.png",
