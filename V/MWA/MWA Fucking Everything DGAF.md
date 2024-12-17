@@ -175,3 +175,128 @@ Importance of URLs:
 - SQL
 - Kotlin - Android
 - Swift - Apple
+
+
+# Unit IV
+
+### GET
+```javascript
+fetch('http://api.skibidi.com/users?69')
+	  .then (response => response.json())
+	  .then (data => consloe.log(data));
+```
+
+### POST
+```javascript
+fetch('http://api.skibidi.com/users', {
+	method: 'POST',
+	headers: {
+		'Content-Type' : 'application/json'
+	},
+	body: JSON.stringify ({
+		name: 'Rizzler',
+		email: 'rizzler@ohio.bruh'
+	})
+})
+	.then(respone => responce.JSON())
+	.then(data => console.log(data));
+```
+
+### PUT
+```js
+fetch('http://api.skibidi.com/users', {
+	method: 'PUT',
+	headers: {
+		'Content-Type' : 'application/json'
+	},
+	body: JSON.stringify ({
+		name: 'Rizzler',
+		email: 'rizzler@ohio.bruh'
+	})
+})
+	.then(respone => responce.JSON())
+	.then(data => console.log(data));
+```
+
+### DELETE
+```js
+fetch('http://api.skibidi.com', {
+	method: 'DELETE'
+})
+.then(response => console.log("Deleted"));
+```
+
+## PHP Operators
+Arithmetic:
+- +
+- -
+- *
+- /
+- %
+Assignment:
+- =
+- +=
+- -=
+- /=
+- * =
+- %=
+Comparison:
+- <
+- >
+- ==
+- ===
+- !=
+- >=
+- <=
+- !==
+Increment / Decrement:
+- ++
+- /- /-
+Logical:
+- &&
+- ||
+- ^
+- !
+
+## HTML Form
+```html
+<html>
+	<body>
+		<form action = 'Welcome.PHP' method = "POST">
+			Name : <input type="text" name = "name"> <br>
+			Email : <input type="text" name = "email">
+			<input type="submit" value="Submit">
+		</form>
+	</body>
+</html>
+```
+```PHP
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+	$name = $_POST['name'];
+	$email = $_POST['email'];
+	echo "welcome: " . htmlspecialchars($name) . "!<br>";
+	echo "your email is: " . htmlspecialchars($email) . ".<br>";
+	
+}
+```
+
+## Cookie 🍪
+
+```php
+setcookie(name, value, epire, path, domain, security, httponly);
+```
+
+```php
+<?php
+setcookie("username", "rizzler", time())
+```
+
+# Unit V
+## JDBC
+- Driver Manager
+- Driver
+- Connection
+- Statement
+- Result Set
+- SQL Exception

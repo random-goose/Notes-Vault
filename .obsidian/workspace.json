@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a6cafec8a88874b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V/FOM/FOM Mid I.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FOM Mid I"
-            }
-          },
-          {
-            "id": "29b33f9c518b44d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V/FOM/FoM from ohio bruh💀.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FoM from ohio bruh💀"
-            }
-          },
-          {
             "id": "895c3c64f9ed54b8",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "MWA Fucking Everything DGAF"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
