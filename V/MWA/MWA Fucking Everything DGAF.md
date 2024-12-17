@@ -177,6 +177,23 @@ Importance of URLs:
 - Swift - Apple
 
 
+# Unit III
+## Features of JavaScript
+1. Client Side Scripting
+3. Dynamically Typed
+4. Event - Driven Programming
+5. Lightweight and Fast
+6. Object-Oriented
+7. Asynchronous
+8. DOM Manipulation
+ECD LOAD
+Event Driven
+Client Side Scripting
+Dynamically Typed
+Lightweight
+Object-Oriented
+Asynchronous
+DOM
 # Unit IV
 
 ### GET
@@ -289,7 +306,52 @@ setcookie(name, value, epire, path, domain, security, httponly);
 
 ```php
 <?php
-setcookie("username", "rizzler", time())
+setcookie("username", "rizzler", time() + 3600, "/");
+echo "cookie 'username' is set! <br>"
+?>
+```
+
+```php
+<?php
+if(isset($_COOKIE["username"])) {
+	echo "welcome, " . htmlspecialchars($_COOKIE['username']) . ".<br>";
+} else {
+	echo "Cookie not set";
+}
+```
+
+## Session
+
+```php
+<?php
+session_start();
+
+$_SESSION["username"] = 'Rizzler';
+$_SESSION["email"] = 'hawk@tuah.rizz';
+
+echo "session set"
+
+if (isset($_SESSION["username"])) {
+	echo "Welcome " . $_SESSION["username"] . ". <br>"
+	echo "You email is " . $_SESSION["email"] . ". <br>"	
+} else {
+	echo "No session data found"
+}
+
+session_unset();
+
+session_destroy();
+
+if (isset($_SESSION["username"])) {
+	echo "Welcome " . $_SESSION["username"] . ". <br>"
+	echo "You email is " . $_SESSION["email"] . ". <br>"	
+} else {
+	echo "No session data found"
+}
+
+echo "Session destroyeyd."
+?>
+
 ```
 
 # Unit V
