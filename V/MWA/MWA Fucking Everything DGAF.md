@@ -169,4 +169,9 @@ Importance of URLs:
 - JavaScript
 - Python
 - PHP
-  
+- Ruby
+- C#
+- TypeScript
+- SQL
+- Kotlin - Android
+- Swift - Apple
