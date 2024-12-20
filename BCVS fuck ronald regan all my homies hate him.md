@@ -47,3 +47,130 @@ Apple's Product(RED) exemplifies CSR by addressing global health crises while em
 3. Employee Engagement
 4. Industry Leadership
 
+# Corporate Etiquette
+refers to the set of expected behaviors and manners that are considered professional in the workplace, especially within a corporate or business environment.
+It encompasses how employees interact with each other, clients, and superiors, and it plays a significant role in shaping a company's culture, fostering respect, and maintaining productivity.
+Adhering to it makes the atmosphere remain professional, fosters positive relations, and ensures smooth business operations.
+
+### Key Aspects:
+1. **Professional Appearance**
+	1. Dress Code
+	2. Grooming
+2. **Communication**
+	1. Verbal Comms
+	2. Non-Verbal Comms
+	3. Written Comms
+3. **Meetings and Interactions**
+	1. Punctuality
+	2. Preparation
+	3. Active Listening
+4. **Respect and Courtesy**
+	1. Politeness
+	2. Respect for Diversity
+	3. Privacy and Confidentiality
+5. **Workplace Conduct**
+	1. Collaboration
+	2. Conflict Resolution
+	3. Accountability
+6. **Digital Etiquette**
+	1. Email Etiquette
+	2. Social Media
+	3. Virtual Meetings
+
+### Good corporate etiquette
+1. Be Observant
+2. Seek Feedback
+3. Be Consistent
+4. Stay Updated
+
+### Bosses
+1. Communication
+2. Respect and Professionalism
+3. Feedback and Recognition
+4. Delegation and Empowerment
+5. Conflict Resolution
+6. Leading by Example
+
+### Staff
+1. Communication
+2. Professionalism
+3. Teamwork
+4. Responsibility and Accountability
+5. Conflict Resolution
+6. Continuous Improvement
+
+# Stress
+### Management
+1. Set Priorities P
+2. Practice Enduring Stressful Situations E
+3. Examine your Expectations E
+4. Live a Healthy Lifestyle L
+5. Learn to accept Change A
+6. Create a Social Network S
+PLEASE
+
+### Coping
+1. Excessive E
+2. Reduce Intake of Drugs D
+3. Nutrition N
+4. Priority Management P
+5. Time T
+6. Breathing and Relaxation B
+7. Talking T
+8. ACK the signs of stress A
+
+EDP NBA TT
+
+# Storytelling
+### Elements
+1. Characters
+2. Setting
+3. Plot
+4. Conflict
+5. Resolution
+6. Theme
+
+### Types
+1. Oral
+2. Visual
+3. Immersive
+4. Written
+
+### Importance
+1. Engagement
+2. Connection
+3. Education
+4. Cultural Preservation
+
+# Public Speaking
+### Elements P A D C (H) E F
+1. Preparation
+2. Audience Understanding
+3. Clear Message
+4. Delivery
+5. Engagement
+6. Feedback
+
+### Types I P E I
+1. Informative
+2. Persuasive
+3. Entertaining
+4. Inspirational
+
+### Tips P M S U C U A
+1. Plan and Practice
+2. Start Strong
+3. Maintain Eye Contact
+4. Use Body Language
+5. Control Nervousness
+6. Use Visual Aids
+7. Adapt to Feedback
+
+### Benefits C C C C
+1. Confidence
+2. Communication
+3. Influence (Clout)
+4. Connection
+
+# Personal Image
+# Emotional Intelligence
