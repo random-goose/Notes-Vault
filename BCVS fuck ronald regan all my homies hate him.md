@@ -173,4 +173,20 @@ EDP NBA TT
 4. Connection
 
 # Personal Image
+### Management
+1. Appearance A 
+2. Communication C
+3. Behavior and Etiquette B
+4. Digital Presence D
+5. Emotional Intelligence E
+6. Consistency and Authenticity C
+A C D C E B
+### Steps
+1. Conduct self assessment C 
+2. Define your desired image D
+3. Development plan P
+4. Develop core skills C
+5. Practice and feedback F
+6. Evaluate and evolve E
+C E C P D F
 # Emotional Intelligence
