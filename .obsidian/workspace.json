@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "BCVS fuck ronald regan all my homies hate him"
             }
+          },
+          {
+            "id": "613a80b02caf4764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uWu LP 😋.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "uWu LP 😋"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "8c4a90261e8b5f5c",
@@ -179,10 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7296ac765329594f",
+  "active": "613a80b02caf4764",
   "lastOpenFiles": [
-    "V/MWA/MWA Fucking Everything DGAF.md",
     "BCVS fuck ronald regan all my homies hate him.md",
+    "uWu LP 😋.md",
+    "V/MWA/MWA Fucking Everything DGAF.md",
     "V/FOM/FOM Mid I.md",
     "V/LP/Language Processors Prashant Anna Save Me Please.md",
     "V/FOM/FoM from ohio bruh💀.md",
@@ -216,7 +230,6 @@
     "V/CCM",
     "V/LP/LP Mid Questions.md",
     "V/CC",
-    "IV/DBMS/DBMS_To-Do.md",
     "V/MWA",
     "V",
     "Pasted image 20240725083449.png",
