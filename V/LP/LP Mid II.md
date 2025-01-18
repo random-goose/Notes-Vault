@@ -10,7 +10,7 @@
 	c. Induction Variables	
 	d. Code Motion
 - [x] Explain the different issues in the design of a code generator.
-- [ ] Briefly explain the peephole optimization algorithm.
+- [x] Briefly explain the peephole optimization algorithm.
 - [ ] Explain the code generation algorithm with an example.
 - [ ] Explain data flow analysis of structured programs?
 - [ ] Describe various register allocation optimization techniques?

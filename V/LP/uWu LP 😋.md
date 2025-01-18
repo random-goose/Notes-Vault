@@ -86,3 +86,13 @@ This document outlines a to-do list for key compiler design topics, broken down 
 -   [ ] Understand register allocation strategies.
 
 This comprehensive to-do list should provide a structured approach to learning compiler design. Remember to revisit and review these topics regularly.
+
+
+# Code Generation Algorithm
+is the process of converting intermediate representation of the source code into target machine code.
+Its primary goal is to produce efficient and correct machine code that adheres to the rules of target architecture.
+
+1. Input to Code Generation
+	1. The input to the code generator is the intermediate representation, which is the form of a graph like structure like a syntax tree or a DAG, the target code must execute the computation detailed in it
+2. Target Code Requirements
+	1. 
